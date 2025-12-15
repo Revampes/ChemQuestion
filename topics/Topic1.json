@@ -1,12 +1,12 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-15T14:43:00.924Z",
+    "lastUpdated": "2025-12-15T14:44:32.747Z",
     "totalQuestions": 1
   },
   "questions": [
     {
-      "id": "DSE2025_1_1765809780924",
+      "id": "DSE2025_1_1765809872747",
       "source": "DSE",
       "year": "2025",
       "questionNumber": "1",
@@ -23,14 +23,10 @@
         },
         {
           "option": "B",
-          "content": "(2) and (3) only"
-        },
-        {
-          "option": "C",
-          "content": "(1), (2) and (3)"
+          "content": "(2) only"
         }
       ],
-      "timestamp": "2025-12-15T14:43:00.924Z"
+      "timestamp": "2025-12-15T14:44:32.747Z"
     }
   ]
 }
