@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "topic": "Topic 4: Acids and Bases",
+    "lastUpdated": "2025-12-15T17:16:25.081Z",
+    "totalQuestions": 1
+  },
+  "questions": [
+    {
+      "id": "DSE2012_19_1765818915801",
+      "source": "DSE",
+      "year": "2012",
+      "questionNumber": "19",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "In which of the following processes would a colourless gas evolve?\n\t(1) Magnesium is added to dilute sulphuric acid\n\t(2) Ammonium chloride is heated with calcium hydroxide\n\t(3) Water is added to a solid mixture of citric acid and sodium hydrogencarbonate\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-15T17:15:15.801Z"
+    }
+  ]
+}
