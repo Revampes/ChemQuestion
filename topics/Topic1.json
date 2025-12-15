@@ -1,8 +1,161 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-15T15:43:01.020Z",
-    "totalQuestions": 0
+    "lastUpdated": "2025-12-15T16:49:06.328Z",
+    "totalQuestions": 4
   },
-  "questions": []
+  "questions": [
+    {
+      "id": "DSE2015_2_1765817114837",
+      "source": "DSE",
+      "year": "2015",
+      "questionNumber": "2",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following processes would NOT give oxygen?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "heating mercury(II) oxide strongly.",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "electrolysis of dilute sulphuric acid.",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "fractional distillation of liquefied air.",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "passing steam over heated magnesium.",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-15T16:45:14.837Z"
+    },
+    {
+      "id": "DSE2016_1_1765817181044",
+      "source": "DSE",
+      "year": "2016",
+      "questionNumber": "1",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "A flame test conducted for a sample gives a brick-red flame. The sample may contain",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "chalk",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "quartz",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "graphite",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "rock salt",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-15T16:46:21.044Z"
+    },
+    {
+      "id": "DSE2017_14_1765817251307",
+      "source": "DSE",
+      "year": "2017",
+      "questionNumber": "14",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following statements concerning oxygen gas is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Oxygen gas relights a glowing splint",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Oxygen gas turns moist pH paper red",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Oxygen gas turns moist pH paper blue",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Oxygen gas gives a ‘pop’ sound when tested with a burning splint",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-15T16:47:31.307Z"
+    },
+    {
+      "id": "DSE2018_1_1765817316349",
+      "source": "DSE",
+      "year": "2018",
+      "questionNumber": "1",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following processes is most suitable for extracting sodium chloride from sea water?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "electrolysis",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "crystallisation",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "simple distillation",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "fractional distillation",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-15T16:48:36.349Z"
+    }
+  ]
 }
