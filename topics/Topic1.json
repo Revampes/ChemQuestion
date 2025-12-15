@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-15T16:49:06.328Z",
-    "totalQuestions": 4
+    "lastUpdated": "2025-12-15T17:55:29.116Z",
+    "totalQuestions": 5
   },
   "questions": [
     {
@@ -156,6 +156,31 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-15T16:48:36.349Z"
+    },
+    {
+      "id": "DSE2014_5a_1765821320535",
+      "source": "DSE",
+      "year": "2014",
+      "questionNumber": "5a",
+      "type": "Structural question",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Concentrated acids are common reagents found in laboratories.\n(a)\tState a safety measure in handling concentrated acids in laboratories.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "Wearing protective gloves or plastic gloves or gown or safety goggles or any suitable PPE / adding concentrated acids into water when diluting the concentrated acids / use a fume cupboard. Not accepted: maintain a good ventilation.",
+        "image": null,
+        "keywords": [
+          "gloves",
+          "safety goggles",
+          "fume cupboard"
+        ]
+      },
+      "timestamp": "2025-12-15T17:55:20.535Z"
     }
   ]
 }
