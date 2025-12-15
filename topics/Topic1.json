@@ -1,23 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-15T15:42:34.599Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-15T15:43:01.020Z",
+    "totalQuestions": 0
   },
-  "questions": [
-    {
-      "id": "DSE2011_2_1765810122054",
-      "source": "DSE",
-      "year": "2011",
-      "questionNumber": "2",
-      "type": "Long question",
-      "topics": [
-        "Topic 1: Planel Earth"
-      ],
-      "question": "testing 2",
-      "image": null,
-      "options": null,
-      "timestamp": "2025-12-15T14:48:42.055Z"
-    }
-  ]
+  "questions": []
 }
