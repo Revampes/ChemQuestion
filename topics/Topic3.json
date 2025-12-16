@@ -1,47 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-15T17:16:24.483Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-16T08:37:13.191Z",
+    "totalQuestions": 0
   },
-  "questions": [
-    {
-      "id": "DSE2012_16_1765818730793",
-      "source": "DSE",
-      "year": "2012",
-      "questionNumber": "16",
-      "type": "Multiple-choice",
-      "marks": 1,
-      "topics": [
-        "Topic 3: Metals"
-      ],
-      "question": "Which of the following combinations is/are correct?\n\t     Object\t\t\t\tCorresponding corrosion prevention method/principle \n\t(1) aluminium window frames\t\tcathodic protection\n\t(2) galvanised iron buckets\t\tsacrificial protection\n\t(3) tin-plated iron cans\t\talloying",
-      "image": null,
-      "options": [
-        {
-          "option": "A",
-          "content": "(1) only",
-          "image": null
-        },
-        {
-          "option": "B",
-          "content": "(2) only",
-          "image": null
-        },
-        {
-          "option": "C",
-          "content": "(1) and (3) only",
-          "image": null
-        },
-        {
-          "option": "D",
-          "content": "(2) and (3) only",
-          "image": null
-        }
-      ],
-      "correctOption": "B",
-      "structuralAnswer": null,
-      "timestamp": "2025-12-15T17:12:10.793Z"
-    }
-  ]
+  "questions": []
 }
