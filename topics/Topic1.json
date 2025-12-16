@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-16T09:27:57.866Z",
-    "totalQuestions": 4
+    "lastUpdated": "2025-12-16T09:49:57.292Z",
+    "totalQuestions": 16
   },
   "questions": [
     {
@@ -156,6 +156,462 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-16T09:27:57.866Z"
+    },
+    {
+      "id": "DSE2014_20_1765877925617",
+      "source": "DSE",
+      "year": "2014",
+      "questionNumber": "20",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "The diagram below shows the set-up of an experiment:\n\n![](images/Topic1/dse2014-20-1765877925617-inline-q-qimg-1765877914229-562.png)\n\nWhich of the following methods may light up the light bulb?\n(1) heating the sodium bromide powder until molten.\n(2) adding deionised water to the sodium bromide powder.\n(3) replacing the sodium bromide powder with bromine liquid.\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:38:45.617Z"
+    },
+    {
+      "id": "DSE2015_2_1765877967075",
+      "source": "DSE",
+      "year": "2015",
+      "questionNumber": "2",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following processes would NOT give oxygen?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "heating mercury(II) oxide strongly.",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "electrolysis of dilute sulphuric acid.",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "fractional distillation of liquefied air.",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "passing steam over heated magnesium.",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:39:27.075Z"
+    },
+    {
+      "id": "DSE2015_23_1765878013189",
+      "source": "DSE",
+      "year": "2015",
+      "questionNumber": "23",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following can distinguish a sample of limestone powder from a sample of table salt?\n(1) adding water\n(2) performing a flame test\n(3) adding dilute hydrochloric acid\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:40:13.189Z"
+    },
+    {
+      "id": "DSE2016_1_1765878061417",
+      "source": "DSE",
+      "year": "2016",
+      "questionNumber": "1",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "A flame test conducted for a sample gives a brick-red flame. The sample may contain",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "chalk",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "quartz",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "graphite",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "rock salt",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:41:01.417Z"
+    },
+    {
+      "id": "DSE2017_14_1765878118367",
+      "source": "DSE",
+      "year": "2017",
+      "questionNumber": "14",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following statements concerning oxygen gas is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Oxygen gas relights a glowing splint",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Oxygen gas turns moist pH paper red",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Oxygen gas turns moist pH paper blue",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Oxygen gas gives a ‘pop’ sound when tested with a burning splint",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:41:58.367Z"
+    },
+    {
+      "id": "DSE2018_1_1765878187489",
+      "source": "DSE",
+      "year": "2018",
+      "questionNumber": "1",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following processes is most suitable for extracting sodium chloride from sea water?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "electrolysis",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "cyrstallisation",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "simple distillation",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "fractional distillation",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:43:07.489Z"
+    },
+    {
+      "id": "DSE2018_19_1765878229400",
+      "source": "DSE",
+      "year": "2018",
+      "questionNumber": "19",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "In an experiment, marble is heated in a boiling tube and the gas evolved is passed into a test tube with limewater. Which of the following statements concerning the experiment is/are correct?\n(1) The marble turns brick red upon heating.\n(2) The limewater turns milky initially but eventually becomes a colourless solution.\n(3) If marble is replaced by chalk, a similar observation would be obtained.\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:43:49.400Z"
+    },
+    {
+      "id": "DSE2021_3_1765878271102",
+      "source": "DSE",
+      "year": "2021",
+      "questionNumber": "3",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following statements is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Cracking of heavy oil can give ethene",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Electrolysis of sea water can give chlorine",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Strong heating of limestone can give oxygen",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Fractional distillation of liquefied air can give nitrogen",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:44:31.102Z"
+    },
+    {
+      "id": "DSE2022_1_1765878338267",
+      "source": "DSE",
+      "year": "2022",
+      "questionNumber": "1",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following statements concerning CO<sub>2</sub>(g) is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It can turn limewater milky",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It can be used to make dry ice",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It can be produced by adding marble to water",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It generally has a higher percentage in the air in urban areas than that in rural areas",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:45:38.267Z"
+    },
+    {
+      "id": "DSE2022_2_1765878468422",
+      "source": "DSE",
+      "year": "2022",
+      "questionNumber": "2",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "How many neutrons and electrons are there in a <sup>51</sup><sub>23</sub>X<sup>3+</sup> ion?\n\n\t     Number of neutrons\t\tNumber of electrons",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "23     20",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "28     23",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "28     20",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "51     23",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:47:48.422Z"
+    },
+    {
+      "id": "DSE2022_3_1765878515343",
+      "source": "DSE",
+      "year": "2022",
+      "questionNumber": "3",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following substances is an electrolyte?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "sodium chloride",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "silicon dioxide",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "methanol",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "mercury",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:48:35.343Z"
+    },
+    {
+      "id": "DSE2022_5_1765878577065",
+      "source": "DSE",
+      "year": "2022",
+      "questionNumber": "5",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Element X is one of the first twenty elements in the Periodic Table. X forms a stable XH<sub>4</sub><sup>+</sup>(aq) ion. Which group of the Periodic Table does X most likely belong to?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Group III",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Group IV",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Group V",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Group VI",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:49:37.065Z"
     }
   ]
 }
