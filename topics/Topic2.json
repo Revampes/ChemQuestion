@@ -1,8 +1,465 @@
 {
   "metadata": {
     "topic": "Topic 2: Microscopic World I",
-    "lastUpdated": "2025-12-16T08:37:05.378Z",
-    "totalQuestions": 0
+    "lastUpdated": "2025-12-16T13:09:44.777Z",
+    "totalQuestions": 12
   },
-  "questions": []
+  "questions": [
+    {
+      "id": "DSE2012_1_1765889656423",
+      "source": "DSE",
+      "year": "2012",
+      "questionNumber": "1",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following substances <b>CANNOT</b> conduct electricity?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Pt(s)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "PbBr<sub>2</sub>(l)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "C(graphite)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "CH<sub>3</sub>CH<sub>2</sub>OH(l)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T12:54:16.423Z"
+    },
+    {
+      "id": "DSE2012_8_1765889710235",
+      "source": "DSE",
+      "year": "2012",
+      "questionNumber": "8",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Silicon and carbon react to form silicon carbide. The crystal structure of silicon carbide is similar to that of diamond. Silicon carbide is very hard because",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "it has a high melting point",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "silicon atoms and carbon atoms form triple bonds",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "it has a giant network structure with strong covalent bonds",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "both silicon and carbon atoms have four outermost shell electrons",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T12:55:10.235Z"
+    },
+    {
+      "id": "DSE2012_5_1765889775830",
+      "source": "DSE",
+      "year": "2012",
+      "questionNumber": "5",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following statements concerning an <sup>131</sup>I atom and a <sup>131</sup>Xe atom is/are correct?\n\t(1) They have the same number of protons\n\t(2) They have different numbers of neutrons\n\t(3) they have different numbers of outermost shell electrons\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T12:56:15.830Z"
+    },
+    {
+      "id": "DSE2013_1_1765889875461",
+      "source": "DSE",
+      "year": "2013",
+      "questionNumber": "1",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Silicon is an element in Group IV of the Periodic Table. The oxide of silicon has the chemical formula SiO<sub>2</sub>. Which of the following statements about silicon and its oxide is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Silicon is a good conductor of heat",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Silicon exists as simple molecules",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "SiO<sub>2</sub> is a hard material at room temperature",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "SiO<sub>2</sub> dissolves in water to give an acidic solution",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T12:57:55.461Z"
+    },
+    {
+      "id": "DSE2013_2_1765889951147",
+      "source": "DSE",
+      "year": "2013",
+      "questionNumber": "2",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Suppose that element X has only two isotopes, 63X and 65X. The graph below shows the relative abundance of the two isotopes:\n\n![](images/Topic2/dse2013-2-1765889951147-inline-q-qimg-1765889939105-5785.png)\n\nWhich of the following is the relative atomic mass of X?\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "63.3",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "63.5",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "63.6",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "64.0",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T12:59:11.147Z"
+    },
+    {
+      "id": "DSE2013_4_1765890114429",
+      "source": "DSE",
+      "year": "2013",
+      "questionNumber": "4",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Scandium (Sc) is a metal. Scandium, in its compounds, exhibits only one oxidation number. The chemical formula of scandium nitrate is Sc(NO<sub>3</sub>)<sub>2</sub>. Which of the following is most likely to be the chemical formula of scandium phosphate?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Sc<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "ScPO<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Sc(PO<sub>4</sub>)<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Sc(PO<sub>4</sub>)<sub>3</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T13:01:54.429Z"
+    },
+    {
+      "id": "DSE2013_12_1765890182733",
+      "source": "DSE",
+      "year": "2013",
+      "questionNumber": "12",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Both radium (Ra) and calcium (Ca) belong to the same group of the Periodic Table. Which of the following statements is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Radium is a good conductor of electricity in the solid state",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Radium atoms readily donate electrons to form Ra<sup>2+</sup> ions",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Both radium and calcium become tarnished after exposed to air for some time",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Radium is less reactive than calcium",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T13:03:02.733Z"
+    },
+    {
+      "id": "DSE2014_1_1765890269057",
+      "source": "DSE",
+      "year": "2014",
+      "questionNumber": "1",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following atoms has the smallest number of neutrons?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "<sup>63</sup>Cu",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "<sup>59</sup>Co",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "<sup>58</sup>Ni",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "<sup>57</sup>Fe",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T13:04:29.057Z"
+    },
+    {
+      "id": "DSE2014_2_1765890342144",
+      "source": "DSE",
+      "year": "2014",
+      "questionNumber": "2",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following compounds has a giant ionic structure?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "N<sub>2</sub>O<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "HNO<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "NCl<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "NH<sub>4</sub>NO<sub>3</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T13:05:42.144Z"
+    },
+    {
+      "id": "DSE2015_3_1765890404462",
+      "source": "DSE",
+      "year": "2015",
+      "questionNumber": "3",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Element Q belongs to Group II of the Periodic Table. It combines with element R to give an ionic compound with chemical formula Q<sub>3</sub>R<sub>2</sub>. Which group of the Periodic Table does R belong to?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Group III",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Group V",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Group VI",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Group VII",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T13:06:44.462Z"
+    },
+    {
+      "id": "DSE2015_15_1765890461528",
+      "source": "DSE",
+      "year": "2015",
+      "questionNumber": "15",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following statements concerning ‘atom’ is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "All atoms do not carry net charges",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Mass is evenly distributed within an atom",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "All atoms consist of protons, neutrons and electrons",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "For all elements, atoms of the same element have the same mass number",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T13:07:41.528Z"
+    },
+    {
+      "id": "DSE2015_35_1765890532275",
+      "source": "DSE",
+      "year": "2015",
+      "questionNumber": "35",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "<b>1st statement</b>\nThe melting point of silicon is higher than that of aluminium\n\n<b>2nd statement</b>\nThe number of electrons in a silicon atom is greater than that in an aluminium atom",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T13:08:52.275Z"
+    }
+  ]
 }
