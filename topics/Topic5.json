@@ -1,47 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-15T17:16:25.676Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-16T08:37:27.969Z",
+    "totalQuestions": 0
   },
-  "questions": [
-    {
-      "id": "DSE2014_17_1765818978884",
-      "source": "DSE",
-      "year": "2014",
-      "questionNumber": "17",
-      "type": "Multiple-choice",
-      "marks": 1,
-      "topics": [
-        "Topic 5: Fossil fuels and Carbon Compounds"
-      ],
-      "question": "What are the advantages of using natural gas over using coal as a fuel in power stations?\n\t(1) In comparing with coal, natural gas burns more completely\n\t(2) In comparing with coal, natural gas has less sulphur-containing substances\n\t(3) Natural gas is a renewable energy source, but coal is not\n",
-      "image": null,
-      "options": [
-        {
-          "option": "A",
-          "content": "(1) and (2) only",
-          "image": null
-        },
-        {
-          "option": "B",
-          "content": "(1) and (3) only",
-          "image": null
-        },
-        {
-          "option": "C",
-          "content": "(2) and (3) only",
-          "image": null
-        },
-        {
-          "option": "D",
-          "content": "(1), (2) and (3)",
-          "image": null
-        }
-      ],
-      "correctOption": "A",
-      "structuralAnswer": null,
-      "timestamp": "2025-12-15T17:16:18.884Z"
-    }
-  ]
+  "questions": []
 }
