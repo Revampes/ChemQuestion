@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "topic": "Topic 10: Chemical Equilibrium",
+    "lastUpdated": "2025-12-16T09:00:31.519Z",
+    "totalQuestions": 1
+  },
+  "questions": [
+    {
+      "id": "DSE2014_19_1765875618642",
+      "source": "DSE",
+      "year": "2014",
+      "questionNumber": "19",
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "The set-up of an experiment is shown below. At room temperature, the system initially contains 40 cm3 of N2(g), 23 cm3 of O2(g) and 10 cm3 of He(g).\n\n![](images/Topic10/dse2014-19-1765875618642-inline-q-qimg-1765875583496-9540.png)\n\nThe plungers of the gas syringes are moved to and fro until there is no further change in the system. The system is then allowed to cool to room temperature. Which of the following statements concerning the experiment are correct?\n\n(1) Some copper powder would change to a black substance.\n(2) The total volume of the gases in the system would decrease by 25 cm3.\n(3) The same change in total volume of the gases would be observed if excess copper powder is replaced with excess iron powder.",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-16T09:00:18.642Z"
+    }
+  ]
+}
