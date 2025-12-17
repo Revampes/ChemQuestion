@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 2: Microscopic World I",
-    "lastUpdated": "2025-12-16T13:09:44.777Z",
-    "totalQuestions": 12
+    "lastUpdated": "2025-12-17T10:55:42.070Z",
+    "totalQuestions": 31
   },
   "questions": [
     {
@@ -472,6 +472,747 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-16T13:08:52.275Z"
+    },
+    {
+      "id": "DSE2016_2_1765964872108",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 2,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following is the electron diagram (only electrons in the outermost shells are shown) of lithium sulphide?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic2/dse2016-2-1765964872108-inline-opt-optimg-1765964812275-6507.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic2/dse2016-2-1765964872108-inline-opt-optimg-1765964834340-8150.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic2/dse2016-2-1765964872108-inline-opt-optimg-1765964845650-1412.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic2/dse2016-2-1765964872108-inline-opt-optimg-1765964859518-5105.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:47:52.108Z"
+    },
+    {
+      "id": "DSE2017_1_1765964943685",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 1,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Elements X and Y form an ionic compound with chemical formula X<sub>2</sub>Y. If the ion of X and the ion of Y have the same electronic arrangement, which of the following may this compound be?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "lithium oxide",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "aluminium oxide",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "potassium sulphide",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "magnesium chloride",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:49:03.685Z"
+    },
+    {
+      "id": "DSE2018_2_1765965064230",
+      "source": "DSE",
+      "paper": null,
+      "year": "2018",
+      "questionNumber": 2,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Neon exists as a gas at room temperature and pressure because",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "neon is chemically inert",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "neon molecules are monoatomic",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "the attractive force between neon atoms is weak",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "the outermost electron shell of a neon atom has an octet structure",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:51:04.230Z"
+    },
+    {
+      "id": "DSE2018_5_1765965114526",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Quartz (SiO<sub>2</sub>) is harder than dry ice (CO<sub>2</sub>) because",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "the atomic size of silicon is larger than that of carbon",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "a silicon atom has more electrons than a carbon atom has",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "quartz has a giant network structure, but dry ice consists of discrete molecules",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "the silicon-oxygen bond in quartz is strong, but the carbon-oxygen bond in dry ice is weak",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:51:54.526Z"
+    },
+    {
+      "id": "DSE2019_1_1765965158912",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 1,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following pairs of atomic numbers corresponds to elements with similar chemical properties?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "4, 14",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "8, 18",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "9, 35",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "19, 38",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:52:38.912Z"
+    },
+    {
+      "id": "DSE2017_16_1765965203415",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following statements concerning helium is/are correct?\n(1) Helium is chemically inert\n(2) Helium exists as diatomic molecules\n(3) The outermost electron shell of a helium atom has an octet structure\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:53:23.416Z"
+    },
+    {
+      "id": "DSE2019_2_1765965308966",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 2,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "The set-up of an experiment is shown below:\n\n![](images/Topic2/dse2019-2-1765965308966-inline-q-qimg-1765965300671-4594.png)\n\nWhat can be observed after the circuit is closed for a period of time?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "If X is dilute H<sub>2</sub>SO<sub>4</sub>, a purple patch migrates towards P",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "If X is dilute H<sub>2</sub>SO<sub>4</sub>, an orange patch migrates towards Q",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "If X is ethanol, a purple patch migrates towards P",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "If X is ethanol, an orange patch migrates towards Q",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:55:08.966Z"
+    },
+    {
+      "id": "DSE2019_24_1765965378047",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "<b>1st statement</b>\nMercury has good electrical conductivity at room temperature\n\n<b>2nd statement</b>\nMercury has delocalised electrons\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:56:18.047Z"
+    },
+    {
+      "id": "DSE2020_2_1765965423927",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 2,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following statements concerning quartz is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Quartz is soluble in hexane",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Quartz consists of SiO<sub>2</sub> molecules",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Quartz conducts electricity but delocalised electrons",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Quartz is hard because it has a giant covalent network structure",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:57:03.927Z"
+    },
+    {
+      "id": "DSE2020_3_1765965480008",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "What is the mass of oxygen in 24.0 g of CuSO<sub>4</sub>•5H2O(s)?\n(Relative atomic masses: H = 1.0, O = 16.0, S = 32.1, Cu = 63.5)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "6.2 g",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "9.6 g",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": " 13.8 g",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "21.7 g",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:58:00.008Z"
+    },
+    {
+      "id": "DSE2020_5_1765965522618",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following statements concerning francium (atomic number = 87) is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Francium has a higher melting point than potassium",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Francium forms cations more readily than potassium",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Francium is a weaker oxidising agent than potassium",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Francium has a fewer number of occupied electron shells than potassium",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T09:58:42.618Z"
+    },
+    {
+      "id": "DSE2020_14_1765965666498",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "The set-up below is used to show that hexane (C<sub>6</sub>H<sub>14</sub>) contains carbon and hydrogen. What are X and Y?\n\n![](images/Topic2/dse2020-14-1765965666498-inline-q-qimg-1765965655304-9295.png)\n\nX      Y",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "PbSO<sub>4</sub>(s) limewater",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "NaOH(s) bromine water",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "anhydrous CoCl<sub>2</sub>(s) limewater",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "anhydrous CuSO<sub>4</sub>(s) bromine water",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T10:01:06.498Z"
+    },
+    {
+      "id": "DSE2021_1_1765968513371",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 1,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "The melting point of a chemical species is 146℃. It is soluble in water and the solution formed does not conduct electricity. Which of the following structures would this chemical species have?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "giant ionic structure",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "giant metallic structure",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "giant covalent structure",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "simple molecular structure",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T10:48:33.371Z"
+    },
+    {
+      "id": "DSE2021_19_1765968560400",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "The composition by mass of element X in the compound K<sub>2</sub>XO<sub>4</sub> is 26.8%. Which of the following statements concerning X is/are correct?\n(Relative atomic masses: O = 16.0, K = 39.1)\n(1) X is a transition metal\n(2) X is an element in Group VI of the Periodic Table\n(3) X is an element in the fourth period of the Periodic Table\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T10:49:20.400Z"
+    },
+    {
+      "id": "DSE2021_21_1765968593798",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following solids has/have delocalised electrons in its/their structure(s)?\n(1) graphite\n(2) silicon\n(3) silver\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T10:49:53.798Z"
+    },
+    {
+      "id": "DSE2022_6_1765968669574",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Copper(II) phosphate is insoluble in water. What is the number of moles of Cu<sup>2+</sup>(aq) ions remaining in the solution of the resulting mixture when 0.04 mol of CuCl<sub>2</sub>(aq) is mixed with 0.02 mol of Na<sub>2</sub>PO<sub>4</sub>(aq)?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.00",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.01",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.02",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.03",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T10:51:09.574Z"
+    },
+    {
+      "id": "DSE2022_7_1765968720500",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "A white solid does NOT dissolve in both water and excess aqueous ammonia. Which of the following may this solid be?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Pb(NO<sub>3</sub>)<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Zn(OH)<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "MgSO<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "CaCO<sub>3</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T10:52:00.500Z"
+    },
+    {
+      "id": "DSE2022_10_1765968776767",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "6.54 g of zinc granules are added to 100.0 cm<sup>3</sup> of 1.0 M AgNO<sub>3</sub>(aq). After the reaction has completed, which of the following statements is correct?\n(Relative atomic masses: Zn = 65.4, Ag = 107.9)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Some zinc granules have reacted and no silver ions remain in the solution",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "All the zinc granules have reacted and no silver ions remain in the solution",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "All the zinc granules have reacted and some silver ions remain in the solution",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "The mass of the zinc granules reacted is equal to the mass of the solid product formed",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T10:52:56.767Z"
+    },
+    {
+      "id": "DSE2022_18_1765968815330",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following pairs of substances, when mixed, would release hydrogen gas?\n(1) copper and concentrated HCl(aq)\n(2) iron and H<sub>2</sub>SO<sub>4</sub>(aq)\n(3) calcium and NaOH(aq)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T10:53:35.330Z"
     }
   ]
 }
