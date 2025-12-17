@@ -1,7 +1,7 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-16T17:48:49.481Z",
+    "lastUpdated": "2025-12-17T09:32:08.805Z",
     "totalQuestions": 16
   },
   "questions": [
@@ -47,8 +47,9 @@
     {
       "id": "DSE2018_20_1765875373854",
       "source": "DSE",
+      "paper": "1A",
       "year": "2018",
-      "questionNumber": "20",
+      "questionNumber": 20,
       "type": "Multiple-choice",
       "marks": 1,
       "topics": [
@@ -80,7 +81,7 @@
       ],
       "correctOption": "A",
       "structuralAnswer": null,
-      "timestamp": "2025-12-16T08:56:13.854Z"
+      "timestamp": "2025-12-17T09:32:08.805Z"
     },
     {
       "id": "DSE2013_19_1765875427426",
