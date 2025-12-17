@@ -1,8 +1,360 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-16T08:37:13.191Z",
-    "totalQuestions": 0
+    "lastUpdated": "2025-12-17T11:19:16.088Z",
+    "totalQuestions": 9
   },
-  "questions": []
+  "questions": [
+    {
+      "id": "DSE2012_3_1765969847142",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "In an oxide of metal M, the mass percentage of M is 55.0%. What is the chemical formula of this oxide?\n(Relative atomic masses: O = 16.0, M = 39.1)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "MO<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "M<sub>2</sub>O",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "M<sub>2</sub>O<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "M<sub>2</sub>O<sub>3</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:10:47.142Z"
+    },
+    {
+      "id": "DSE2012_9_1765969910995",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following statements concerning an aluminium ore consisting mainly of Al<sub>2</sub>O<sub>3</sub> is correct?\n(Relative atomic masses: O = 16.0, Al = 27.0)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Carbon can be used to extract aluminium from this ore",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The abundance of this ore in the earth crust is very low",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "This ore contains more than 55% of aluminium by mass",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Aluminium can be extracted from this ore due to the advancement of technology in applying electricity\n",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:11:50.995Z"
+    },
+    {
+      "id": "DSE2012_16_1765969955491",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following combinations is/are correct?\n\t     <u>Object</u>\t\t\t\t<u>Corresponding corrosion prevention method/principle</u> \n\t(1) aluminium window frames\t\tcathodic protection\n\t(2) galvanised iron buckets\t\tsacrificial protection\n\t(3) tin-plated iron cans\t\t\talloying",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:12:35.491Z"
+    },
+    {
+      "id": "DSE2013_5_1765970007423",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following methods can be used to obtain magnesium from magnesium compounds?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "electrolysis of molten magnesium compound",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "electrolysis of an aqueous solution of a magnesium compound",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "heating magnesium oxide with carbon",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "heating magnesium oxide strongly",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:13:27.423Z"
+    },
+    {
+      "id": "DSE2013_6_1765970103194",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the set-ups shown below can best be used to anodise an aluminium object?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic3/dse2013-6-1765970103194-inline-opt-optimg-1765970059976-9820-mj9x4udn-4023.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic3/dse2013-6-1765970103194-inline-opt-optimg-1765970072974-5597-mj9x4vye-7454.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic3/dse2013-6-1765970103194-inline-opt-optimg-1765970088102-9424-mj9x4x44-3814.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic3/dse2013-6-1765970103194-inline-opt-optimg-1765970101000-3376-mj9x4yby-2020.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:15:03.194Z"
+    },
+    {
+      "id": "DSE2013_7_1765970159226",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Both the frame and gear system of a bicycle are made of steel. Which of the following combinations can be used to prevent these parts of the bicycle from rusting?\n\n\t     <u>Frame</u>\t\t<u>Gear system</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "painting\t\tgreasing",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "painting\t\tgalvanising",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "tin-plating\t\tgreasing",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "tin-plating\t\tgalvanising",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:15:59.226Z"
+    },
+    {
+      "id": "DSE2013_13_1765970232012",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Titanium (Ti) is a metal. 2.66 g of a sample of titanium powder is heated in excess oxygen until the metal is completely oxidised. The mass of the oxide formed is 4.44 g. Which of the following is the empirical formula of the oxide formed?\n(Relative atomic masses: O = 16.0, Ti = 47.9)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "TiO",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Ti<sub>2</sub>O<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Ti<sub>3</sub>O<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "TiO<sub>2</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:17:12.012Z"
+    },
+    {
+      "id": "DSE2013_19_1765970267148",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following statements about limestone is/are correct?\n(1) It gives a golden yellow flame in a flame test\n(2) It gives a colourless gas when heated strongly\n(3) It dissolves in dilute sulphuric acid to give a clear solution\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:17:47.148Z"
+    },
+    {
+      "id": "DSE2013_23_1765970311367",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "To which of the following molecules is/are the ‘octet rule’ NOT applicable?\n(1) OF<sub>2</sub>\n(2) NO<sub>2</sub>\n(3) CS<sub>2</sub>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-17T11:18:31.367Z"
+    }
+  ]
 }
