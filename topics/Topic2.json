@@ -8,6 +8,7 @@
     {
       "id": "DSE2012_1_1765889656423",
       "source": "DSE",
+      "paper": "1A",
       "year": "2012",
       "questionNumber": "1",
       "type": "Multiple-choice",
@@ -46,6 +47,7 @@
     {
       "id": "DSE2012_8_1765889710235",
       "source": "DSE",
+      "paper": "1A",
       "year": "2012",
       "questionNumber": "8",
       "type": "Multiple-choice",
@@ -84,6 +86,7 @@
     {
       "id": "DSE2012_5_1765889775830",
       "source": "DSE",
+      "paper": "1A",
       "year": "2012",
       "questionNumber": "5",
       "type": "Multiple-choice",
@@ -122,6 +125,7 @@
     {
       "id": "DSE2013_1_1765889875461",
       "source": "DSE",
+      "paper": "1A",
       "year": "2013",
       "questionNumber": "1",
       "type": "Multiple-choice",
@@ -160,6 +164,7 @@
     {
       "id": "DSE2013_2_1765889951147",
       "source": "DSE",
+      "paper": "1A",
       "year": "2013",
       "questionNumber": "2",
       "type": "Multiple-choice",
@@ -198,6 +203,7 @@
     {
       "id": "DSE2013_4_1765890114429",
       "source": "DSE",
+      "paper": "1A",
       "year": "2013",
       "questionNumber": "4",
       "type": "Multiple-choice",
@@ -236,6 +242,7 @@
     {
       "id": "DSE2013_12_1765890182733",
       "source": "DSE",
+      "paper": "1A",
       "year": "2013",
       "questionNumber": "12",
       "type": "Multiple-choice",
@@ -274,6 +281,7 @@
     {
       "id": "DSE2014_1_1765890269057",
       "source": "DSE",
+      "paper": "1A",
       "year": "2014",
       "questionNumber": "1",
       "type": "Multiple-choice",
@@ -312,6 +320,7 @@
     {
       "id": "DSE2014_2_1765890342144",
       "source": "DSE",
+      "paper": "1A",
       "year": "2014",
       "questionNumber": "2",
       "type": "Multiple-choice",
@@ -350,6 +359,7 @@
     {
       "id": "DSE2015_3_1765890404462",
       "source": "DSE",
+      "paper": "1A",
       "year": "2015",
       "questionNumber": "3",
       "type": "Multiple-choice",
@@ -388,6 +398,7 @@
     {
       "id": "DSE2015_15_1765890461528",
       "source": "DSE",
+      "paper": "1A",
       "year": "2015",
       "questionNumber": "15",
       "type": "Multiple-choice",
@@ -426,6 +437,7 @@
     {
       "id": "DSE2015_35_1765890532275",
       "source": "DSE",
+      "paper": "1A",
       "year": "2015",
       "questionNumber": "35",
       "type": "Multiple-choice",

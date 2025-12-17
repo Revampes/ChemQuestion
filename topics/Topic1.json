@@ -86,6 +86,7 @@
     {
       "id": "DSE2013_19_1765875427426",
       "source": "DSE",
+      "paper": "1A",
       "year": "2013",
       "questionNumber": "19",
       "type": "Multiple-choice",
@@ -124,6 +125,7 @@
     {
       "id": "DSE2014_19_1765875618642",
       "source": "DSE",
+      "paper": "1A",
       "year": "2014",
       "questionNumber": "19",
       "type": "Multiple-choice",
@@ -162,6 +164,7 @@
     {
       "id": "DSE2014_20_1765877925617",
       "source": "DSE",
+      "paper": "1A",
       "year": "2014",
       "questionNumber": "20",
       "type": "Multiple-choice",
@@ -200,6 +203,7 @@
     {
       "id": "DSE2015_2_1765877967075",
       "source": "DSE",
+      "paper": "1A",
       "year": "2015",
       "questionNumber": "2",
       "type": "Multiple-choice",
@@ -238,6 +242,7 @@
     {
       "id": "DSE2015_23_1765878013189",
       "source": "DSE",
+      "paper": "1A",
       "year": "2015",
       "questionNumber": "23",
       "type": "Multiple-choice",
@@ -276,6 +281,7 @@
     {
       "id": "DSE2016_1_1765878061417",
       "source": "DSE",
+      "paper": "1A",
       "year": "2016",
       "questionNumber": "1",
       "type": "Multiple-choice",
@@ -314,6 +320,7 @@
     {
       "id": "DSE2017_14_1765878118367",
       "source": "DSE",
+      "paper": "1A",
       "year": "2017",
       "questionNumber": "14",
       "type": "Multiple-choice",
@@ -352,6 +359,7 @@
     {
       "id": "DSE2018_1_1765878187489",
       "source": "DSE",
+      "paper": "1A",
       "year": "2018",
       "questionNumber": "1",
       "type": "Multiple-choice",
@@ -390,6 +398,7 @@
     {
       "id": "DSE2018_19_1765878229400",
       "source": "DSE",
+      "paper": "1A",
       "year": "2018",
       "questionNumber": "19",
       "type": "Multiple-choice",
@@ -428,6 +437,7 @@
     {
       "id": "DSE2021_3_1765878271102",
       "source": "DSE",
+      "paper": "1A",
       "year": "2021",
       "questionNumber": "3",
       "type": "Multiple-choice",
@@ -466,6 +476,7 @@
     {
       "id": "DSE2022_1_1765878338267",
       "source": "DSE",
+      "paper": "1A",
       "year": "2022",
       "questionNumber": "1",
       "type": "Multiple-choice",
@@ -504,6 +515,7 @@
     {
       "id": "DSE2022_2_1765878468422",
       "source": "DSE",
+      "paper": "1A",
       "year": "2022",
       "questionNumber": "2",
       "type": "Multiple-choice",
@@ -542,6 +554,7 @@
     {
       "id": "DSE2022_3_1765878515343",
       "source": "DSE",
+      "paper": "1A",
       "year": "2022",
       "questionNumber": "3",
       "type": "Multiple-choice",
@@ -580,6 +593,7 @@
     {
       "id": "DSE2022_5_1765878577065",
       "source": "DSE",
+      "paper": "1A",
       "year": "2022",
       "questionNumber": "5",
       "type": "Multiple-choice",
