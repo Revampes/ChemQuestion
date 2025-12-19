@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
+    "lastUpdated": "2025-12-19T10:13:03.919Z",
+    "totalQuestions": 1
+  },
+  "questions": [
+    {
+      "id": "DSE2015_23_1766139061825",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "<b>1st statement</b>\nDuring anodisation, the aluminium oxide on the surface of aluminium is reduced to metal\n\n<b>2nd statement</b>\nThe corrosion resistance of aluminium can be enhanced by anodisation",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:11:01.825Z"
+    }
+  ]
+}
