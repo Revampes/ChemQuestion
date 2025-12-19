@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 2: Microscopic World I",
-    "lastUpdated": "2025-12-17T10:55:42.070Z",
-    "totalQuestions": 31
+    "lastUpdated": "2025-12-19T09:58:02.326Z",
+    "totalQuestions": 32
   },
   "questions": [
     {
@@ -1213,6 +1213,46 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-17T10:53:35.330Z"
+    },
+    {
+      "id": "DSE2014_5_1766137968942",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals"
+      ],
+      "question": "Hydrated salt X·nH<sub>2</sub>O contains 51.16% of water by mass. Given that the molar mass of X is 120.3 g, what is n?\n(Relative atomic masses: H = 1.0, O = 16.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "5",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "7",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "10",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T09:52:48.942Z"
     }
   ]
 }
