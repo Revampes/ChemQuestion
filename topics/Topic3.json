@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-17T11:19:16.088Z",
-    "totalQuestions": 9
+    "lastUpdated": "2025-12-19T09:58:02.326Z",
+    "totalQuestions": 14
   },
   "questions": [
     {
@@ -355,6 +355,203 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-17T11:18:31.367Z"
+    },
+    {
+      "id": "DSE2014_3_1766137833207",
+      "source": "DSE",
+      "paper": null,
+      "year": "2014",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "The diagram below shows three iron nails of the same size and shape each immersed in a liquid.\n\n![](images/Topic3/dse2014-3-1766137833207-inline-q-qimg-1766137793704-6876-mjcp4pzp-8447.png)\n\nWhich of the following arrangements represents the ascending order of rate of corrosion of the iron nails?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Z < Y < X",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Y < Z < X",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Z < X < Y",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "X < Z < Y",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T09:50:33.207Z"
+    },
+    {
+      "id": "DSE2014_4_1766137907542",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Refer to the following chemical equation:\nFe<sub>2</sub>O<sub>3</sub>(s) + 3CO(g)→2Fe(s) + 3CO<sub>2</sub>(g)\nN moles of Fe<sub>2</sub>O<sub>3</sub> are allowed to react with 2 N moles of CO under suitable conditions until the reaction stops. How many moles of Fe are formed?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "N",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2N",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "2/3N",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "4/3N",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T09:51:47.542Z"
+    },
+    {
+      "id": "DSE2014_5_1766137968942",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals"
+      ],
+      "question": "Hydrated salt X·nH<sub>2</sub>O contains 51.16% of water by mass. Given that the molar mass of X is 120.3 g, what is n?\n(Relative atomic masses: H = 1.0, O = 16.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "5",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "7",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "10",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T09:52:48.942Z"
+    },
+    {
+      "id": "DSE2014_14_1766138069117",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "As shown in the diagram below, the glowing splint relights when solid Z is heated.\nWhich of the following chemicals may Z be?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "HgO",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Al<sub>2</sub>O<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "CaCO<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "MgCO<sub>3</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T09:54:29.118Z"
+    },
+    {
+      "id": "DSE2015_5_1766138245580",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A gel containing NaCl(aq), K<sub>3</sub>Fe(CN)<sub>6</sub>(aq) and phenolphthalein is yellow in colour. An iron nail is put into the gel and corrodes after a period of time. Which of the following colours would NOT be observed in the gel after the iron nail corrodes?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "blue",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "pink",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "grey",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "yellow",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T09:57:25.580Z"
     }
   ]
 }
