@@ -1,8 +1,204 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2025-12-16T08:37:19.252Z",
-    "totalQuestions": 0
+    "lastUpdated": "2025-12-19T08:20:17.849Z",
+    "totalQuestions": 5
   },
-  "questions": []
+  "questions": [
+    {
+      "id": "DSE2012_2_1766131985334",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 2,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A small amount of a powder can dissolve in water to form a clear solution. When this solution is mixed with K<sub>2</sub>CO<sub>3</sub>(aq), a white precipitate is obtained. What can the powder be?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "sodium sulphate",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "calcium sulphate",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "sodium hydroxide",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "calcium hydroxide",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T08:13:05.334Z"
+    },
+    {
+      "id": "DSE2012_4_1766132089262",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following statements concerning CH<sub>3</sub>COOH and HCl is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CH<sub>3</sub>COOH is a stronger acid than HCl",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The pH of 0.1 M CH<sub>3</sub>COOH(aq) is lower than that of 0.1 M HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Both CH<sub>3</sub>COOH(aq) and HCl(aq) react with NH<sub>3</sub>(aq), each giving a salt",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both CH<sub>3</sub>COOH(aq) and HCl(aq) react with Ag(s), each giving a colourless gas",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T08:14:49.263Z"
+    },
+    {
+      "id": "DSE2012_10_1766132174191",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A sample of 1.02 g of potassium hydrogenphthalate (C<sub>8</sub>H<sub>5</sub>O<sub>4</sub>K) is dissolved completely in distilled water, and then diluted to 250.0 cm<sup>3</sup>. What is the concentration of the solution obtained?\n(Relative atomic masses: H = 1.0, C = 12.0, O = 16.0, K = 39.1)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.004 M",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.010 M",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.020 M",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "4.080 M",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T08:16:14.191Z"
+    },
+    {
+      "id": "DSE2012_14_1766132243931",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following pairs of reactants would react in water to give out the largest amount of heat?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "1 mol of HCl and 1 mol of KOH",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "1 mol of H<sub>2</sub>SO<sub>4</sub> and 2 mol of KOH",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "1 mol of (COOH)<sub>2</sub> and 2 mol of KOH",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "1 mol of CH<sub>3</sub>COOH and 1 mol of KOH",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T08:17:23.931Z"
+    },
+    {
+      "id": "DSE2012_19_1766132279013",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "In which of the following processes would a colourless gas evolve?\n(1) Magnesium is added to dilute sulphuric acid\n(2) Ammonium chloride is heated with calcium hydroxide\n(3) Water is added to a solid mixture of citric acid and sodium hydrogencarbonate\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T08:17:59.013Z"
+    }
+  ]
 }
