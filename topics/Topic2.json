@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 2: Microscopic World I",
-    "lastUpdated": "2025-12-19T09:58:02.326Z",
-    "totalQuestions": 32
+    "lastUpdated": "2025-12-19T10:13:03.919Z",
+    "totalQuestions": 34
   },
   "questions": [
     {
@@ -1253,6 +1253,88 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T09:52:48.942Z"
+    },
+    {
+      "id": "DSE2015_23_1766139061825",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "<b>1st statement</b>\nDuring anodisation, the aluminium oxide on the surface of aluminium is reduced to metal\n\n<b>2nd statement</b>\nThe corrosion resistance of aluminium can be enhanced by anodisation",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:11:01.825Z"
+    },
+    {
+      "id": "DSE2017_3_1766139117167",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals",
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "A hydrocarbon burns completely in oxygen to give 17.6 g of carbon dioxide and 3.6 g of water. Which of the following is the empirical formula of the hydrocarbon?\n(Relative atomic masses: H = 1.0, C = 12.0, O = 16.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CH",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CH<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "C<sub>2</sub>H<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "C<sub>2</sub>H<sub>5</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:11:57.167Z"
     }
   ]
 }
