@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-19T08:20:18.709Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-19T10:13:03.919Z",
+    "totalQuestions": 3
   },
   "questions": [
     {
@@ -43,6 +43,87 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T08:19:34.725Z"
+    },
+    {
+      "id": "DSE2016_9_1766138978064",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "1 mol of a hydrocarbon requires 9 mol of oxygen for complete combustion. Which of the following may be this hydrocarbon?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "C<sub>6</sub>H<sub>6</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "C<sub>6</sub>H<sub>10</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "C<sub>6</sub>H<sub>12</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "C<sub>6</sub>H<sub>14</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:09:38.064Z"
+    },
+    {
+      "id": "DSE2017_3_1766139117167",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals",
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "A hydrocarbon burns completely in oxygen to give 17.6 g of carbon dioxide and 3.6 g of water. Which of the following is the empirical formula of the hydrocarbon?\n(Relative atomic masses: H = 1.0, C = 12.0, O = 16.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CH",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CH<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "C<sub>2</sub>H<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "C<sub>2</sub>H<sub>5</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:11:57.167Z"
     }
   ]
 }
