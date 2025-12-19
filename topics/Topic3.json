@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-19T09:58:02.326Z",
-    "totalQuestions": 14
+    "lastUpdated": "2025-12-19T10:13:03.919Z",
+    "totalQuestions": 22
   },
   "questions": [
     {
@@ -552,6 +552,323 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T09:57:25.580Z"
+    },
+    {
+      "id": "DSE2015_7_1766138678537",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Consider the following set-ups:\n\n![](images/Topic3/dse2015-7-1766138678537-inline-q-qimg-1766138675298-4313-mjcpnzus-8149.png)\n\nWhich hook would corrode first?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "iron hook (1)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "iron hook (2)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "copper hook (3)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "copper hook (4)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:04:38.537Z"
+    },
+    {
+      "id": "DSE2016_3_1766138736167",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Consider the following information concerning metal Y:\n(1) Y reacts vigorously with water\n(2)  Y forms an oxide with chemical formula Y2O\n(3) An atom of Y has five occupied electron shells\nY may be",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "silver (Ag)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "caesium (Cs)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "strontium (Sr)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "rubidium (Rb)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:05:36.167Z"
+    },
+    {
+      "id": "DSE2016_4_1766138860682",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Consider the following experimental set-up:\nWhich of the following would NOT be X?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "iron",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "zinc",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "copper",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "magnesium",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:07:40.682Z"
+    },
+    {
+      "id": "DSE2016_5_1766138907988",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Tin plating is used to prevent iron cans from rusting because",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "tin provides sacrificial protection to iron",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "tin layer prevents iron from exposure to air",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "tin is higher than iron in the metal reactivity series",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "tin and iron form an alloy which does not corrode",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:08:27.988Z"
+    },
+    {
+      "id": "DSE2016_9_1766138978064",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "1 mol of a hydrocarbon requires 9 mol of oxygen for complete combustion. Which of the following may be this hydrocarbon?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "C<sub>6</sub>H<sub>6</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "C<sub>6</sub>H<sub>10</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "C<sub>6</sub>H<sub>12</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "C<sub>6</sub>H<sub>14</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:09:38.064Z"
+    },
+    {
+      "id": "DSE2015_23_1766139061825",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "<b>1st statement</b>\nDuring anodisation, the aluminium oxide on the surface of aluminium is reduced to metal\n\n<b>2nd statement</b>\nThe corrosion resistance of aluminium can be enhanced by anodisation",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:11:01.825Z"
+    },
+    {
+      "id": "DSE2017_3_1766139117167",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals",
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "A hydrocarbon burns completely in oxygen to give 17.6 g of carbon dioxide and 3.6 g of water. Which of the following is the empirical formula of the hydrocarbon?\n(Relative atomic masses: H = 1.0, C = 12.0, O = 16.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CH",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CH<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "C<sub>2</sub>H<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "C<sub>2</sub>H<sub>5</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:11:57.167Z"
+    },
+    {
+      "id": "DSE2017_9_1766139156392",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following processes would NOT produce metal?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "heating zinc oxide",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "heating copper(II) oxide with carbon",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "electrolysis of molten lithium chloride",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "heating iron(III) oxide with carbon monoxide",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T10:12:36.392Z"
     }
   ]
 }
