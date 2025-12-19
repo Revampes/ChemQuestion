@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2025-12-19T08:20:17.849Z",
-    "totalQuestions": 5
+    "lastUpdated": "2025-12-19T09:58:03.789Z",
+    "totalQuestions": 6
   },
   "questions": [
     {
@@ -199,6 +199,46 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T08:17:59.013Z"
+    },
+    {
+      "id": "DSE2015_5_1766138245580",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A gel containing NaCl(aq), K<sub>3</sub>Fe(CN)<sub>6</sub>(aq) and phenolphthalein is yellow in colour. An iron nail is put into the gel and corrodes after a period of time. Which of the following colours would NOT be observed in the gel after the iron nail corrodes?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "blue",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "pink",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "grey",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "yellow",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-19T09:57:25.580Z"
     }
   ]
 }
