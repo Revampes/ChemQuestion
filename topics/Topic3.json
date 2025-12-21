@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-19T10:13:03.919Z",
-    "totalQuestions": 22
+    "lastUpdated": "2025-12-21T06:35:22.896Z",
+    "totalQuestions": 28
   },
   "questions": [
     {
@@ -869,6 +869,242 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T10:12:36.392Z"
+    },
+    {
+      "id": "DSE2017_13_1766298385092",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "In which of the following cases would the iron nail corrode fastest?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic3/dse2017-13-1766298385092-inline-opt-optimg-1766298246634-4756-mjfcreas-7029.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic3/dse2017-13-1766298385092-inline-opt-optimg-1766298262629-4371-mjfcrfqy-9478.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic3/dse2017-13-1766298385092-inline-opt-optimg-1766298277778-5538-mjfcrgto-6803.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic3/dse2017-13-1766298385092-inline-opt-optimg-1766298373233-8914-mjfcrikj-2077.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-21T06:26:25.092Z"
+    },
+    {
+      "id": "DSE2017_19_1766298526121",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following statements concerning anhydrous copper(II) sulphate powder are correct?\n(1) It is white in colour\n(2) It dissolves in water to give a blue solution\n(3) It can be obtained from heating hydrated copper(II) sulphate crystals",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-21T06:28:46.121Z"
+    },
+    {
+      "id": "DSE2018_3_1766298652589",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "A certain mass of a sample of Ag<sub>2</sub>O(s) is strongly heated in a test tube. Which of the following shows the relationship of the mass of the contents (m) in the test tube with time (t) from the start of heating?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic3/dse2018-3-1766298652589-inline-opt-optimg-1766298590132-9193-mjfcrqke-3654.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic3/dse2018-3-1766298652589-inline-opt-optimg-1766298605075-3054-mjfcrs0b-1742.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic3/dse2018-3-1766298652589-inline-opt-optimg-1766298618391-1279-mjfcrt3c-3724.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic3/dse2018-3-1766298652589-inline-opt-optimg-1766298632677-2721-mjfcru8e-2509.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-21T06:30:52.589Z"
+    },
+    {
+      "id": "DSE2018_4_1766298738085",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "If 8.0 g of sulphur dioxide gas contains n molecules, how many molecules does 2.0 g of oxygen gas contain?\n(Relative atomic masses: O = 16.0, S = 32.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2.0 n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "4.0 n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.25 n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.50 n",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-21T06:32:18.085Z"
+    },
+    {
+      "id": "DSE2018_6_1766298793742",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Dilute sodium hydroxide solution is added to a 0.1 M solution until in excess. Which of the following combinations is correct?\n<u>Solution</u>\t\t\t<u>Observation</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "zinc sulphate\t\twhite precipitate formed",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "calcium nitrate\t\twhite precipitate formed",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "lead(II) nitrate\t\tyellow precipitate formed",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "iron(III) sulphate\t\tdirty green precipitate formed",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-21T06:33:13.742Z"
+    },
+    {
+      "id": "DSE2018_7_1766298821346",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following statements concerning iron and magnesium is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Iron is ductile but magnesium is not",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Iron corrodes less readily than magnesium",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The abundance of magnesium is higher than that of iron in the earth crust",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both magnesium and iron can have more than one oxidation number in their oxides",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-21T06:33:41.346Z"
     }
   ]
 }
