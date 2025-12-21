@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-17T09:32:08.805Z",
-    "totalQuestions": 16
+    "lastUpdated": "2025-12-21T06:35:16.669Z",
+    "totalQuestions": 17
   },
   "questions": [
     {
@@ -628,6 +628,46 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-16T09:49:37.065Z"
+    },
+    {
+      "id": "DSE2017_19_1766298526121",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following statements concerning anhydrous copper(II) sulphate powder are correct?\n(1) It is white in colour\n(2) It dissolves in water to give a blue solution\n(3) It can be obtained from heating hydrated copper(II) sulphate crystals",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-21T06:28:46.121Z"
     }
   ]
 }
