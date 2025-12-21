@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2025-12-19T10:13:03.919Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-21T06:35:15.801Z",
+    "totalQuestions": 2
   },
   "questions": [
     {
@@ -45,6 +45,46 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T10:11:01.825Z"
+    },
+    {
+      "id": "DSE2017_13_1766298385092",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "In which of the following cases would the iron nail corrode fastest?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic7/dse2017-13-1766298385092-inline-opt-optimg-1766298246634-4756-mjfcrkn9-166.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic7/dse2017-13-1766298385092-inline-opt-optimg-1766298262629-4371-mjfcrm6e-2299.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic7/dse2017-13-1766298385092-inline-opt-optimg-1766298277778-5538-mjfcrnbm-5421.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic7/dse2017-13-1766298385092-inline-opt-optimg-1766298373233-8914-mjfcrorv-6848.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-21T06:26:25.092Z"
     }
   ]
 }
