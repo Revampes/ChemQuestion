@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 2: Microscopic World I",
-    "lastUpdated": "2025-12-19T10:13:03.919Z",
-    "totalQuestions": 34
+    "lastUpdated": "2025-12-22T04:15:39.921Z",
+    "totalQuestions": 35
   },
   "questions": [
     {
@@ -1335,6 +1335,46 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T10:11:57.167Z"
+    },
+    {
+      "id": "DSE2021_18_1766376901212",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals"
+      ],
+      "question": "Both aluminium and iron form oxides on their surfaces when they are exposed in air. The oxide of aluminium can prevent the aluminium from further corrosion, but the oxide of iron cannot prevent the iron from further corrosion, but the oxide of iron cannot prevent the iron from further corrosion. What is/are the reason(s)?\n(1) The oxide layer of aluminium adheres firmly on the aluminium surface while the oxide of iron\nadheres loosely on the iron surface\n(2) The oxide of aluminium is insoluble in water while the oxide of iron is soluble in water\n(3) The oxide of aluminium has a giant ionic structure while the oxide of iron does not",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T04:15:01.213Z"
     }
   ]
 }
