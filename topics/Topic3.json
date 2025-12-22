@@ -1,7 +1,7 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-22T04:01:46.805Z",
+    "lastUpdated": "2025-12-22T04:02:06.969Z",
     "totalQuestions": 35
   },
   "questions": [
@@ -1272,8 +1272,7 @@
       "type": "Multiple-choice",
       "marks": 1,
       "topics": [
-        "Topic 3: Metals",
-        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+        "Topic 3: Metals"
       ],
       "question": "Which of the following metal oxides can be reduced to a metal when heated with carbon using a Bunsen burner?\n(1) lead(II) oxide\n(2) magnesium oxide\n(3) copper(II) oxide",
       "image": null,
@@ -1299,9 +1298,9 @@
           "image": null
         }
       ],
-      "correctOption": "A",
+      "correctOption": "C",
       "structuralAnswer": null,
-      "timestamp": "2025-12-22T03:49:18.696Z"
+      "timestamp": "2025-12-22T04:02:06.969Z"
     },
     {
       "id": "DSE2020_7_1766375439981",
