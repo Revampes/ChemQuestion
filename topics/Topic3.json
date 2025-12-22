@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-22T04:02:53.719Z",
-    "totalQuestions": 35
+    "lastUpdated": "2025-12-22T04:15:39.921Z",
+    "totalQuestions": 40
   },
   "questions": [
     {
@@ -1379,6 +1379,202 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-22T03:52:55.542Z"
+    },
+    {
+      "id": "DSE2020_15_1766376455675",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "The observations of heating three metal carbonates are shown below:\n\n![](images/Topic3/dse2020-15-1766376455675-inline-q-qimg-1766376446190-7806-mjgn7z6o-6870.png)\n\nWhich of the following shows the decreasing order of reactivity of the metals?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Z > Y > X",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Y > X > Z",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Z > X > Y",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Y > Z > X",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T04:07:35.675Z"
+    },
+    {
+      "id": "DSE2020_17_1766376540816",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following ways is/are acceptable in the storage of the chemical concerned?\n(1) Store concentrated H<sub>2</sub>SO<sub>4</sub>(l) in a copper container\n(2) Store concentrated AgNO<sub>3</sub>(aq) in a brown glass container\n(3) Store concentrated Pb(NO<sub>3</sub>)<sub>2</sub>(aq) in an iron container",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T04:09:00.816Z"
+    },
+    {
+      "id": "DSE2021_4_1766376658856",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "M, Q and R are three different metals. When their oxides are separately heated, only the oxide of M gives a metallic lustre. When their carbonates are separately heated with a Bunsen burner, only the carbonate of R gives no observable change. Which of the following shows the increasing order of reactivity of the metals?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "R < Q < M",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "R < M < Q",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "M < R < Q",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "M < Q < R",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T04:10:58.857Z"
+    },
+    {
+      "id": "DSE2021_18_1766376901212",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I",
+        "Topic 3: Metals"
+      ],
+      "question": "Both aluminium and iron form oxides on their surfaces when they are exposed in air. The oxide of aluminium can prevent the aluminium from further corrosion, but the oxide of iron cannot prevent the iron from further corrosion, but the oxide of iron cannot prevent the iron from further corrosion. What is/are the reason(s)?\n(1) The oxide layer of aluminium adheres firmly on the aluminium surface while the oxide of iron\nadheres loosely on the iron surface\n(2) The oxide of aluminium is insoluble in water while the oxide of iron is soluble in water\n(3) The oxide of aluminium has a giant ionic structure while the oxide of iron does not",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T04:15:01.213Z"
+    },
+    {
+      "id": "DSE2022_15_1766376926399",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "P, Q and R are three different metals. When dilute HCl(aq) is added to these metals separately, only Q and R give a colourless gas. When zinc is added to aqueous solutions of their chlorides separately, only the chloride of R shows no observable change. Which of the following shows the increasing order of the reducing power of the metals?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "R < Q < P",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Q < P < R",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "P < Q < R",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "P < R < Q",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T04:15:26.399Z"
     }
   ]
 }
