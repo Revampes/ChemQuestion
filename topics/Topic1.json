@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-21T06:35:16.669Z",
-    "totalQuestions": 17
+    "lastUpdated": "2025-12-22T09:23:05.215Z",
+    "totalQuestions": 18
   },
   "questions": [
     {
@@ -668,6 +668,46 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-21T06:28:46.121Z"
+    },
+    {
+      "id": "DSE2012_20_1766393893699",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following methods can be used to distinguish between ZnCl2(aq) and CaBr(aq)?\n(1) adding NH3(aq)\n(2) performing flame test\n(3) evaporating to dryness",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T08:58:13.699Z"
     }
   ]
 }
