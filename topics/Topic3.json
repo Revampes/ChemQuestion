@@ -1,7 +1,7 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-22T04:00:43.753Z",
+    "lastUpdated": "2025-12-22T04:01:00.113Z",
     "totalQuestions": 35
   },
   "questions": [
@@ -1109,7 +1109,7 @@
     {
       "id": "DSE2018_9_1766375065041",
       "source": "DSE",
-      "paper": null,
+      "paper": "1A",
       "year": "2018",
       "questionNumber": 9,
       "type": "Multiple-choice",
@@ -1143,7 +1143,7 @@
       ],
       "correctOption": "A",
       "structuralAnswer": null,
-      "timestamp": "2025-12-22T04:00:03.586Z"
+      "timestamp": "2025-12-22T04:01:00.112Z"
     },
     {
       "id": "DSE2019_6_1766375201719",
