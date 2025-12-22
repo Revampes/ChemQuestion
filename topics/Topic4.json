@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2025-12-19T09:58:03.789Z",
-    "totalQuestions": 6
+    "lastUpdated": "2025-12-22T09:23:18.244Z",
+    "totalQuestions": 25
   },
   "questions": [
     {
@@ -239,6 +239,748 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T09:57:25.580Z"
+    },
+    {
+      "id": "DSE2012_20_1766393893699",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following methods can be used to distinguish between ZnCl2(aq) and CaBr(aq)?\n(1) adding NH3(aq)\n(2) performing flame test\n(3) evaporating to dryness",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T08:58:13.699Z"
+    },
+    {
+      "id": "DSE2013_3_1766393932775",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Solid Y is soluble in cold water. When an aqueous solution of Y is added separately to sodium hydroxide solution and to acidified silver nitrate solution, a white precipitate is formed in both cases. Which of the following compounds might Y be?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "ammonium carbonate",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "zinc carbonate",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "lead(II) chloride",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "magnesium chloride",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T08:58:52.775Z"
+    },
+    {
+      "id": "DSE2013_8_1766394034015",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following reaction routes can best be used to prepare barium sulphate from barium carbonate?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic4/dse2013-8-1766394034015-inline-opt-optimg-1766393986485-5065-mjgy7ely-1262.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic4/dse2013-8-1766394034015-inline-opt-optimg-1766394003676-9263-mjgy7fq5-2183.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic4/dse2013-8-1766394034015-inline-opt-optimg-1766394017175-145-mjgy7i01-9130.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic4/dse2013-8-1766394034015-inline-opt-optimg-1766394031576-3936-mjgy7kmq-515.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:00:34.015Z"
+    },
+    {
+      "id": "DSE2013_9_1766394118748",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following statements about potassium hydroxide solution is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "When potassium hydroxide solution is added to iron(III) sulphate solution, a dirty green precipitate is formed",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "When potassium hydroxide solution is heated with ammonium chloride solution, ammonia gas is liberated",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Dilute potassium hydroxide solution contains K<sup>+</sup>(aq) ions, H<sup>+</sup>(aq) ions and OH<sup>-</sup>(aq) ions",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Concentrated potassium hydroxide solution is corrosive",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:01:58.748Z"
+    },
+    {
+      "id": "DSE2013_10_1766394183068",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Consider the four solutions W, X, Y and Z listed below:\nW: 0.01 mol dm<sup>-3</sup> HNO<sub>3</sub>(aq)\nX: 0.01 mol dm<sup>-3</sup> H<sub>2</sub>SO<sub>4</sub>(aq)\nY: 0.01 mol dm<sup>-3</sup> KOH(aq)\nZ: 0.10 mol dm<sup>-3</sup> KOH(aq)\nWhich of the following represents the four solutions arranged in increasing order of pH?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "W, X, Y, Z",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "W, X, Z, Y",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "X, W, Y, Z",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "X, W, Z, Y",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:03:03.069Z"
+    },
+    {
+      "id": "DSE2013_11_1766394203580",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following pairs of aqueous solutions, when mixed, would give a precipitate?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "lead(II) nitrate and ammonia",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "copper(II) sulphate and sodium nitrate",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "calcium chloride and sodium nitrate",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "iron(II) sulphate and acidified potassium dichromate",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:03:23.580Z"
+    },
+    {
+      "id": "DSE2014_6_1766394287819",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "50.0 cm<sup>3</sup> of 0.6 M FeSO<sub>4</sub>(aq) is mixed with 150.0 cm<sup>3</sup> of 0.2 M Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq). What is the concentration of\nSO<sub>4</sub><sup>2-</sup> (aq) ions in the resulting mixture?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.3 M",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.4 M",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.6 M",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.8 M",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:04:47.819Z"
+    },
+    {
+      "id": "DSE2014_7_1766394428916",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following pairs of aqueous solutions, upon mixing, would have the lowest electrical conductivity?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "20.0 cm<sup>3</sup> of 0.1 M HNO<sub>3</sub> \t\tand \t20.0 cm<sup>3</sup> of 0.1 M KOH",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "20.0 cm<sup>3</sup> of 0.1 M H<sub>2</sub>SO<sub>4</sub> \t\tand \t20.0 cm<sup>3</sup> of 0.1 M Ba(OH)<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "20.0 cm<sup>3</sup> of 0.1 M CH<sub>3</sub>COOH \tand \t20.0 cm<sup>3</sup> of 0.1 M NH<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "20.0 cm<sup>3</sup> of 0.1 M HCl \t\tand \t20.0 cm<sup>3</sup> of 0.1 M C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (glucose)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:07:08.916Z"
+    },
+    {
+      "id": "DSE2014_13_1766394474841",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following gases, after dissolved in 1 dm<sup>3</sup> of water, would give a solution with the highest pH?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.002 mol of NO<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.002 mol of SO<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.002 mol of NH<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.002 mol of HCl",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:07:54.841Z"
+    },
+    {
+      "id": "DSE2014_21_1766394632754",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following processes would show a blue colour?\n(1) adding litmus to NaOH(aq)\n(2) mixing CuSO<sub>4</sub>(s) and NH<sub>3</sub>(aq)\n(3) K<sub>3</sub>Fe(CN)<sub>6</sub>(aq) and FeCl<sub>2</sub>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:10:32.754Z"
+    },
+    {
+      "id": "DSE2015_1_1766394658668",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 1,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "All aqueous solutions contain H<sup>+</sup>(aq) ions",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The pH of all acid solutions is greater than zero",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "All acidic compounds contain hydrogen as their constituent elements",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "A ‘corrosive’ hazard warning label must be displayed on all reagent bottles containing acid solution",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:10:58.668Z"
+    },
+    {
+      "id": "DSE2015_4_1766394683820",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following salts CANNOT be prepared from the reaction of a metal with a dilute acid?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "zinc sulphate",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "iron(II) chloride",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "calcium chloride",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "copper(II) sulphate",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:11:23.820Z"
+    },
+    {
+      "id": "DSE2015_8_1766394720803",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "In an experiment, 25.0 cm<sup>3</sup> of HCl(aq) is measured with apparatus X and is placed in apparatus Y. The HCl(aq) in Y is then titrated with a standard NaOH(aq). Which of the following combinations is correct?\n<u>X</u>\t\t\t         <u>Y</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "measuring cylinder\t\tbeaker",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "measuring cylinder\t\tconical flash",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "pipette\t\t\tbeaker",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "pipette\t\t\tconical flask",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:12:00.804Z"
+    },
+    {
+      "id": "DSE2015_9_1766394872742",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "In an experiment to prepare calcium sulphate, excess dilute sulphuric acid is added to 10.0 cm<sup>3</sup> of 1.0 mol dm<sup>-3</sup> calcium nitrate solution. Which of the following is the theoretical mass of the calcium sulphate obtained?\n(Relative atomic masses: O = 16.0, S = 32.1, Ca = 40.1)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.68 g",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "1.36 g",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "2.72 g",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "4.08 g",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:14:32.742Z"
+    },
+    {
+      "id": "DSE2016_6_1766394911931",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "The pH of a sample of sulphuric acid is 2.6. 100 cm<sup>3</sup> of this sample is mixed with 100 cm<sup>3</sup> of water. What is the pH of the resulting mixture?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "5.8",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2.9",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "2.6",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "1.3",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:15:11.931Z"
+    },
+    {
+      "id": "DSE2016_7_1766394963532",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Consider the following experimental set-up:\n\n![](images/Topic4/dse2016-7-1766394963532-inline-q-qimg-1766394958520-9621-mjgy7ll3-5745.png)\n\nA colourless gas is given out when water is dropped to the mixture. Which of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Oxalic acid ionises in water to give hydrogen ions",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Zinc ionises in water to give zinc ions",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Water reacts with oxalic acid to give the colourless gas",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Water reacts with zinc to give the colourless gas",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:16:03.532Z"
+    },
+    {
+      "id": "DSE2016_8_1766395249813",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following pairs of substances, when mixed together, can be used to prepare copper(II) sulphate crystals?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CuO(s) \tand \tH<sub>2</sub>SO<sub>4</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CuO(s) \tand \tMgSO<sub>4</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Cu(s) \tand \tH<sub>2</sub>SO<sub>4</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Cu(s) \tand \tMgSO<sub>4</sub>(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:20:49.813Z"
+    },
+    {
+      "id": "DSE2016_18_1766395297904",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following statements concerning vinegar is/are correct?\n(1) The process of forming hydrogen ions in vinegar is reversible\n(2) Neutralisation occurs when sugar is added to vinegar\n(3) The pH of vinegar used in kitchen is around 1",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:21:37.904Z"
+    },
+    {
+      "id": "DSE2016_19_1766395380893",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "The hazard warning label below is displayed on a bottle containing chemical Z:\n\n![](images/Topic4/dse2016-19-1766395380893-inline-q-qimg-1766395374765-5967-mjgy7mqt-1877.png)\n\nWhich of the following chemicals may Z be:\n(1) sodium\n(2) trichloromethane\n(3) concentrated aqueous ammonia",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T09:23:00.893Z"
     }
   ]
 }
