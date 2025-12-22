@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2025-12-21T06:35:15.801Z",
-    "totalQuestions": 2
+    "lastUpdated": "2025-12-22T03:53:16.628Z",
+    "totalQuestions": 4
   },
   "questions": [
     {
@@ -85,6 +85,86 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-21T06:26:25.092Z"
+    },
+    {
+      "id": "DSE2019_15_1766375300761",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following methods can slow down the corrosion of an iron-made object?\n(1) Connect it to a piece of lead\n(2) Plate a layer of copper coating completely onto its surface\n(3) Connect it to the cathode of a chemical cell",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:48:20.761Z"
+    },
+    {
+      "id": "DSE2019_17_1766375358696",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following metal oxides can be reduced to a metal when heated with carbon using a Bunsen burner?\n(1) lead(II) oxide\n(2) magnesium oxide\n(3) copper(II) oxide",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:49:18.696Z"
     }
   ]
 }
