@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-21T06:35:22.896Z",
-    "totalQuestions": 28
+    "lastUpdated": "2025-12-22T03:53:20.270Z",
+    "totalQuestions": 35
   },
   "questions": [
     {
@@ -1105,6 +1105,281 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-21T06:33:41.346Z"
+    },
+    {
+      "id": "DSE2018_9_1766375065041",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "X, Y and Z are different metals. When they are placed separately in NaCl(aq), only Y gives colourless gas bubbles. When each of their oxides is heated strongly, only the oxide of X gives a colourless gas. Which of the following shows the decreasing order of reactivity of these three metals?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Y > Z > X",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "X > Y > Z",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Y > X > Z",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Z > Y > X",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:44:25.041Z"
+    },
+    {
+      "id": "DSE2019_6_1766375201719",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "2.53 g of NaHCO<sub>3</sub>(s) was heated until no further changes and 1.59 g of a solid remained. Which of the following equations matches with the experimental result?\n(Relative atomic masses: H = 1.0, C =12.0, O = 16.0, Na = 23.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "NaHCO<sub>3</sub>(s) → NaOH(s) + CO<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2NaHCO<sub>3</sub>(s) → Na<sub>2</sub>O<sub>2</sub>(s) + 2CO<sub>2</sub>(g) + H<sub>2</sub>(g)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "2NaHCO<sub>3</sub>(s) → Na<sub>2</sub>CO<sub>3</sub>(s) + H<sub>2</sub>O(g) + CO<sub>2</sub>(g)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "2NaHCO<sub>3</sub>(s) → Na<sub>2</sub>O(s) + H<sub>2</sub>O(g) + 2CO<sub>2</sub>(g)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:46:41.719Z"
+    },
+    {
+      "id": "DSE2019_8_1766375246368",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "39.2 g of an oxide of rubidium (Rb) contains 28.5 g of rubidium. What is the empirical formula of this oxide?\n(Relative atomic masses: O = 16.0, Rb = 85.5)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "RbO",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "RbO<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Rb<sub>2</sub>O",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Rb<sub>2</sub>O<sub>2</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:47:26.368Z"
+    },
+    {
+      "id": "DSE2019_15_1766375300761",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following methods can slow down the corrosion of an iron-made object?\n(1) Connect it to a piece of lead\n(2) Plate a layer of copper coating completely onto its surface\n(3) Connect it to the cathode of a chemical cell",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:48:20.761Z"
+    },
+    {
+      "id": "DSE2019_17_1766375358696",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following metal oxides can be reduced to a metal when heated with carbon using a Bunsen burner?\n(1) lead(II) oxide\n(2) magnesium oxide\n(3) copper(II) oxide",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:49:18.696Z"
+    },
+    {
+      "id": "DSE2020_7_1766375439981",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Refer to the information in the table below:\n\n![](images/Topic3/dse2020-7-1766375439981-inline-q-qimg-1766375427145-400-mjgmf97i-978.png)\n\nWhich is the best material to make aircraft body?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "P",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Q",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "R",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "S",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:50:39.981Z"
+    },
+    {
+      "id": "DSE2020_8_1766375575542",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Consider the following experimental set-up:\n\n![](images/Topic3/dse2020-8-1766375575542-inline-q-qimg-1766375491375-8913-mjgmfawl-7745.png)\n\nIn which of the following combinations would the iron nail rust the fastest?\n<u>X</u>\t\t<u>Y</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "hydrogen\tpetrol",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "hydrogen\tdistilled water",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "oxygen\tpetrol",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "oxygen\tdistilled water",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-22T03:52:55.542Z"
     }
   ]
 }
