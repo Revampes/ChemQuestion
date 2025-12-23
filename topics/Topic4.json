@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2025-12-22T09:30:59.245Z",
-    "totalQuestions": 25
+    "lastUpdated": "2025-12-23T06:31:51.436Z",
+    "totalQuestions": 51
   },
   "questions": [
     {
@@ -981,6 +981,1022 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-22T09:23:00.893Z"
+    },
+    {
+      "id": "DSE2017_2_1766469744265",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 2,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following statements concerning hydrochloric acid is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It is a mineral acid",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It completely ionises in water",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It contains aqueous hydrogen ions",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It does not contain aqueous hydroxide ions",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:02:24.265Z"
+    },
+    {
+      "id": "DSE2017_6_1766469765777",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following is NOT the appropriate substance for preparing magnesium sulphate by directly mixing it with dilute sulphuric acid?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "magnesium metal",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "magnesium oxide",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "magnesium nitrate",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "magnesium carbonate",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:02:45.777Z"
+    },
+    {
+      "id": "DSE2017_10_1766469819804",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Calcium phosphate is insoluble in water. What is the theoretical number of moles of calcium phosphate obtained when 100.0 cm<sup>3</sup> of 0.30 mol dm<sup>-3</sup> CaCl<sub>2</sub>(aq) is mixed with 300.0 cm<sup>3</sup> of 0.10 mol dm<sup>-3</sup> Na<sub>3</sub>P0<sub>4</sub>(aq)?\n(Relative atomic masses: O = 16.0, Na = 23.0, P = 31.0, Cl = 35.5, Ca = 40.1)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.010",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.015",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.020",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.030",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:03:39.804Z"
+    },
+    {
+      "id": "DSE2017_11_1766469848351",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following statements concerning zinc is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It forms a soluble oxide when placed in NH<sub>3</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It acts as reducing agent when placed in HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It undergoes oxidation when placed in MgCl<sub>2</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It forms an acidic solution when placed in hot H<sub>2</sub>O(l)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:04:08.351Z"
+    },
+    {
+      "id": "DSE2017_17_1766469914554",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following statements concerning NaOH(aq) and NH<sub>3</sub>(aq) is/are correct?\n(1) Both of them can with MgCl<sub>2</sub>(aq)\n(2) Both of them can form a deep blue solution with Cu(OH)<sub>2</sub>(s)\n(3) NaOH(aq) can react with CH<sub>3</sub>COOH(aq), but NH<sub>3</sub>(aq) cannot",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:05:14.554Z"
+    },
+    {
+      "id": "DSE2017_21_1766469962075",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following can distinguish a sample of AgNO<sub>3</sub>(aq) from a sample of NaNO<sub>3</sub>(aq)?\n(1) adding Cu(NO<sub>3</sub>)<sub>2</sub>(aq) to the samples\n(2) adding HCl(aq) to the samples\n(3) adding KOH(aq) to the samples",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:06:02.075Z"
+    },
+    {
+      "id": "DSE2018_6_1766469988586",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Dilute sodium hydroxide solution is added to a 0.1 M solution until in excess. Which of the following combinations is correct?\n<u>Solution</u>\t\t<u>Observation</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "zinc sulphate\twhite precipitate formed",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "calcium nitrate\twhite precipitate formed",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "lead(II) nitrate\tyellow precipitate formed",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "iron(III) sulphate\tdirty green precipitate formed",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:06:28.586Z"
+    },
+    {
+      "id": "DSE2018_10_1766470034189",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following reagents does NOT react with copper?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2 M H<sub>2</sub>SO<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2 M HNO<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "16 M H<sub>2</sub>SO<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "16 M HNO<sub>3</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:07:14.189Z"
+    },
+    {
+      "id": "DSE2018_11_1766470115181",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Consider the solutions W, X, Y and Z below:\nW   |   100 cm<sup>3</sup> of 0.20 M HNO<sub>3</sub>(aq)\nX    |   50 cm<sup>3</sup> of 0.20 M HCl(aq)\nY    |   100 cm<sup>3</sup> of 0.20 M CH<sub>3</sub>CO<sub>2</sub>H(aq)\nZ    |   50 cm<sup>3</sup> of 0.10 M NaOH(aq)\nWhich of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "The pH of Y equals -log 0.2",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Mixing W and Z gives a neutral solution",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The pH of the mixture of W and X is lower than that of W",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "The pH of the mixture of W and X is lower than that of the mixture of X and Y",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:08:35.181Z"
+    },
+    {
+      "id": "DSE2018_24_1766470250501",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "<b>1st statement</b>\nTo completely neutralise 1 mole of HCl(aq), the number of moles of NH<sub>3</sub>(aq) needed is more than the number of moles of KOH(aq) needed\n\n<b>2nd statement</b>\nNH<sub>3</sub>(aq) is a weaker alkali than KOH(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:10:50.501Z"
+    },
+    {
+      "id": "DSE2019_4_1766470447031",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "25.00 cm<sup>3</sup> of 0.051 M C<sub>4</sub>H<sub>4</sub>O<sub>4</sub>(aq) can completely neutralise 22.18 cm<sup>3</sup> of 0.115 M KOH(aq). What is the basicity of the acid C<sub>4</sub>H<sub>4</sub>O<sub>4</sub>?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "1",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "3",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "4",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:14:07.031Z"
+    },
+    {
+      "id": "DSE2019_5_1766470702902",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "25.00 cm<sup>3</sup> of 0.50 M lead(II) nitrate solution is mixed with 50.00 cm<sup>3</sup> of 1.00 M sodium chloride solution. Insoluble lead(II) chloride is formed during mixing. What is the concentration of Cl<sup>-</sup>(aq) in the mixture?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.33 M",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.50 M",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.75 M",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "1.50 M",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:18:22.902Z"
+    },
+    {
+      "id": "DSE2019_16_1766470759844",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following chemicals can be used to distinguish concentrated hydrochloric acid from concentrated nitric acid?\n(1) sodium carbonate solid\n(2) silver nitrate solution\n(3) copper metal",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:19:19.844Z"
+    },
+    {
+      "id": "DSE2019_20_1766470775231",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Aqueous calcium hydroxide can be used to\n(1) neutralise acidic substances in soil\n(2) distinguish carbon dioxide from carbon monoxide\n(3) remove sulphur dioxide from a polluted air sample",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:19:35.231Z"
+    },
+    {
+      "id": "DSE2020_4_1766470846919",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following combinations would give a brown gas when putting X in Y?\n<u>X</u>\t\t\t        <u>Y</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "magnesium\t\tconcentrated nitric acid",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "magnesium\t\tconcentrated sulphuric acid",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "magnesium oxide\tconcentrated sulphuric acid",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "magnesium oxide\tconcentrated nitric acid",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:20:46.919Z"
+    },
+    {
+      "id": "DSE2020_11_1766470888898",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A reaction occurs when water is dropped into the mixture in the set-up below. A colourless gas is given out\n\n![](images/Topic4/dse2020-11-1766470888898-inline-q-qimg-1766470880927-787-mji7j0c8-8283.png)\n\nWhat is the role of water in this reaction?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Water reacts with sodium carbonate to give the colourless gas",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Water reacts with citric acid to give the colourless gas",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Water is a medium for the formation of carbonate ions from sodium carbonate",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Water is a medium for the formation of hydrogen ions from citric acid",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:21:28.898Z"
+    },
+    {
+      "id": "DSE2020_17_1766471147759",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following ways is/are acceptable in the storage of the chemical concerned?\n(1) Store concentrated H<sub>2</sub>SO<sub>4</sub>(l) in a copper container\n(2) Store concentrated AgNO<sub>3</sub>(aq) in a brown glass container\n(3) Store concentrated Pb(NO<sub>3</sub>)<sub>2</sub>(aq) in an iron container",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:25:47.759Z"
+    },
+    {
+      "id": "DSE2020_18_1766471188917",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following steps can be involved in preparing copper(II) chloride crystals?\n(1) Add CuCO<sub>3</sub>(s) to HCl(aq)\n(2) Add Cu(NO<sub>3</sub>)<sub>2</sub>(s) to NaCl(aq)\n(3) Add Cu(s) to HCl(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:26:28.917Z"
+    },
+    {
+      "id": "DSE2021_4_1766471204301",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "M, Q and R are three different metals. When their oxides are separately heated, only the oxide of M gives a metallic lustre. When their carbonates are separately heated with a Bunsen burner, only the carbonate of R gives no observable changes. Which of the following shows the increasing order of reactivity of the metals?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "R < Q < M",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "R < M < Q",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "M < R < Q",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "M < Q < R",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:26:44.301Z"
+    },
+    {
+      "id": "DSE2021_5_1766471274928",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "15.0 cm<sup>3</sup> of 0.20 M Ba(NO<sub>3</sub>)<sub>2</sub>(aq) is added to 25.0 cm<sup>3</sup> of 0.10 M Na<sub>2</sub>SO<sub>4</sub>(aq). After the reaction is completed, which of the following ions has the highest concentration in the mixture?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "SO<sub>4</sub><sup>2-</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "NO<sub>3</sub><sup>-</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Ba<sup>2+</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Na<sup>+</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:27:54.928Z"
+    },
+    {
+      "id": "DSE2021_13_1766471338645",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "W, X, Y and Z, each represents one of the following solutions:\nHCl (aq)\tNaOH(aq)\tMgCl<sub>2</sub>(aq)\tNa<sub>2</sub>CO<sub>3</sub>(aq)\nGiven that:\nMixing W and X gives a white precipitate\nMixing W and Y gives a white precipitate\nMixing W and Z gives a clear colourless solution\nWhat is Z?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "NaOH(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "MgCl<sub>2</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Na<sub>2</sub>CO<sub>3</sub>(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:28:58.645Z"
+    },
+    {
+      "id": "DSE2021_16_1766471373900",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A sample of sulphuric acid was completely neutralised by 25.0 cm<sup>3</sup> of 0.200 M potassium hydroxide solution. The salt solution obtained was then made up to 100.0 cm<sup>3</sup> with deionised water. What is the concentration of the resulting salt solution?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.0125 M",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.0250 M",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.0375 M",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.0500 M",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:29:33.900Z"
+    },
+    {
+      "id": "DSE2021_24_1766471401415",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "<b>1st statement</b>\nIron(II) hydroxide is a base\n\n<b>2nd statement</b>\nIron(II) hydroxide is insoluble in water",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:30:01.415Z"
+    },
+    {
+      "id": "DSE2022_4_1766471417944",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Which of the following is an INCORRECT procedure in titration?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Rinse the pipette with the solution to be delivered before titration",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Rinse the conical flask with the solution to be held before titration",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Take the burette readings with eyes on the same level as the meniscus",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Make sure that there are no air bubbles in the burette filled with the titrant",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:30:17.944Z"
+    },
+    {
+      "id": "DSE2022_20_1766471438157",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A small piece of sodium is added to water containing a few drops of universal indicator. Which of the following statements is/are correct?\n(1) Sodium moves quickly on the water surface\n(2) The resulting solution shows a red colour\n(3) This reaction is exothermic",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:30:38.157Z"
+    },
+    {
+      "id": "DSE2022_22_1766471484322",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Both A and B are monobasic acids. The pH of 0.10 M A(aq) is 1.0 and the pH of 0.10 M B(aq) is 3.0. Which of the following statements are correct?\n(1) A is a stronger acid than B\n(2) Some B molecules are present in B(aq)\n(3) Complete neutralisation of 25.0 cm<sup>3</sup> of 0.10 M A(aq) and complete neutralisation of 25.0 cm<sup>3</sup> of 0.10 M B(aq) require the same number of moles of NaOH(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:31:24.322Z"
     }
   ]
 }
