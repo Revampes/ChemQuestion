@@ -1,0 +1,750 @@
+{
+  "metadata": {
+    "topic": "Topic 6: Microscopic World II",
+    "lastUpdated": "2025-12-23T08:17:13.395Z",
+    "totalQuestions": 19
+  },
+  "questions": [
+    {
+      "id": "DSE2012_5_1766477264724",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following molecules is polar?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "BF<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "C<sub>60</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "NH<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "SF<sub>6</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:07:44.724Z"
+    },
+    {
+      "id": "DSE2012_12_1766477294116",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following molecules is planar?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "BF<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "NH<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "CH<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "PCl<sub>5</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:08:14.116Z"
+    },
+    {
+      "id": "DSE2013_23_1766477321729",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "To which of the following molecules is/are the ‘octet rule’ NOT applicable?\n(1) OF<sub>2</sub>\n(2) NO<sub>2</sub>\n(3) CS<sub>2</sub>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:08:41.729Z"
+    },
+    {
+      "id": "DSE2013_24_1766477347811",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "<b>1st statement</b>\nThe boiling point of hydrogen chloride is higher than that of hydrogen fluoride\n\n<b>2nd statement</b>\nThe molecular size of hydrogen chloride is greater than that of hydrogen fluoride",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:09:07.811Z"
+    },
+    {
+      "id": "DSE2014_22_1766477372416",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following molecules have non-octet structures?\n(1) NO<sub>2</sub>\n(2) PBr<sub>3</sub>\n(3) BCl<sub>3</sub>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:09:32.416Z"
+    },
+    {
+      "id": "DSE2014_23_1766477396360",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "When a negatively charged rod is placed near a jet of liquid running out from a burette, the jet of liquid deflects towards the rod. Which of the following may the liquid be?\n(1) water\n(2) hexane\n(3) trichloromethane",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:09:56.360Z"
+    },
+    {
+      "id": "DSE2014_24_1766477418619",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "<b>1st statement</b>\nAll acidic gases can react with CaO(s) to form salt and water only\n\n<b>2nd statement</b>\nAll acidic gases contain hydrogen as one of their constituent atoms",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:10:18.619Z"
+    },
+    {
+      "id": "DSE2015_11_1766477458129",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "In the species below, the underlined atom is the central atom, and all non-central atoms have octet electronic arrangement. In which of them does the central atom NOT have octet electronic arrangement?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "<u>S</u>F<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "<u>C</u>F<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "<u>C</u>S<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "<u>N</u>Cl<sub>3</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:10:58.129Z"
+    },
+    {
+      "id": "DSE2015_24_1766477487170",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "<b>1st statement</b>\nThe boiling point of H<sub>2</sub>O is lower than that of HF\n\n<b>2nd statement</b>\nThe electronegativity of oxygen is lower than that of fluorine",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:11:27.170Z"
+    },
+    {
+      "id": "DSE2016_16_1766477508008",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following compounds has the highest boiling point?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "HF",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "HCl",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "PH<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "H<sub>2</sub>Se",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:11:48.008Z"
+    },
+    {
+      "id": "DSE2016_21_1766477533905",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following molecules have a similar shape?\n(1) BCl<sub>3</sub>\n(2) NH<sub>3</sub>\n(3) PF<sub>3</sub>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:12:13.905Z"
+    },
+    {
+      "id": "DSE2017_12_1766477560627",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following molecules is polar?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CO<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "PCl<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "SiF<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "SF<sub>6</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:12:40.627Z"
+    },
+    {
+      "id": "DSE2017_24_1766477592080",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "<b>1st statement</b>\nBoth buckminsterfullerene (C<sub>60</sub>) and graphite are good conductors of electricity\n\n<b>2nd statement</b>\nBuckminsterfullerene (C<sub>60</sub>) and graphite are different forms of carbon",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:13:12.080Z"
+    },
+    {
+      "id": "DSE2018_16_1766477616455",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following molecules is/are non-polar?\n(1) BCl<sub>3</sub>\n(2) PCl<sub>3</sub>\n(3) CHCl<sub>3</sub>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:13:36.455Z"
+    },
+    {
+      "id": "DSE2019_13_1766477654946",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following combinations is correct?\nMolecule\t         Molecule shape",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "OF<sub>2</sub>\t\tlinear",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CS<sub>2</sub>\t\tV shaped",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "NCl<sub>3</sub>\ttrigonal planar",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "PF<sub>3</sub>\t\ttrigonal pyramidal",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:14:14.946Z"
+    },
+    {
+      "id": "DSE2020_20_1766477702776",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Refer to the sketch below:\n\n![](images/Topic6/dse2020-20-1766477702776-inline-q-qimg-1766477700443-8745-mjibaf91-6208.png)\n\nWhich of the following can explain the variation of the boiling points of the hydrogen halides?\n(1) The boiling point of HF is higher than that of HCl because the hydrogen bonds between HF molecules are stronger than the van der Waals’ forces between HCl molecules\n(2) The boiling point of HI is higher than that of HBr because HI molecules are more polar than HBr molecules\n(3) HCl has the lowest boiling point because it has the smallest molecular size",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:15:02.776Z"
+    },
+    {
+      "id": "DSE2020_22_1766477724601",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following statements concerning ice and water at 0℃ are correct?\n(1) The density of ice is lower than that of water because ice has an open structure but water does not\n(2) In ice., the hydrogen bonds between the molecules are weaker than the covalent bonds in the molecules\n(3) In ice, each molecule links up with only two neighbouring molecules by hydrogen bonds",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:15:24.601Z"
+    },
+    {
+      "id": "DSE2021_10_1766477773944",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following processes involves the breaking of hydrogen bonds?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "H<sub>2</sub>(l) → H<sub>2</sub>(g)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "HBr(l) → HBr(g)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "CH<sub>3</sub>OH(l) → CH<sub>3</sub>OH(g)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "CH<sub>3</sub>CHO(l) → CH<sub>3</sub>CHO(g)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:16:13.944Z"
+    },
+    {
+      "id": "DSE2022_9_1766477819642",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Consider the following three compounds:\nX: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH\tY: HOCH<sub>2</sub>CH<sub>2</sub>OH\tZ: CH<sub>3</sub>COOCH<sub>3</sub>\nWhich of the following shows the decreasing order of their solubilities in water?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "X > Y > Z",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Z > Y > X",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Y > Z > X",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Y > X > Z",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:16:59.642Z"
+    }
+  ]
+}
