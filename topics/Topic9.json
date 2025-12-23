@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "topic": "Topic 9: Rate of Reaction",
+    "lastUpdated": "2025-12-23T09:45:59.901Z",
+    "totalQuestions": 1
+  },
+  "questions": [
+    {
+      "id": "DSE2012_25_1766483051071",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "What is the theoretical volume of carbon dioxide that can be obtained, at room temperature and pressure, when 1.2 g of Na<sub>2</sub>CO<sub>3</sub>(s) reacts with 50 cm<sup>3</sup> of 1.0 M HNO<sub>3</sub>?\n(Molar volume of gas at room temperature and pressure = 24 dm<sup>3</sup>;\nRelative atomic masses: H = 1.0, C = 12.0, N = 14.0, O = 16.0, Na = 23.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "272 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "544 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "600 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "1200 cm<sup>3</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:44:11.071Z"
+    }
+  ]
+}
