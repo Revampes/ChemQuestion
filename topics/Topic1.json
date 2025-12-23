@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-22T09:23:05.215Z",
-    "totalQuestions": 18
+    "lastUpdated": "2025-12-23T06:31:49.879Z",
+    "totalQuestions": 20
   },
   "questions": [
     {
@@ -708,6 +708,85 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-22T08:58:13.699Z"
+    },
+    {
+      "id": "DSE2019_20_1766470775231",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Aqueous calcium hydroxide can be used to\n(1) neutralise acidic substances in soil\n(2) distinguish carbon dioxide from carbon monoxide\n(3) remove sulphur dioxide from a polluted air sample",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:19:35.231Z"
+    },
+    {
+      "id": "DSE2019_21_1766470819708",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "The diagram below shows a common glass apparatus:\n\n![](images/Topic1/dse2019-21-1766470819708-inline-q-qimg-1766470804500-9763-mji7iyt7-7356.png)\n\nWhich of the following statements concerning the transfer of an acid using this apparatus are INCORRECT?\n(1) The bulb should be firmly held in the hand when being filled with acid\n(2) Exactly 20.00 cm<sup>3</sup> of acid can be transferred using this apparatus\n(3) The apparatus should first be rinsed by distilled water, then immediately followed by the transfer of\nacid",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:20:19.708Z"
     }
   ]
 }
