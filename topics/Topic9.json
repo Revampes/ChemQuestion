@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 9: Rate of Reaction",
-    "lastUpdated": "2025-12-23T09:45:59.901Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-23T12:09:46.902Z",
+    "totalQuestions": 15
   },
   "questions": [
     {
@@ -43,6 +43,552 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T09:44:11.071Z"
+    },
+    {
+      "id": "DSE2013_25_1766490648996",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "In an experiment to study the rate of the following reaction, a small amount of powdered calcium carbonate was added to excess hydrochloric acid and the volume of gas liberated was recorded\nCaCO<sub>3</sub>(s) + 2HCl(aq) → CaCl<sub>2</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g)\nThe graph below shows the volumes of gas liberated (V) at different times (t) during the experiment:\n\n![](images/Topic9/dse2013-25-1766490648996-inline-q-qimg-1766490540078-3418-mjijkk44-1100.png)\n\nThe experiment was repeated under the same conditions using the same mass of calcium carbonate granules instead of powdered calcium carbonate. Which of the following graphs would best represent the results obtained in the repeated experiment?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic9/dse2013-25-1766490648996-inline-opt-optimg-1766490582997-2003-mjijknuy-6718.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic9/dse2013-25-1766490648996-inline-opt-optimg-1766490597897-8245-mjijkp70-4701.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic9/dse2013-25-1766490648996-inline-opt-optimg-1766490616149-5857-mjijkqh3-205.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic9/dse2013-25-1766490648996-inline-opt-optimg-1766490639251-4181-mjijkrhf-9285.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T11:50:48.996Z"
+    },
+    {
+      "id": "DSE2013_33_1766490762228",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "For which of the following can their progress of reaction be followed by colorimetry?\n(1) 2MnO<sub>4</sub><sup>-</sup>(aq) + 5C<sub>2</sub>O<sub>4</sub><sup>2-</sup>(aq) + 16H<sup>+</sup>(aq) → 2Mn<sup>2+</sup>(aq) + 10CO<sub>2</sub>(g) + 8H<sub>2</sub>O(l)\n(2) SO<sub>3</sub><sup>2-</sup>(aq) + 2H<sup>+</sup>(aq) → SO<sub>2</sub>(aq) + H<sub>2</sub>O(l)\n(3) Br<sub>2</sub>(aq) + HCO<sub>2</sub>H(aq) → 2Br<sup>-</sup>(aq) + CO<sub>2</sub>(g) + 2H<sup>+</sup>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T11:52:42.228Z"
+    },
+    {
+      "id": "DSE2014_25_1766490845674",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "H<sub>2</sub>O<sub>2</sub>(aq) decomposes into H<sub>2</sub>O(l) and O<sub>2</sub>(g) in the presence of MnO<sub>2</sub>(s). Two experiments are performed to study this decomposition under the same conditions, except that 50 cm<sup>3</sup> of 2 M H<sub>2</sub>O<sub>2</sub>(aq) is used in Experiment (1), while 100 cm<sup>3</sup> of 1 M H<sub>2</sub>O<sub>2</sub>(aq) is used in Experiment (2). Which of the following combinations is correct?\n<u>Rate of formation of O<sub>2</sub>(g) at the start</u>\t\t<u>Total volume of O<sub>2</sub>(g) formed</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Experiment (1) > Experiment (2)\t\t\tExperiment (1) = Experiment (2)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Experiment (1) > Experiment (2)\t\t\tExperiment (1) > Experiment (2)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Experiment (1) = Experiment (2)\t\t\tExperiment (1) = Experiment (2)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Experiment (1) = Experiment (2)\t\t\tExperiment (1) > Experiment (2)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T11:54:05.674Z"
+    },
+    {
+      "id": "DSE2015_28_1766490902860",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Which of the following pairs of chemicals, upon mixing under the same temperature, has the highest rate of gas formation?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.10 g of Zn powder\tand\t100 cm<sup>3</sup> of 1.0 M HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.10 g of Zn granules\tand\t200 cm<sup>3</sup> of 1.0 M HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.10 g of Zn granules\tand\t200 cm<sup>3</sup> of 1.0 M H<sub>2</sub>SO<sub>4</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.10 g of Zn powder\tand\t100 cm<sup>3</sup> of 1.0 M H<sub>2</sub>SO<sub>4</sub>(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T11:55:02.860Z"
+    },
+    {
+      "id": "DSE2015_36_1766490946006",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "<b>1st statement</b>\nAt room conditions, the volume of 1 mol of SO<sub>2</sub>(g) is larger than that of 1 mol of N<sub>2</sub>(g)\n\n<b>2nd statement</b>\nThe number of atoms constituting 1 mol of SO<sub>2</sub>(g) is greater than that constituting 1 mol of N<sub>2</sub>(g)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T11:55:46.006Z"
+    },
+    {
+      "id": "DSE2016_25_1766491055406",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "In an experiment, 0.03 mol of Mg(s) is allowed to react with 20.0 cm<sup>3</sup> of 1.0 M HCl(aq). Which of the following graphs best represents the results of the experiment?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic9/dse2016-25-1766491055406-inline-opt-optimg-1766491002621-917-mjijkuy6-8457.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic9/dse2016-25-1766491055406-inline-opt-optimg-1766491019188-8048-mjijkwf6-5809.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic9/dse2016-25-1766491055406-inline-opt-optimg-1766491035140-4192-mjijl02l-5402.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic9/dse2016-25-1766491055406-inline-opt-optimg-1766491049527-9904-mjijl1y4-9494.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T11:57:35.406Z"
+    },
+    {
+      "id": "DSE2016_33_1766491102034",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Which of the following statements are correct?\n(1) Magnesium oxide dissolves faster in 1 M HCl(aq) than in 1 M CH<sub>3</sub>CO<sub>2</sub>H(aq)\n(2) Powdered marble dissolves faster in 1 M HCl(aq) than granular marble does\n(3) H<sub>2</sub>O<sub>2</sub>(aq) decomposes faster in the presence of MnO<sub>2</sub>(s) than without MnO<sub>2</sub>(s)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T11:58:22.034Z"
+    },
+    {
+      "id": "DSE2016_34_1766491132928",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Consider the following reaction:\nBr<sub>2</sub>(g) + HCOOH(aq) → CO<sub>2</sub>(g) + 2HBr(aq)\nWhich of the following can be measured in order to follow the progress of the reaction?\n(1) the volume of gas formed\n(2) the turbidity of the reaction mixture\n(3) the colour intensity of the reaction mixture",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T11:58:52.928Z"
+    },
+    {
+      "id": "DSE2017_27_1766491264378",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "\n![](images/Topic9/dse2017-27-1766491264378-inline-q-qimg-1766491201326-820-mjijl61l-3276.png)\n\nA(aq) and B(aq) react to form a turbid mixture. Three trials of an experiment were performed to study the rate of the reaction. In each trial, A(aq) was mixed with H<sub>2</sub>O(l) in the beaker. After that, B(aq) was added to the mixture, and immediately started to measure the time needed for the cross to become invisible when viewed from above. The table below shows the relevant data.\n\n![](images/Topic9/dse2017-27-1766491264378-inline-q-qimg-1766491222024-6677-mjijl7o4-3321.png)\n\nWhich of the following statements concerning the rate of reaction is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It depends on [A(aq)], and also depends on [B(aq)]",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It increases with [A(aq)], but does not increase with [B(aq)]",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It increases with [B(aq)], but does not increase with [A(aq)]",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It does not depend on [A(aq)], and also does not depend on [B(aq)]",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T12:01:04.378Z"
+    },
+    {
+      "id": "DSE2017_28_1766491444300",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "\n![](images/Topic9/dse2017-28-1766491444300-inline-q-qimg-1766491320917-8352-mjijlbrv-716.png)\n\nA(aq) and B(aq) react to form a turbid mixture. Three trials of an experiment were performed to study the rate of the reaction. In each trial, A(aq) was mixed with H<sub>2</sub>O(l) in the beaker. After that, B(aq) was added to the mixture, and immediately started to measure the time needed for the cross to become invisible when viewed from above. The table below shows the relevant data.\n\n![](images/Topic9/dse2017-28-1766491444300-inline-q-qimg-1766491333472-9319-mjijld4p-5944.png)\n\nOf which of the following reactions can the rate be studied by the above set-up?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CaCl<sub>2</sub>(aq) + H<sub>2</sub>SO<sub>4</sub>(aq) → CaSO<sub>4</sub>(s) + 2HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Na<sub>2</sub>CO<sub>3</sub>(aq) + 2HCl(aq) → 2NaCl(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "2FeSO<sub>4</sub>(aq) + 2H<sub>2</sub>SO<sub>4</sub>(l) → Fe<sub>2</sub>(SO<sub>4</sub>)<sub>2</sub>(aq) + 2H<sub>2</sub>O(l) + SO<sub>2</sub>(g)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>(aq) + 2HCl(aq) → S(s) + SO<sub>2</sub>(aq) + H<sub>2</sub>O(l) + 2NaCl(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T12:04:04.300Z"
+    },
+    {
+      "id": "DSE2018_25_1766491560214",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "100 cm<sup>3</sup> of 1.0 M HCl(aq) reacts with excess zinc granules giving curve A in the graph below\n\n![](images/Topic9/dse2018-25-1766491560214-inline-q-qimg-1766491485210-4263-mjijlerf-107.png)\n\nWhich of the following changes may give curve B?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Increase the temperature by 5℃",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Use the same mass of zinc powder instead of zinc granules",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Use 200 cm<sup><sup>3</sup></sup> of 0.80 M HCl(aq) instead of 100 cm<sup>3</sup> of 1.0 M HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Use 50 cm<sup>3</sup> of 1.50 M HCl(aq) instead of 100 cm<sup>3</sup> of 1.0 M HCl(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T12:06:00.214Z"
+    },
+    {
+      "id": "DSE2018_33_1766491639442",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Consider the following two reactions:\n\nReaction (I)\n1.0 g Na<sub>2</sub>CO<sub>3</sub>(s) + 100 cm<sup>3</sup> of 1.0 M HCl(aq)\n\nReaction (II)\n1.0 g Na<sub>2</sub>CO<sub>3</sub>(s) + 100 cm<sup>3</sup> of 1.0 M CH<sub>3</sub>COOH(aq)\n\nWhich of the following statements are correct if the two reactions are performed under the same experimental conditions?\n(Relative atomic masses: C = 12.0, O = 16.0, Na = 23.0)\n(1) The decrease in mass for the two reaction mixtures is the same\n(2) The initial rate of Reaction (I) is higher than that of Reaction (II)\n(3) The heat given out for the two reactions is the same",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T12:07:19.442Z"
+    },
+    {
+      "id": "DSE2018_36_1766491663068",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "<b>1st statement</b>\nThe molar volume of bromine is larger than that of fluorine at room temperature and pressure\n\n<b>2nd statement</b>\nThe molecular size of bromine is larger than that of fluorine",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T12:07:43.068Z"
+    },
+    {
+      "id": "DSE2019_34_1766491712858",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Consider the following reaction:\n\n![](images/Topic9/dse2019-34-1766491712858-inline-q-qimg-1766491693972-6595-mjijli0i-4627.png)\n\nWhich of the following statements is/are correct if the concentration of H<sub>2</sub>O<sub>2</sub>(aq) changes from 2 M to 1 M, while the other conditions remain unchanged?\n(1) The consumption of MnO<sub>2</sub>(s) will decrease\n(2) The rate of formation of O<sub>2</sub>(g) will decrease\n(3) The volume of O<sub>2</sub>(g) formed will decrease",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T12:08:32.858Z"
     }
   ]
 }
