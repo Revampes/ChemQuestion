@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-23T06:31:49.879Z",
-    "totalQuestions": 20
+    "lastUpdated": "2025-12-23T07:14:33.228Z",
+    "totalQuestions": 21
   },
   "questions": [
     {
@@ -787,6 +787,46 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T06:20:19.708Z"
+    },
+    {
+      "id": "DSE2015_20_1766473463972",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "The set-up for an experiment is shown below:\n\n![](images/Topic1/dse2015-20-1766473463972-inline-q-qimg-1766473454298-3690-mji91wxg-6428.png)\n\nWhich of the following observations would be expected?\n(1) Limewater turns milky\n(2) Br2<sub></sub>(aq) changes from brown to colourless\n(3) The flame is brick red in colour",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:04:23.972Z"
     }
   ]
 }
