@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "topic": "Topic 12: Patterns in the Chemical World",
+    "lastUpdated": "2025-12-23T09:46:07.792Z",
+    "totalQuestions": 1
+  },
+  "questions": [
+    {
+      "id": "DSE2012_31_1766483154702",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following oxides would form an acidic solution when added to water",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "carbon dioxide",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "silicon dioxide",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "aluminium oxide",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "lithium oxide",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:45:54.702Z"
+    }
+  ]
+}
