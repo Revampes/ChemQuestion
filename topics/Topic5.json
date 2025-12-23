@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-19T10:13:03.919Z",
-    "totalQuestions": 3
+    "lastUpdated": "2025-12-23T07:15:11.197Z",
+    "totalQuestions": 23
   },
   "questions": [
     {
@@ -124,6 +124,787 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-19T10:11:57.167Z"
+    },
+    {
+      "id": "DSE2015_10_1766473429759",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "The structure of a certain polymer is shown below:\n\n![](images/Topic5/dse2015-10-1766473429759-inline-q-qimg-1766473427488-2067-mji91tok-9459.png)\n\nWhich of the following is the systematic name of the monomer of this polymer?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "propene",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "but-1-ene",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "but-2-ene",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "methylpropene",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:03:49.759Z"
+    },
+    {
+      "id": "DSE2015_20_1766473463972",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "The set-up for an experiment is shown below:\n\n![](images/Topic5/dse2015-20-1766473463972-inline-q-qimg-1766473454298-3690-mji91y8d-7585.png)\n\nWhich of the following observations would be expected?\n(1) Limewater turns milky\n(2) Br2<sub></sub>(aq) changes from brown to colourless\n(3) The flame is brick red in colour",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:04:23.972Z"
+    },
+    {
+      "id": "DSE2015_22_1766473478266",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following are renewable energy sources?\n(1) nuclear energy\n(2) tidal energy\n(3) biomass",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:04:38.266Z"
+    },
+    {
+      "id": "DSE2016_10_1766473528358",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following CANNOT be converted into substances that are less harmful when passed through a catalytic converter?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "nitrogen oxides",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "sulphur dioxide",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "carbon monoxide",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "unburnt hydrocarbons",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:05:28.358Z"
+    },
+    {
+      "id": "DSE2016_17_1766473540985",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning petroleum is/are correct?\n(1) It is a source of aliphatic hydrocarbons\n(2) It can be separated into liquids of different viscosity by a separating funnel\n(3) It is a fossil fuel derived from ancient marine organisms",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:05:40.985Z"
+    },
+    {
+      "id": "DSE2017_5_1766473582590",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "What is the systematic name of Cl<sub>2</sub>CH-CH=CH-CH=CH<sub>2</sub>?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "1-dichloropenta-2,4-diene",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "5 ,5-chloropenta-1,3-diene",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "1, 1-dichloropenta-2,4-diene",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "5,5-dichloropenta-1,3-diene",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:06:22.591Z"
+    },
+    {
+      "id": "DSE2017_20_1766473596388",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following are characteristics exhibited by members of a homologous series?\n(1) They have similar chemical properties\n(2) They display a gradation in physical properties\n(3) They can be represented by the same general formula",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:06:36.389Z"
+    },
+    {
+      "id": "DSE2017_22_1766473606778",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning burning coal under room conditions are correct?\n(1) Burning coal forms both acidic and non-acidic substances\n(2) Burning coal forms both gaseous and non-gaseous substances\n(3) Burning coal forms both poisonous and non-poisonous substances",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:06:46.778Z"
+    },
+    {
+      "id": "DSE2018_8_1766473642404",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following molecular formulae can represent an alkanoic acid?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CH<sub>2</sub>O",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:07:22.404Z"
+    },
+    {
+      "id": "DSE2018_13_1766473698575",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "The reaction below involves several steps\n\n![](images/Topic5/dse2018-13-1766473698575-inline-q-qimg-1766473662236-3274-mji920sc-3796.png)\n\nWhich of the following steps can lead to a termination of the reaction?\n\n![](images/Topic5/dse2018-13-1766473698575-inline-q-qimg-1766473668806-3849-mji923b0-3325.png)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Cl<sub>2</sub> → 2Cl•",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CH<sub>3</sub>• + Cl• → CH<sub>3</sub>Cl",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "CH<sub>4</sub> + Cl• → CH<sub>3</sub>• + HCl",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "CH<sub>3</sub>• + Cl<sub>2</sub> → CH<sub>3</sub>Cl + Cl•",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:08:18.575Z"
+    },
+    {
+      "id": "DSE2018_14_1766473744898",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "A polymer has the following structure:\n\n![](images/Topic5/dse2018-14-1766473744898-inline-q-qimg-1766473719920-1921-mji924z7-2250.png)\n\nWhich of the following statements concerning the polymer is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It is a polyester",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It can be polymerised from (CH<sub>3</sub>)<sub>2</sub>CHCO<sub>2</sub>CH<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Its monomer can decolourise acidified KMnO<sub>4</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It can be made from its monomer through condensation",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:09:04.898Z"
+    },
+    {
+      "id": "DSE2018_27_1766473805626",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following polymers is commonly used to make drainage pipes?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic5/dse2018-27-1766473805626-inline-opt-optimg-1766473782147-2399-mji926nv-1540.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic5/dse2018-27-1766473805626-inline-opt-optimg-1766473790557-9857-mji9285l-8291.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic5/dse2018-27-1766473805626-inline-opt-optimg-1766473797831-8725-mji92aga-1242.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic5/dse2018-27-1766473805626-inline-opt-optimg-1766473804230-8404-mji92dqz-5902.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:10:05.626Z"
+    },
+    {
+      "id": "DSE2019_7_1766473829604",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "The set-up of an experiment is shown below:\n\n![](images/Topic5/dse2019-7-1766473829604-inline-q-qimg-1766473824541-8290-mji92gzj-71.png)\n\nWhich of the following statements is INCORRECT?\nremoving the heat source",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "The broken unglazed porcelain acts as a catalyst",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Fractional distillation is performed in the set-up",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The gas mixture turns acidified potassium permanganate solution from purple to colourless",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "When no more gas can be collected, the delivery tube should be taken out of the water before",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:10:29.604Z"
+    },
+    {
+      "id": "DSE2019_10_1766473912859",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "A part of the structure of a polymer is shown below:\n\n![](images/Topic5/dse2019-10-1766473912859-inline-q-qimg-1766473865552-8704-mji92ice-3600.png)\n\nWhich of the following can be a monomer of this polymer?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic5/dse2019-10-1766473912859-inline-opt-optimg-1766473883117-1986-mji92kyg-8122.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic5/dse2019-10-1766473912859-inline-opt-optimg-1766473891503-4762-mji92m2u-7979.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic5/dse2019-10-1766473912859-inline-opt-optimg-1766473901126-7531-mji92n32-7180.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic5/dse2019-10-1766473912859-inline-opt-optimg-1766473911788-5965-mji92ojc-8808.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:11:52.859Z"
+    },
+    {
+      "id": "DSE2020_6_1766473925967",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "What is the product of the reaction between chloroethene and bromine dissolved in an organic solvent?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2-chloro-1,2-dibromoethane",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "1,2-dibromo-1-chloroethane",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "2-chloro-1,1-dibromoethane",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "2,2-dibromo-1-chloroethane",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:12:05.967Z"
+    },
+    {
+      "id": "DSE2020_24_1766473946079",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\nPerspex can be used to make shopping bags\n\n<b>2nd statement</b>\nPerspex is a condensation polymer",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:12:26.079Z"
+    },
+    {
+      "id": "DSE2021_8_1766473974159",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Consider two compounds with their structures shown below:\n\n![](images/Topic5/dse2021-8-1766473974159-inline-q-qimg-1766473971148-9170-mji92q33-7353.png)\n\nWhich of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both of them are flammable",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "They have different empirical formula",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "They belong to the same homologous series",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both of them can decolourise bromine solution in the dark",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:12:54.159Z"
+    },
+    {
+      "id": "DSE2021_9_1766474009869",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Gases discharged from coal-fired power plants contain SO<sub>2</sub>. SO<sub>2</sub> is also regarded as an air pollutant. What is the most suitable way to remove the SO<sub>2</sub> before discharging these gases into the atmosphere?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Pass these gases through calcium oxide",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Pass these gases through concentrated sulphuric acid",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Cool these gases to liquefy SO<sub>2</sub> for subsequent removal",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Pass these gases through an organic solvent such as hexane",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:13:29.869Z"
+    },
+    {
+      "id": "DSE2021_11_1766474041837",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "The monosubstitution of methane with chlorine under diffuse sunlight involves several steps. Which of the following steps initiates the reaction?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Cl<sub>2</sub> → 2Cl•",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CH<sub>4</sub> → CH<sub>3</sub>• + H•",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "CH<sub>4</sub> + Cl<sub>2</sub> → CH<sub>3</sub>Cl + HCl",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "CH<sub>4</sub> + Cl<sub>2</sub> → CH<sub>3</sub>Cl + H• + Cl•",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:14:01.837Z"
+    },
+    {
+      "id": "DSE2021_36_1766474061677",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\nMethyl ethanoate and ethyl methanoate have similar chemical properties\n\n<b>2nd statement</b>\nMethyl ethanoate and ethyl methanoate are isomers",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T07:14:21.677Z"
     }
   ]
 }
