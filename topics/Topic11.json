@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "topic": "Topic 11: Chemistry of Carbon Compounds",
+    "lastUpdated": "2025-12-23T09:46:04.366Z",
+    "totalQuestions": 1
+  },
+  "questions": [
+    {
+      "id": "DSE2012_28_1766483120917",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of an organic compound is shown below:\n\n![](images/Topic11/dse2012-28-1766483120917-inline-q-qimg-1766483097112-5343-mjiegrzr-2278.png)\n\nWhich of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "The compound does NOT show enantiomerism",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The molecular formula of the compound is C<sub>5</sub>H<sub>6</sub>O<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The compound contains a ketone group",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "The compound can be oxidised by acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:45:20.917Z"
+    }
+  ]
+}
