@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "topic": "Topic 8: Chemical Reactions and Energy",
+    "lastUpdated": "2025-12-23T09:06:19.369Z",
+    "totalQuestions": 1
+  },
+  "questions": [
+    {
+      "id": "DSE2012_7_1766480771710",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "The standard enthalpy changes of combustion of some substances are shown below:\n<u>Substance</u>\t\t<u>Standard enthalpy change of combustion at 298 K / kJ mol<sup>-1</sup></u>\nH<sub>2</sub>(g)\t\t\t\t\t\t   -286\nC(graphite)\t\t\t\t\t   -394\nCH<sub>3</sub>CH<sub>2</sub>OH(l)\t\t\t\t\t   -1371\nThe standard enthalpy change of formation at 298 K of CH<sub>3</sub>CH<sub>2</sub>OH(l) is",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "–275 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "+275 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "+691 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "–3017 kJ mol<sup>-1</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:06:11.710Z"
+    }
+  ]
+}
