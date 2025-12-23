@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2025-12-23T06:31:47.059Z",
-    "totalQuestions": 5
+    "lastUpdated": "2025-12-23T08:52:20.015Z",
+    "totalQuestions": 53
   },
   "questions": [
     {
@@ -205,6 +205,1878 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T06:19:19.844Z"
+    },
+    {
+      "id": "DSE2012_6_1766477878874",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "What is the oxidation number of Cu in Cu(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "+2",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "+4",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "+6",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:17:58.874Z"
+    },
+    {
+      "id": "DSE2012_13_1766477937335",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The tendency of being reduced of six ionic species increases in the order as shown below:\nBa<sup>2+</sup>(aq) < Na<sup>+</sup>(aq) < Mg<sup>2+</sup>(aq) < H<sup>+</sup>(aq) < Cu<sup>2+</sup>(aq) < Hg<sup>2+</sup>(aq)\nWhich of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Ba(s) does NOT react with H<sup>+</sup>(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Na(s) has a stronger reducing power than Hg(l)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Hg<sup>2+</sup>(aq) is the weakest oxidising agent among the six species",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Displacement reaction occurs when Cu(s) is immersed in MgSO<sub>4</sub>(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:18:57.335Z"
+    },
+    {
+      "id": "DSE2012_18_1766477959792",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following statements concerning a hydrogen-oxygen fuel cell is/are correct?\n(1) It produces non-polluting product\n(2) The membrane in it selectively allows hydroxide ions to pass through\n(3) It can continuously produce electricity as long as hydrogen and oxygen are supplied under operating conditions",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:19:19.792Z"
+    },
+    {
+      "id": "DSE2012_30_1766478005110",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following ions can act as both an oxidising agent and a reducing agent?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Fe<sup>2+</sup>(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Cu<sup>2+</sup>(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "MnO<sub>4</sub><sup>-</sup>(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:20:05.110Z"
+    },
+    {
+      "id": "DSE2013_6_1766478111991",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the set-ups shown below can best be used to anodise an aluminium object?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic7/dse2013-6-1766478111991-inline-opt-optimg-1766478077215-3621-mjicixdz-4889.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic7/dse2013-6-1766478111991-inline-opt-optimg-1766478087975-4478-mjiciyh2-7216.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic7/dse2013-6-1766478111991-inline-opt-optimg-1766478099317-3844-mjicj0qa-5065.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic7/dse2013-6-1766478111991-inline-opt-optimg-1766478110263-5589-mjicj2p7-2678.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:21:51.991Z"
+    },
+    {
+      "id": "DSE2013_16_1766478167179",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following chemical equation:\n2IO<sub>3</sub><sup>-</sup>(aq) + wH<sub>2</sub>O<sub>2</sub>(aq) + xH<sup>+</sup>(aq) → I<sub>2</sub>(aq) + yO<sub>2</sub>(g) + zH<sub>2</sub>O(l)\nWhich of the following is the correct combination of the reaction coefficients y and z?\ny\tz",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "4\t5",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "5\t4",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "5\t6",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "6\t5",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:22:47.179Z"
+    },
+    {
+      "id": "DSE2013_17_1766478237668",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Potassium peroxodisulphate (K<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) can be obtained from the electrolysis of a saturated solution of potassium hydrogensulphate (KHSO<sub>4</sub>)\nWhich of the following correctly describes the oxidation number of sulphur in KHSO<sub>4</sub>, and the electrode at which K<sub>2</sub>S<sub>2</sub>O<sub>8</sub> is produced during the electrolysis?\n<u>Oxidation number of S</u>\t\t<u>Electrode at which K<sub>2</sub>S<sub>2</sub>O<sub>8</sub> is produced</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "+6\t\t\t\t\tanode",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "+6\t\t\t\t\tcathode",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "+4\t\t\t\t\tanode",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "+4\t\t\t\t\tcathode",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:23:57.668Z"
+    },
+    {
+      "id": "DSE2013_21_1766478261774",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following is/are secondary cell(s)?\n(1) alkaline manganese cell\n(2) lithium ion cell\n(3) nickel metal hydride cell",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:24:21.774Z"
+    },
+    {
+      "id": "DSE2013_22_1766478280844",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following reagents can be used to distinguish between sodium sulphite and sodium sulphate?\n(1) iron(II) chloride solution\n(2) acidified potassium permanganate solution\n(3) concentrated nitric acid",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:24:40.844Z"
+    },
+    {
+      "id": "DSE2014_11_1766478315401",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The diagram below shows a set-up in which silver is being plated on a spoon:\n\n![](images/Topic7/dse2014-11-1766478315401-inline-q-qimg-1766478308182-9968-mjicj3tt-2441.png)\n\nWhich of the following statements concerning the above set-up is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "M must be silver",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Q can be silver chloride",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The spoon is connected to the negative pole of the battery",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Electrons flow from metal M to the spoon through the solution",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:25:15.401Z"
+    },
+    {
+      "id": "DSE2014_16_1766478381650",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following statements concerning a zinc-carbon cell is/are correct?\n(1) The zinc case would become thinner when being used\n(2) Its voltage remains unchanged when being used\n(3) It can be recharged after used",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:26:21.650Z"
+    },
+    {
+      "id": "DSE2014_20_1766478417312",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The diagram below shows the set-up of an experiment:\n\n![](images/Topic7/dse2014-20-1766478417312-inline-q-qimg-1766478411960-1767-mjicj53x-9827.png)\n\nWhich of the following methods may light up the light bulb?\n(1) heating the sodium bromide powder until molten\n(2) adding deionised water to the sodium bromide powder\n(3) replacing the sodium powder with bromine liquid",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:26:57.312Z"
+    },
+    {
+      "id": "DSE2015_2_1766478432935",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 2,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following processes would NOT give oxygen",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "heating mercury(II) oxide strongly",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "electrolysis of dilute sulphuric acid",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "fractional distillation of liquefied air",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "passing steam over heated magnesium",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:27:12.935Z"
+    },
+    {
+      "id": "DSE2015_13_1766478489038",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "An electrolysis experiment is conducted using the set-up shown below:\n\n![](images/Topic7/dse2015-13-1766478489038-inline-q-qimg-1766478474924-2326-mjicj7up-4441.png)\n\nWhat are the expected colours around X and Y after the experiment has been conducted for some time?\n<u>X</u>\t\t<u>Y</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "yellow\tred",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "red\t\tblue",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "blue\t\tred",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "red\t\tyellow",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:28:09.038Z"
+    },
+    {
+      "id": "DSE2015_16_1766478541006",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following set-up at the start of an experiment:\n\n![](images/Topic7/dse2015-16-1766478541006-inline-q-qimg-1766478522748-3659-mjicj94n-7355.png)\n\nAfter a period of time, the concentration of K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>(aq) drops to 0.47 M. What is the concentration of FeSO<sub>4</sub>(aq) at that time?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.53 M",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.47 M",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.41 M",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.32 M",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:29:01.006Z"
+    },
+    {
+      "id": "DSE2015_17_1766478589298",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "An aqueous solution of potassium iodide turns yellow with time due to the following reaction:\n4KI(aq) + 2CO<sub>2</sub>(g) + O<sub>2</sub>(g) → 2K<sub>2</sub>CO<sub>3</sub>(aq) + 2I<sub>2</sub>(aq)\nWhich of the following statements concerning the above reaction is/are correct?\n(1) KI(aq) is oxidised by O<sub>2</sub>(g)\n(2) KI(aq) is oxidised by CO<sub>2</sub>(g)\n(3) The yellow colour is due to the K<sub>2</sub>CO<sub>3</sub>(aq) formed",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:29:49.299Z"
+    },
+    {
+      "id": "DSE2016_11_1766478619826",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "In which of the following compounds does nitrogen have the highest oxidation number?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "NF<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "N<sub>2</sub>H<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "NaNH<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "HONH<sub>2</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:30:19.826Z"
+    },
+    {
+      "id": "DSE2016_12_1766478653421",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The diagram below shows the set-up used in electroplating experiment involving four iron rods:\n\n![](images/Topic7/dse2016-12-1766478653421-inline-q-qimg-1766478648352-3172-mjicjadi-8577.png)\n\nOn which of the following iron rods would a metal be plated?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Rod I",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Rod II",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Rod III",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Rod IV",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:30:53.421Z"
+    },
+    {
+      "id": "DSE2016_13_1766478711332",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Gas X is bubbled steadily into solution Y as shown in the diagram below:\n\n![](images/Topic7/dse2016-13-1766478711332-inline-q-qimg-1766478675996-9594-mjicjccl-8604.png)\n\nIn which of the following combinations would NOT have a visible change in solution Y?\n<u>Gas X</u>\t<u>solution Y</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Cl<sub>2</sub>(g)\tKI(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "O<sub>2</sub>(g)\tFeSO<sub>4</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "CO<sub>2</sub>(g)\tacidified KMnO<sub>4</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "SO<sub>2</sub>(g)\tacidified Na<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:31:51.332Z"
+    },
+    {
+      "id": "DSE2016_14_1766478765019",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following is NOT a redox reaction?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2AgBr(s) → 2Ag(s) + Br<sub>2</sub>(g)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "SO<sub>2</sub>(g) + 2H<sub>2</sub>S(g) → 3S(s) + 2H<sub>2</sub>O(l)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "2KClO<sub>3</sub>(s) → 2KCl(s) + 3O<sub>2</sub>(g)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Ca(HCO<sub>3</sub>)<sub>2</sub>(aq) → CaCO<sub>3</sub>(s) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:32:45.019Z"
+    },
+    {
+      "id": "DSE2016_15_1766478873907",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The following equation shows the reaction when a secondary cell is discharging:\n2NiO(OH)(s) + Cd(s) + 2H<sub>2</sub>O(l) → 2Ni(OH)<sub>2</sub>(s) + Cd(OH)<sub>2</sub>(s)\nWhich of the following half equations shows the change at the negative electrode when the cell is being recharged?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Cd(s) + 2OH<sup>-</sup>(aq) → Cd(OH)<sub>2</sub>(s) + 2e<sup>-</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Cd(OH)<sub>2</sub>(s) + 2e<sup>-</sup> → Cd(s) + 2OH<sup>-</sup>(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Ni(OH)<sub>2</sub>(s) + OH<sup>-</sup>(aq) → NiO(OH)(s) + H<sub>2</sub>O(l) + e<sup>-</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "NiO(OH)(s) + H<sub>2</sub>O(l) + e<sup>-</sup> → Ni(OH)<sub>2</sub>(s) + OH<sup>-</sup>(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:34:33.907Z"
+    },
+    {
+      "id": "DSE2016_20_1766478907578",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Pb is an element in Group IV of the Periodic Table and can form Pb<sup>2+</sup> ion. Which of the following statements are correct?\n(1) The change from Pb<sup>2+</sup> ion to Pb atom is a reduction\n(2) Both Pb atom and Pb<sup>2+</sup> ion have the same number of protons\n(3) Both Pb atom and Pb<sup>2+</sup> ion have the same number of occupied electron shells",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:35:07.578Z"
+    },
+    {
+      "id": "DSE2016_23_1766478932208",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "<b>1st statement</b>\nDuring anodisation, the aluminium oxide on the surface of aluminium is reduced to metal\n\n<b>2nd statement</b>\nThe corrosion resistance of aluminium can be enhanced by anodisation",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:35:32.208Z"
+    },
+    {
+      "id": "DSE2017_4_1766478964578",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 4,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The diagram below shows a set-up with the bulb lights up:\n\n![](images/Topic7/dse2017-4-1766478964578-inline-q-qimg-1766478959736-7739-mjicjdtt-8012.png)\n\nWhich of the following statements concerning the set-up is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Silver ions migrate towards the porous pot",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The mass of the magnesium strip decreases",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Heat energy is converted into electrical energy",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Hydrogen ions are discharged on the silver strip",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:36:04.578Z"
+    },
+    {
+      "id": "DSE2017_8_1766478980056",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following statements concerning hydrogen-oxygen fuel cell is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It contains a catalyst",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Water is formed during discharged",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Oxygen gas is passed to the anode",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Hydrogen gas acts as the reducing agent",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:36:20.056Z"
+    },
+    {
+      "id": "DSE2017_11_1766479006875",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following statements concerning zinc is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It forms a soluble oxide when placed in NH<sub>3</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It acts as reducing agent when placed in HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It undergoes oxidation when placed in MgCl<sub>2</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It forms an acidic solution when placed in hot H<sub>2</sub>O(l)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:36:46.875Z"
+    },
+    {
+      "id": "DSE2017_15_1766479068410",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following chemical equation:\n3Ni(OH)<sub>2</sub>(s) + xHCl(aq) + yAuCl<sub>4</sub><sup>-</sup>(aq) → 3NiCl<sub>4</sub>(aq) + yAu(s) + zCl<sup>-</sup>(aq) + 6H<sub>2</sub>O(l)\nWhich of the following combinations is correct?\nx\t  y\t   z",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "4\t  2\t   2",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "6\t  2\t   2",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "4\t  3\t   3",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "6\t  3\t   3",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:37:48.410Z"
+    },
+    {
+      "id": "DSE2017_23_1766479086850",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "What would be observed when a few drops of concentrated nitric acid is added to KI(aq)?\n(1) A brown solution is formed\n(2) A brown precipitate is formed\n(3) A reddish brown gas is released",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:38:06.850Z"
+    },
+    {
+      "id": "DSE2018_12_1766479141697",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following is NOT a redox reaction?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2Mg + SO<sub>2</sub> → 2MgO + S",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CaCO<sub>3</sub> + SiO<sub>2</sub> → CaSiO<sub>3</sub> + CO<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Cu<sub>2</sub>O + H<sub>2</sub>SO<sub>4</sub> → CuSO<sub>4</sub> + Cu + H<sub>2</sub>O",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "3CuS + 8HNO<sub>3</sub> → 3CuSO<sub>4</sub> + 8NO + 4H<sub>2</sub>O",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:39:01.698Z"
+    },
+    {
+      "id": "DSE2018_21_1766479164832",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following statements concerning a zinc-carbon cell is/are INCORRECT?\n(1) The graphite rod is inserted in a mixture of graphite powder and MnO<sub>2</sub>\n(2) potassium hydroxide acts as an electrolyte\n(3) Ammonia forms around the cathode",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:39:24.832Z"
+    },
+    {
+      "id": "DSE2019_3_1766479177362",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 3,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following processes does NOT involve oxidation and reduction?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "red wine turning sour",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "removing rust using white vinegar",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "combusting natural gas in a power station",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "removing nitrogen oxides in the catalytic converter of a car",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:39:37.362Z"
+    },
+    {
+      "id": "DSE2019_11_1766479213085",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 11,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following electrolytic cells:\n\n![](images/Topic7/dse2019-11-1766479213085-inline-q-qimg-1766479209462-8938-mjicjf3n-2497.png)\n\nWhat would happen during electrolysis?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Oxygen forms around A",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Chlorine forms around B",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Hydrogen forms around C",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Iron(II) ions form around D",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:40:13.085Z"
+    },
+    {
+      "id": "DSE2019_12_1766479258438",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following statements concerning the fuel cell below that can form water is INCORRECT?\n\n![](images/Topic7/dse2019-12-1766479258438-inline-q-qimg-1766479254357-9911-mjicjgf6-4052.png)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It is primary cell",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Ni also acts as a catalyst",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "X can be obtained from fractional distillation of liquid air",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "The equation for the change at electrode B is : 4OH<sup>-</sup> → 2H<sub>2</sub>O + O<sub>2</sub> + 4e<sup>-</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:40:58.438Z"
+    },
+    {
+      "id": "DSE2019_14_1766479304009",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following reaction:\n(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>(s) → Cr<sub>2</sub>O<sub>3</sub>(s) + N<sub>2</sub>(g) + 4H<sub>2</sub>O(g)\nWhich of the following statements is/are correct?\n(1) The oxidation number of chromium decreases\n(2) Only covalent bonds are broken and formed\n(3) Green solid turns to orange solid",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:41:44.009Z"
+    },
+    {
+      "id": "DSE2019_19_1766479371610",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "In which of the following reactions does the underlined chemical act as a reducing agent?\n(1) 2C<sub>4</sub>H<sub>10</sub> + 13O<sub>2</sub> → 8CO<sub>2</sub> + 10H<sub>2</sub>O\n(2) Ba(NO<sub>3</sub>)<sub>2</sub> + Na<sub>2</sub>SO<sub>4</sub> → BaSO<sub>4</sub> + 2NaNO<sub>3</sub>\n(3) Zn(OH)<sub>2</sub> + 2NaOH → Na<sub>2</sub>Zn(OH)<sub>4</sub>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:42:51.610Z"
+    },
+    {
+      "id": "DSE2020_5_1766479390779",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 5,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following statements concerning francium (atomic number = 87) is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Francium has a higher melting point than potassium",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Francium forms cations more readily than potassium",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Francium is a weaker oxidising agent than potassium",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Francium has a fewer number of occupied electron shells than potassium",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:43:10.779Z"
+    },
+    {
+      "id": "DSE2020_9_1766479418247",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Refer to the following chemical cell:\n\n![](images/Topic7/dse2020-9-1766479418247-inline-q-qimg-1766479415378-6122-mjicjigv-2002.png)\n\nWhich of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Copper is the cathode of the cell",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Zinc ions act as the oxidising agent in the cell",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Only zinc ions can pass through the porous pot",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Electrons flow from copper to zinc through the external circuit",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:43:38.247Z"
+    },
+    {
+      "id": "DSE2020_12_1766479522102",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Refer to the following half equations:\nC<sub>2</sub>O<sub>4</sub><sup>2-</sup>(aq) → 2CO<sub>2</sub>(g) + 2e<sup>-</sup>\nMnO<sub>4</sub><sup>-</sup>(aq) + 8H<sup>+</sup>(aq) + 5e<sup>-</sup> → Mn<sup>2+</sup>(aq) + 4H<sub>2</sub>O(l)\nWhat is the minimum volume of 0.010 M acidified KMnO<sub>4</sub>(aq) required to completely oxidise 15.00 cm<sup>3</sup> of 0.020 M Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq)?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "6.00 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "12.00 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "15.00 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "75.00 cm<sup>3</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:45:22.102Z"
+    },
+    {
+      "id": "DSE2020_14_1766479583149",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The set-up is used to show that hexane (C<sub>6</sub>H<sub>14</sub>) contains carbon and hydrogen. What are X and Y?\n\n![](images/Topic7/dse2020-14-1766479583149-inline-q-qimg-1766479553826-1448-mjicjjpn-6473.png)\n\n<u>X</u>\t\t\t\t<u>Y</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "PbSO<sub>4</sub>(s)\t\t\tlimewater",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "NaOH(s)\t\t\tbromine water",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "anhydrous CoCl<sub>2</sub>(s)\t\tlimewater",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "anhydrous CuSO<sub>4</sub>(s)\tbromine water",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:46:23.149Z"
+    },
+    {
+      "id": "DSE2020_19_1766479608630",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following processes can form a halogen?\n(1) Electrolyse concentrated KCl(aq)\n(2) Add Na<sub>2</sub>SO<sub>4</sub>(s) to concentrated HBr(aq)\n(3) Add KI(s) to acidified KMnO<sub>4</sub>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:46:48.631Z"
+    },
+    {
+      "id": "DSE2021_2_1766479666334",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 2,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following experimental set-up:\n\n![](images/Topic7/dse2021-2-1766479666334-inline-q-qimg-1766479636974-9878-mjicjl12-2199.png)\n\nWhich of the following statements is correct when an electric current passes through the circuit?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Blue colour is observed in the dilute H<sub>2</sub>SO<sub>4</sub>(aq) around Y",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Gas bubbles are observed in the dilute H<sub>2</sub>SO<sub>4</sub>(aq) around Y",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Orange colour is observed in the dilute H<sub>2</sub>SO<sub>4</sub>(aq) around X",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Electrons flow from X to Y through the external circuit",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:47:46.334Z"
+    },
+    {
+      "id": "DSE2021_7_1766479692451",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The oxidation number of Pb in Pb<sub>10</sub>(VO<sub>4</sub>)<sub>6</sub>F<sub>2</sub> is +2. What is the oxidation number of V?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "-3",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "+2",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "+4",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "+5",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:48:12.451Z"
+    },
+    {
+      "id": "DSE2021_9_1766479721682",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Gases discharged from coal-fired power plants contain SO<sub>2</sub>. SO<sub>2</sub> is also regarded as an air pollutant. What is the most suitable way to remove the SO<sub>2</sub> before discharging these gases into the atmosphere?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Pass these gases through calcium oxide",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Pass these gases through concentrated sulphuric acid",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Cool these gases to liquefy SO<sub>2</sub> for subsequent removal",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Pass these gases through an organic solvent such as hexane",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:48:41.682Z"
+    },
+    {
+      "id": "DSE2021_22_1766479735465",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following statements concerning hydrogen-oxygen fuel cells are correct?\n(1) When used to power vehicles, they are more environmentally friendly than using petrol engine\n(2) When used in space stations, they can produce drinking water in addition to energy\n(3) When used as a back-up power source in hospitals, they do not produce noise pollution",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:48:55.465Z"
+    },
+    {
+      "id": "DSE2021_23_1766479793516",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following two electrolytic cells:\n\n![](images/Topic7/dse2021-23-1766479793516-inline-q-qimg-1766479771771-5013-mjicjmb2-2157.png)\n\nDuring electrolysis, which of the following would occur in Electrolytic cell 1 but not in Electrolytic cell 2?\n(1) Gas bubbles are given out\n(2) The blue solution becomes paler\n(3) A reddish brown solid is deposited",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:49:53.516Z"
+    },
+    {
+      "id": "DSE2021_27_1766479809711",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Copper(II) oxide can catalyse the decomposition of hydrogen peroxide to form oxygen and water. In an experiment, hydrogen peroxide solution is shaken with copper(II) oxide in a test tube. What would be observed in the test tube after the completion of the reaction?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "a pale blue liquid",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "a blue solid and a colourless liquid",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "a black solid and a colourless liquid",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "a reddish brown solid and a colourless liquid",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:50:09.711Z"
+    },
+    {
+      "id": "DSE2022_12_1766479862786",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following chemical equation:\nxNH<sub>3</sub>(g) + yO<sub>2</sub>(g) → xNO(g) + zH<sub>2</sub>O(g)\nWhich of the following combinations is correct?\nx\t  y\t   z",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2\t  3\t   3",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2\t  3\t   6",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "4\t  5\t   4",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "4\t  5\t   6",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:51:02.786Z"
+    },
+    {
+      "id": "DSE2022_13_1766479894884",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following chemical cell:\n\n![](images/Topic7/dse2022-13-1766479894884-inline-q-qimg-1766479891964-8281-mjicjnu2-2486.png)\n\nWhich of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Electrode X is the cathode",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The solution in beaker (1) gradually turns brown",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The solution in beaker (2) gradually changes from pale green to yellow",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Fe(NO3)3(aq) acts as a reducing agent",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T08:51:34.884Z"
     }
   ]
 }
