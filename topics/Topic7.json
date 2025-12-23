@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2025-12-22T03:53:16.628Z",
-    "totalQuestions": 4
+    "lastUpdated": "2025-12-23T06:31:47.059Z",
+    "totalQuestions": 5
   },
   "questions": [
     {
@@ -165,6 +165,46 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-22T03:49:18.696Z"
+    },
+    {
+      "id": "DSE2019_16_1766470759844",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following chemicals can be used to distinguish concentrated hydrochloric acid from concentrated nitric acid?\n(1) sodium carbonate solid\n(2) silver nitrate solution\n(3) copper metal",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T06:19:19.844Z"
     }
   ]
 }
