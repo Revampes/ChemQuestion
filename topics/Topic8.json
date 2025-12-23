@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 8: Chemical Reactions and Energy",
-    "lastUpdated": "2025-12-23T09:06:19.369Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-23T09:27:22.022Z",
+    "totalQuestions": 20
   },
   "questions": [
     {
@@ -43,6 +43,747 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T09:06:11.710Z"
+    },
+    {
+      "id": "DSE2013_15_1766481143643",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "For which of the following reactions must its enthalpy change be determined by INDIRECT methods?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Zn(s) + CuSO<sub>4</sub>(aq) → ZnSO<sub>4</sub>(aq) + Cu(s)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2C(s) + O<sub>2</sub>(g) → 2CO(g)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "CH<sub>3</sub>CH<sub>2</sub>OH(l) + 3O<sub>2</sub>(g) → 2CO<sub>2</sub>(g) + 3H<sub>2</sub>O(l)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "MgO(s) + 2HCl(aq) → MgCl<sub>2</sub>(aq) + H<sub>2</sub>O(l)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:12:23.643Z"
+    },
+    {
+      "id": "DSE2013_18_1766481187023",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Under standard conditions, complete combustion of 0.050 mol of propane (C<sub>3</sub>H<sub>8</sub>) give 111 kJ of heat. Which of the following is the standard enthalpy change of formation of propane?\n(Standard enthalpy change of formation of H2O(l) = -286 kJ mol<sup>-1</sup>;\nstandard enthalpy change of formation of CO2(g) = -394 kJ mol<sup>-1</sup>)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "–106 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "+106 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "–569 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "+569 kJ mol<sup>-1</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:13:07.023Z"
+    },
+    {
+      "id": "DSE2014_9_1766481281518",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "The enthalpy changes of three reactions under certain conditions are shown below:\n<u>Reaction</u>\t\t\t<u>Enthalpy change</u>\nB<sub>2</sub>H<sub>6</sub>(g) + 3O<sub>2</sub>(g) → B<sub>2</sub>O<sub>3</sub>(s) + 3H<sub>2</sub>O(l)\t–2170 kJ mol<sup>-1</sup>\nB(s) + 3/4O<sub>2</sub>(g) → 1/2B<sub>2</sub>O<sub>3</sub>(s)\t\t–635 kJ mol<sup>-1</sup>\nH<sub>2</sub>(g) + 1/2O<sub>2</sub>(g) → H<sub>2</sub>O(l)\t\t\t–286 kJ mol<sup>-1</sup>\nWhich of the following is the enthalpy change of formation of B2H6(g) under the same conditions?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "+42 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "+614 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "+677 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "+1249 kJ mol<sup>-1</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:14:41.519Z"
+    },
+    {
+      "id": "DSE2014_12_1766481321259",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "In an experiment, standard HCl(aq) was added from a burette to a known volume of NaOH(aq) placed in an expanded polystyrene cup. The graph below shows the temperatures of the mixture in the cup during the process:\n\n![](images/Topic8/dse2014-12-1766481321259-inline-q-qimg-1766481315461-5089-mjids9p0-8917.png)\n\nWhat is the greatest temperature rise of the mixture in the cup as estimated from the graph above?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2.0℃",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "4.6℃",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "6.2℃",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "6.6℃",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:15:21.259Z"
+    },
+    {
+      "id": "DSE2015_12_1766481409015",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Consider the following reactions:\n(1) CO<sub>2</sub>(g) \t   + CaO(s) \t→ CaCO<sub>3</sub>(s)\t\t\t\t\t∆H<sub>1</sub>\n(2) NH<sub>3</sub>(g) \t   + HBr(g) \t→ NH<sub>4</sub>Br(s)\t\t\t\t\t∆H<sub>2</sub>\n(3) HF(aq) \t   + NaOH(aq) → NaF(aq)\t+ H<sub>2</sub>O(l)\t\t\t∆H<sub>3</sub>\n(4) NaHCO<sub>3</sub>(aq)  + HCl(aq)     → NaCl(aq)    + CO<sub>2</sub>(g) + H<sub>2</sub>O(l)\t\t∆H<sub>4</sub>\nWhich of the following represents enthalpy change of neutralisation?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "∆H<sub>1</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "∆H<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "∆H<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "∆H<sub>4</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:16:49.015Z"
+    },
+    {
+      "id": "DSE2015_18_1766481468394",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Which of the following combinations is/are correct?\n<u>Chemical reaction</u>\t\t\t\t<u>Enthalpy change of reaction</u>\n(1) 2H<sub>2</sub>O(l) → 2H<sub>2</sub>(g) + O<sub>2</sub>(g)\t\t\t\t\t    positive\n(2) 2CO(g) + O<sub>2</sub>(g) → 2CO<sub>2</sub>(g)\t\t\t\t    positive\n(3) 2Na(s) + 2H<sub>2</sub>O(l) → 2NaOH(aq) + H<sub>2</sub>(g)\t\t\t    negative",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:17:48.394Z"
+    },
+    {
+      "id": "DSE2016_24_1766481487178",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "<b>1st statement</b>\nThe standard enthalpy change of formation of a compound must be a negative value\n\n<b>2nd statement</b>\nUnder standard conditions, a compound must be energetically more stable than its constituent elements",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:18:07.178Z"
+    },
+    {
+      "id": "DSE2017_7_1766481540459",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 7,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "In an experiment for studying the enthalpy change of a reaction, the variation of the temperature of the content in the reaction container with time was plotted in a graph as shown below\n\n![](images/Topic8/dse2017-7-1766481540459-inline-q-qimg-1766481521599-2719-mjidsbe1-6552.png)\n\nThe reaction starts at the third minute. Which of the following combinations is correct?\n<u>The greatest temperature rise of the content</u>\t\t<u>Enthalpy change of the reaction</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "51℃\t\t\t\t\t\t      negative",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "45℃\t\t\t\t\t\t      negative",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "51℃\t\t\t\t\t\t      positive",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "45℃\t\t\t\t\t\t      positive",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:19:00.459Z"
+    },
+    {
+      "id": "DSE2018_18_1766481606998",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Consider the following information:\n2H<sub>2</sub>O(l) → 2H<sub>2</sub>(g) + O<sub>2</sub>(g)\t\t\t∆H<sup>Ө</sup> = +x kJ mol<sup>-1</sup>\nWhich of the following statements is/are correct?\n(1) The standard enthalpy change of formation of H<sub>2</sub>O(l) is –0.5x kJ mol<sup>-1</sup>\n(2) The standard enthalpy change of formation of H<sub>2</sub>O(l) is +0.5x kJ mol<sup>-1</sup>\n(3) The standard enthalpy change of combustion of H<sub>2</sub>(g) is –x kJ mol<sup>-1</sup>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:20:06.998Z"
+    },
+    {
+      "id": "DSE2018_22_1766481624750",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Which of the following processes are endothermic?\n(1) melting of wax\n(2) cracking of heavy oil\n(3) adding zinc powder to CuSO<sub>4</sub>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:20:24.750Z"
+    },
+    {
+      "id": "DSE2019_9_1766481680556",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 9,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "It is given that:\nStandard enthalpy change of formation of water = –286 kJ mol<sup>-1</sup>\nStandard enthalpy change of combustion of propane = –2222 kJ mol<sup>-1</sup>\nStandard enthalpy change of formation of carbon dioxide = –394 kJ mol<sup>-1</sup>\nWhat is the standard enthalpy change of formation of propane?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "–52 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "+52 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "–104 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "+104 kJ mol<sup>-1</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:21:20.556Z"
+    },
+    {
+      "id": "DSE2019_22_1766481697636",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Which of the following are exothermic?\n(1) thermal decomposition of mercury(II)  oxide solid\n(2) dilution of concentrated sulphuric acid with water\n(3) reaction of magnesium ribbon with dilute hydrochloric acid",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:21:37.636Z"
+    },
+    {
+      "id": "DSE2020_10_1766481763240",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Refer to the standard enthalpy changes of combustion below:\n\n![](images/Topic8/dse2020-10-1766481763240-inline-q-qimg-1766481732779-598-mjidsfce-1080.png)\n\nWhat is the standard enthalpy change of the following reaction?\n\n![](images/Topic8/dse2020-10-1766481763240-inline-q-qimg-1766481744279-4117-mjidsipy-7803.png)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "–206 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "–652 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "+206 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "+652 kJ mol<sup>-1</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:22:43.240Z"
+    },
+    {
+      "id": "DSE2020_13_1766481807688",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 13,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "The enthalpy changes for some conversions are shown below:\n\n![](images/Topic8/dse2020-13-1766481807688-inline-q-qimg-1766481802306-8833-mjidslxe-995.png)\n\nWhich of the following combinations is correct?\nW → Z\t\t    Z → X",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "exothermic\t\tendothermic",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "exothermic\t\texothermic",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "endothermic\texothermic",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "endothermic\tendothermic",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:23:27.688Z"
+    },
+    {
+      "id": "DSE2020_21_1766481839181",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Which of the following statements are correct?\n(1) The standard enthalpy change of formation of NH<sub>3</sub>(g) can be determined directly from experiment\n(2) The standard enthalpy change of combustion of H<sub>2</sub>NNH<sub>2</sub>(l) is negative\n(3) The standard enthalpy change of formation of N<sub>2</sub>(g) is zero",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:23:59.181Z"
+    },
+    {
+      "id": "DSE2021_14_1766481893436",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Based on the experimental set-up in the diagram below, after 8.0 g of sodium nitrate solid is completely dissolved in 50 cm<sup>3</sup> of water, the temperature drops by 6℃\n\n![](images/Topic8/dse2021-14-1766481893436-inline-q-qimg-1766481866576-6634-mjidspae-4195.png)\n\nWhich of the following would give a drop of temperature by 3℃ under the same experimental conditions?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "After 2.0 g of sodium nitrate solid is completely dissolved in 25 cm<sup>3</sup> of water",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "After 4.0 g of sodium nitrate solid is completely dissolved in 100 cm<sup>3</sup> of water",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "After 16.0 g of sodium nitrate solid is completely dissolved in 100 cm<sup>3</sup> of water",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "After 24.0 g of sodium nitrate solid is completely dissolved in 75 cm<sup>3</sup> of water",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:24:53.436Z"
+    },
+    {
+      "id": "DSE2021_15_1766481933401",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "When 7.89 g of carbon monoxide gas burns completely, 80 kJ of heat is released. Under those experimental conditions, the enthalpy change of formation of carbon dioxide is –394 kJ mol<sup>-1</sup>. What is the enthalpy change of formation of carbon monoxide gas under the same experimental conditions?\n(Relative atomic masses: C = 12.0, O =16.0)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "–678 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "–474 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "–314 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "–110 kJ mol<sup>-1</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:25:33.401Z"
+    },
+    {
+      "id": "DSE2022_14_1766481986185",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "The enthalpy changes of formation of some substances under certain conditions are shown below:\n<u>Substance</u>\t\t<u>Enthalpy change of formation / kJ mol<sup>-1</sup></u>\nH<sub>2</sub>O(l)\t\t\t\t    –286\nNa<sub>2</sub>O(s)\t\t\t\t    –414\nNaOH(s)\t\t\t\t    –425\nWhat is the enthalpy change of the following reaction under the same conditions?\nNa<sub>2</sub>O(s) + H<sub>2</sub>O(l) → 2NaOH(s)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "+275 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "–150 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "–722 kJ mol<sup>-1</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "–1125 kJ mol<sup>-1</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:26:26.185Z"
+    },
+    {
+      "id": "DSE2022_21_1766482011012",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Which of the following statements are correct?\n(1) The standard enthalpy change of formation of graphite is zero\n(2) The standard enthalpy change of combustion of carbon monoxide is a negative value\n(3) The standard enthalpy change of formation of carbon monoxide is equal to the standard enthalpy change of combustion of graphite",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-23T09:26:51.012Z"
     }
   ]
 }
