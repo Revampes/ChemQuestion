@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 9: Rate of Reaction",
-    "lastUpdated": "2025-12-23T12:09:46.902Z",
-    "totalQuestions": 15
+    "lastUpdated": "2025-12-24T05:16:06.824Z",
+    "totalQuestions": 23
   },
   "questions": [
     {
@@ -589,6 +589,318 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T12:08:32.858Z"
+    },
+    {
+      "id": "DSE2019_35_1766552733284",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Consider the following reaction:\n\n![](images/Topic9/dse2019-35-1766552733284-inline-q-qimg-1766552727235-2183-mjjk953u-9051.png)\n\nWhich of the following can be measured in order to follow the progress of the reaction?\n(1) pH of the reacting mixture\n(2) pressure of the reaction system\n(3) colour intensity of the reacting mixture",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:05:33.284Z"
+    },
+    {
+      "id": "DSE2020_25_1766552786822",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Consider the following reaction:\n4H<sub>2</sub>(g) + Fe<sub>3</sub>O<sub>4</sub>(s) → 3Fe(s) + 4H<sub>2</sub>O(l)\nWhat is the minimum volume of H<sub>2</sub>(g) at room conditions required to form 0.168 g of Fe(s)?\n(Molar volume of gas at room temperature = 24 dm<sup>3</sup>;\nRelative atomic mass: Fe = 55.8)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "24 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "48 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "96 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "192 cm<sup>3</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:06:26.822Z"
+    },
+    {
+      "id": "DSE2020_35_1766552863189",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Refer to the following set-up:\nWhich of the following reactions can the effect of concentration on rate be studied by the above set-up?\n(1) MgO(s) + 2HCl(aq) → MgCl<sub>2</sub>(aq) + H<sub>2</sub>O(l)\n(2) Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>(aq) + 2HCl(aq) → S(s) + SO<sub>2</sub>(g) + H<sub>2</sub>O(l) + 2NaCl(aq)\n(3) Mg(s) + ZnSO<sub>4</sub>(aq) → MgSO<sub>4</sub>(aq) + Zn(s)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:07:43.189Z"
+    },
+    {
+      "id": "DSE2021_25_1766552977737",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "It is given that the rate depends on both the concentrations of HCO<sub>2</sub>H(aq) and Br<sub>2</sub>(aq):\nHCO<sub>2</sub>H(aq) + Br<sub>2</sub>(aq) → 2HBr(aq) + CO<sub>2</sub>(g)\n5.0 cm<sup>3</sup> of 0.05 M HCO<sub>2</sub>H(aq) are separately added to four conical flasks each containing Br<sub>2</sub>(aq) prepared by mixing different volumes of 0.05 M Br<sub>2</sub>(aq) and water as shown in the table below:\n\n![](images/Topic9/dse2021-25-1766552977737-inline-q-qimg-1766552910823-8726-mjjk96vt-8405.png)\n\nIn which of the above conical flasks does the reaction have the fastest initial rate?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "A",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "B",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "C",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "D",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:09:37.737Z"
+    },
+    {
+      "id": "DSE2021_26_1766553145457",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "It is given that the rate depends on both the concentrations of HCO<sub>2</sub>H(aq) and Br<sub>2</sub>(aq):\nHCO<sub>2</sub>H(aq) + Br<sub>2</sub>(aq) → 2HBr(aq) + CO<sub>2</sub>(g)\n5.0 cm3 of 0.05 M HCO<sub>2</sub>H(aq) are separately added to four conical flasks each containing Br<sub>2</sub>(aq) prepared by mixing different volumes of 0.05 M Br<sub>2</sub>(aq) and water as shown in the table below:\n\n![](images/Topic9/dse2021-26-1766553145457-inline-q-qimg-1766553043176-8886-mjjk981l-5855.png)\n\nWhich of the following graphs best represents the variation of [Br<sub>2</sub>(aq)] in the reaction mixture of conical flask B with time?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic9/dse2021-26-1766553145457-inline-opt-optimg-1766553098542-9605-mjjk99gz-3699.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic9/dse2021-26-1766553145457-inline-opt-optimg-1766553109936-9597-mjjk9ako-9912.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic9/dse2021-26-1766553145457-inline-opt-optimg-1766553123989-129-mjjk9bpz-8682.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic9/dse2021-26-1766553145457-inline-opt-optimg-1766553135974-9148-mjjk9d6p-5804.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:12:25.457Z"
+    },
+    {
+      "id": "DSE2022_25_1766553188159",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "A mixture consists of methane and ethane. 50 cm<sup>3</sup> of this mixture completely burns in oxygen to form 80 cm<sup>3</sup> of carbon dioxide at room conditions. What is the volume of methane in this mixture at room conditions?\n(Molar volume of gas at room conditions = 24 dm<sup>3</sup>)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "10 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "20 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "30 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "40 cm<sup>3</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:13:08.159Z"
+    },
+    {
+      "id": "DSE2022_26_1766553288706",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "50 cm<sup>3</sup> of 0.10 M HCl(aq) reacts with excess calcium carbonate powder in an open conical flask giving curve X in the graph below\n\n![](images/Topic9/dse2022-26-1766553288706-inline-q-qimg-1766553219955-1-mjjk9edd-5800.png)\n\nWhich of the following changes may give curve Y?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Increase the temperature by 10℃",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Use 25 cm<sup>3</sup> of 0.10 M HCl(aq) instead of 50 cm<sup>3</sup> of 0.10 M HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Use 50 cm<sup>3</sup> of 0.05 M HCl(aq) instead of 50 cm<sup>3</sup> of 0.10 M HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Use the same mass of calcium carbonate granules instead of calcium carbonate powder",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:14:48.706Z"
+    },
+    {
+      "id": "DSE2022_31_1766553340705",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Consider the experimental set-up shown below:\n\n![](images/Topic9/dse2022-31-1766553340705-inline-q-qimg-1766553318528-5907-mjjk9g3r-34.png)\n\nUnder room conditions, which of the following pairs of reactants can the process of their reaction be followed by the above set-up?\n(1) Zn(OH)<sub>2</sub>(s) and HNO<sub>3</sub>(aq)\n(2) Mg(s) and HCl(aq)\n(3) KBr(aq) and Cl<sub>2</sub>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:15:40.705Z"
     }
   ]
 }
