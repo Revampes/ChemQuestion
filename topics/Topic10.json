@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 10: Chemical Equilibrium",
-    "lastUpdated": "2025-12-16T09:00:31.519Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-24T05:50:45.842Z",
+    "totalQuestions": 18
   },
   "questions": [
     {
@@ -44,6 +44,669 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-16T09:00:18.642Z"
+    },
+    {
+      "id": "DSE2012_26_1766553451306",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "The concentration-time graph for a certain chemical reaction in a closed vessel of fixed volume is shown below:\n\n![](images/Topic10/dse2012-26-1766553451306-inline-q-qimg-1766553437059-496-mjjlho2c-5684.png)\n\nWhich of the following chemical equations correctly represents the reaction?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "P(g) → Q(g)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Q(g) → P(g)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "P(g) → 2Q(g)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Q(g) → 2P(g)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:17:31.306Z"
+    },
+    {
+      "id": "DSE2012_27_1766553590341",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "In a 1 dm<sup>3</sup> closed container, 1 mole of X<sub>2</sub>(g) undergoes decomposition to form X<sub>2</sub>(g) until equilibrium is attained. The chemical equation concerned is shown below:\nX<sub>2</sub>(g) ⇌ 2X(g)\nWhich of the following graphs correctly shows the variation in concentration of X<sub>2</sub>(g) and X(g) with time?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic10/dse2012-27-1766553590341-inline-opt-optimg-1766553532098-5832-mjjlhq75-3936.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic10/dse2012-27-1766553590341-inline-opt-optimg-1766553544647-4645-mjjlhra6-6996.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic10/dse2012-27-1766553590341-inline-opt-optimg-1766553561389-5630-mjjlht47-4750.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic10/dse2012-27-1766553590341-inline-opt-optimg-1766553578643-9273-mjjlhu17-3055.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:19:50.341Z"
+    },
+    {
+      "id": "DSE2013_27_1766554503132",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "X<sub>2</sub>(g) + 3Y<sub>2</sub>(g) ⇌ 2XY<sub>3</sub>(g)\nA mixture of X<sub>2</sub>(g) and Y<sub>2</sub>(g) was introduced into a 2.0 dm<sup>3</sup> closed vessel kept at a fixed temperature. When the system attained equilibrium, the vessel contained 0.4 mol of X<sub>2</sub>(g), 0.3 mol of Y<sub>2</sub>(g) and 0.4 mol of XY<sub>3</sub>(g).\nWhich of the following is the numerical value of Kc for the above reaction at this temperature?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "3.3",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "6.7",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "14.8",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "59.3",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:35:03.132Z"
+    },
+    {
+      "id": "DSE2013_28_1766554618480",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "X<sub>2</sub>(g) + 3Y<sub>2</sub>(g) ⇌ 2XY<sub>3</sub>(g)\nA mixture of X<sub>2</sub>(g) and Y<sub>2</sub>(g) was introduced into a 2.0 dm<sup>3</sup> closed vessel kept at a fixed temperature. When the system attained equilibrium, the vessel contained 0.4 mol of X<sub>2</sub>(g), 0.3 mol of Y<sub>2</sub>(g) and 0.4 mol of XY<sub>3</sub>(g).\nWhich of the following combinations shows the effects of a catalyst on the rate of forward reaction, rate of backward reaction and the yield of XY<sub>3</sub>(g)?\n<u>Rate of forward reaction</u>\t       <u>Rate of backward reaction</u>        <u>Yield of XY3(g)</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "increased\t\t\tincreased\t\t\tunchanged",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "unchanged\t\t\tunchanged\t\t\tunchanged",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "increased\t\t\tdecreased\t\t\tincreased",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "decreased\t\t\tincreased\t\t\tdecreased",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:36:58.481Z"
+    },
+    {
+      "id": "DSE2014_26_1766554783836",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the information below:\n<u>Reaction</u>\t\t\t\t<u>Equilibrium constant at 25℃</u>\nA(aq) + B(aq) ⇌ C(aq) + D(aq)\t\t\t         K<sub>1</sub>\nC(aq) + D(aq) ⇌ E(aq) + F(aq) + G(aq)\t\t         K<sub>2</sub>\nE(aq) + F(aq) + G(aq) ⇌ A(aq) + B(aq)\t\t         K<sub>3</sub>\nWhich of the following combinations is correct?\n<u>Relationship of K<sub>1</sub>, K<sub>2</sub> and K<sub>3</sub></u>     <u>Unit of K<sub>3</sub></u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "\n![](images/Topic10/dse2014-26-1766554783836-inline-opt-optimg-1766554734329-2860-mjjlhvvr-5275.png)\n",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "\n![](images/Topic10/dse2014-26-1766554783836-inline-opt-optimg-1766554750744-9800-mjjlhx8n-2099.png)\n",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "\n![](images/Topic10/dse2014-26-1766554783836-inline-opt-optimg-1766554762979-2550-mjjlhy6f-10.png)\n",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "\n![](images/Topic10/dse2014-26-1766554783836-inline-opt-optimg-1766554774493-2261-mjjlhz3a-1179.png)\n",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:39:43.836Z"
+    },
+    {
+      "id": "DSE2014_31_1766554813745",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "The following system attained equilibrium at a certain temperature\n2SO<sub>2</sub>(g) + O<sub>2</sub>(g) ⇌ 2SO<sub>3</sub>(g)\nWhich of the following statements is/are correct when the volume of the system is decreased while the temperature remains unchanged?\n(1) The value of K<sub>c</sub> increases\n(2) The equilibrium position shifts to the right\n(3) The rate of decomposition of SO<sub>3</sub>(g) increases",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:40:13.745Z"
+    },
+    {
+      "id": "DSE2014_35_1766554833371",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "<b>1st statement</b>\nAt chemical equilibrium state, the forward reaction rate equals zero\n\n<b>2nd statement</b>\nAt chemical equilibrium state, the reactants would not react to give the products",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:40:33.371Z"
+    },
+    {
+      "id": "DSE2015_27_1766554894233",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following reaction at a certain temperature:\n2XY<sub>3</sub>(g) ⇌ X<sub>2</sub>(g) + 2Y<sub>2</sub>(g)\t\tK<sub>c</sub> = 0.60 mol dm<sup>-3</sup>\nAn equilibrium mixture was obtained at this temperature as shown below:\n\n![](images/Topic10/dse2015-27-1766554894233-inline-q-qimg-1766554882194-99-mjjli0f6-6077.png)\n\nWhat is n?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "1.5",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "3.0",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.15",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.30",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:41:34.233Z"
+    },
+    {
+      "id": "DSE2015_31_1766554932364",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "In a closed container and at a certain temperature, the following equilibrium was attained:\nCOCl<sub>2</sub>(g) ⇌ CO(g) + Cl<sub>2</sub>(g)\nWhich of the following statements is/are correct?\n(1) CO(g) and Cl<sub>2</sub>(g) must be of the same concentration\n(2) The rate of decomposition of COCl<sub>2</sub>(g) is equal to the rate of formation of CO(g)\n(3) The equilibrium constant K<sub>c</sub> for the reaction increases when the volume of the container increases",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:42:12.364Z"
+    },
+    {
+      "id": "DSE2015_33_1766554962229",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following equilibrium reaction system in a closed container of fixed volume:\nCO(g) + H<sub>2</sub>O(g) ⇌ CO<sub>2</sub>(g) + H<sub>2</sub>(g)\t\t\t∆H < 0\nWhich of the following, when applied to the system, would lead to an increase in the rate of formation of H<sub>2</sub>(g)?\n(1) adding CO(g)\n(2) increasing the temperature\n(3) adding a suitable catalyst",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:42:42.229Z"
+    },
+    {
+      "id": "DSE2016_26_1766554995387",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "The following reaction has attained equilibrium in a fixed volume container:\nCO(g) + H<sub>2</sub>O(g) ⇌ CO<sub>2</sub>(g) + H<sub>2</sub>(g)\t\t\t∆H = –41.1 kJ mol<sup>-1</sup>\nWhich of the following is correct if the temperature of the system is increased?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "The pressure of the system remains unchanged",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both the rates of forward and backward reaction increase",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The equilibrium constant of the reaction remains unchanged",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "The respective yields of CO<sub>2</sub>(g) and H<sub>2</sub>(g) increase to the same extent",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:43:15.387Z"
+    },
+    {
+      "id": "DSE2016_27_1766555028146",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following equilibrium system:\nBr<sub>2</sub>(aq) + H<sub>2</sub>O(l) ⇌ HOBr(aq) + H<sup>+</sup>(aq) + Br<sup>-</sup>(aq)\nWhich of the following can turn the colour of the system paler?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "passing HCl(g) into the system",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "passing HBr(g) into the system",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "adding NaBr(s) to the system",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "adding NaOH(s) to the system",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:43:48.146Z"
+    },
+    {
+      "id": "DSE2017_31_1766555063525",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "W(l) + X(l) ⇌ Y(l) + Z(l)\t\t\t\t∆H = +45kJ mol<sup>-1</sup>\nAt 25℃, the equilibrium constant K<sub>c</sub> for the reaction is 2.5. In an experiment, 1.0 mol of W(l) and 1.0 mol of X(l) are placed in a closed container keeping at 25℃. When equilibrium is attained, the total volume of the reaction mixture is 0.20 dm<sup>3</sup>.\nHow many moles of Y(l) would be present in the container when equilibrium is attained?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.44",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.61",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.71",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.83",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:44:23.525Z"
+    },
+    {
+      "id": "DSE2017_32_1766555126385",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "W(l) + X(l) ⇌ Y(l) + Z(l)\t\t\t\t∆H = +45kJ mol<sup>-1</sup>\nAt 25℃, the equilibrium constant Kc for the reaction is 2.5. In an experiment, 1.0 mol of W(l) and 1.0 mol of X(l) are placed in a closed container keeping at 25℃. When equilibrium is attained, the total volume of the reaction mixture is 0.20 dm<sup>3</sup>.\nWhen equilibrium is attained, which of the following would increase the number of moles of Y(l)?\n(1) removing Z(l) from the reaction mixture\n(2) increasing the volume of the container\n(3) increasing the temperature of the reaction mixture",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:45:26.385Z"
+    },
+    {
+      "id": "DSE2017_34_1766555228701",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following equilibrium system:\n2CrO<sub>4</sub><sup>2-</sup>(aq) + 2H<sup>+</sup>(aq) ⇌ Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(aq) + H<sub>2</sub>O(l)\nWhich of the following statements are INCORRECT?\n(1) [CrO<sub>4</sub><sup>2-</sup>(aq)] must be equal to [Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(aq)]\n(2) Both the forward reaction and the backward reaction have stopped\n(3) The number of moles of CrO<sub>4</sub><sup>2-</sup>(aq) must be double the number of moles of Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:47:08.701Z"
+    },
+    {
+      "id": "DSE2018_26_1766555331560",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following equilibrium system in a certain liquid medium at 25℃:\nCH<sub>3</sub>COCH<sub>3</sub> + HCN ⇌ (CH<sub>3</sub>)<sub>2</sub>C(OH)CN\t\t\t∆H > 0\nWhich of the following statements is correct (assuming the total volume of the system remains unchanged)?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Adding (CH<sub>3</sub>)<sub>2</sub>C(OH)CN would increase the equilibrium constant K<sub>c</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Increasing the temperature would increase the concentration of (CH<sub>3</sub>)<sub>2</sub>C(OH)CN",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The concentration of CH<sub>3</sub>COCH<sub>3</sub> must be equal to the concentration of (CH<sub>3</sub>)<sub>2</sub>C(OH)CN",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "After adding HCN and when a new equilibrium is attained, the concentration of HCN would be restored to the value before the addition of HCN",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:48:51.560Z"
+    },
+    {
+      "id": "DSE2018_29_1766555410637",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "The equilibrium constant Kc for the reaction N<sub>2</sub>O<sub>4</sub> ⇌ 2NO<sub>2</sub>(g) at 70℃ is 0.13 mol dm<sup>-3</sup>. In a 5.0 dm<sup>3</sup> closed container kept at 70℃, there is a mixture of 0.20 mol of N<sub>2</sub>O<sub>4</sub>(g) and 0.30 mol of NO<sub>2</sub>(g) at a certain moment. Which of the following combinations is correct at that moment?\n<u>Reaction quotient Q<sub>c</sub> / mol dm<sup>-3</sup></u>\t\t<u>Rate of the reaction</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.09\t\t\t\tbackward > forward",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "0.09\t\t\t\tforward > backward",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.45\t\t\t\tbackward > forward",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "0.45\t\t\t\tforward > backward",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-24T05:50:10.637Z"
     }
   ]
 }
