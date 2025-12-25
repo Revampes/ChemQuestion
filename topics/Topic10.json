@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 10: Chemical Equilibrium",
-    "lastUpdated": "2025-12-24T05:50:45.842Z",
-    "totalQuestions": 18
+    "lastUpdated": "2025-12-25T12:56:11.625Z",
+    "totalQuestions": 27
   },
   "questions": [
     {
@@ -707,6 +707,357 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-24T05:50:10.637Z"
+    },
+    {
+      "id": "DSE2019_25_1766666912400",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following equilibrium system in a closed container of fixed volume:\nA(g) + B(g) ⇌ 2C(g)\nA small amount of B(g) is added at time t and finally a new equilibrium is attained at the same temperature. Which of the following graphs can represent the variation of [C(g)] with time?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic10/dse2019-25-1766666912400-optiona-mjlg4tlw-8076.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic10/dse2019-25-1766666912400-optionb-mjlg4uym-1839.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic10/dse2019-25-1766666912400-optionc-mjlg4w8w-119.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic10/dse2019-25-1766666912400-optiond-mjlg4xjs-1107.png"
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:48:32.400Z"
+    },
+    {
+      "id": "DSE2019_26_1766666966634",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following two reactions at a certain temperature:\nReaction (1): CO(g) + H<sub>2</sub>O(g) ⇌ CO<sub>2</sub>(g) + H<sub>2</sub>(g)\tEquilibrium constant K<sub>c</sub> = 0.8\nReaction (2): CO<sub>2</sub>(g) + H<sub>2</sub>(g) ⇌ CO(g) + H<sub>2</sub>O(g)\tEquilibrium constant K<sub>c</sub> = X\nWhat is X?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.8",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "1.25",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0.8 mol<sup>-1</sup> dm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "1.25 mol<sup>-1</sup> dm<sup>3</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:49:26.634Z"
+    },
+    {
+      "id": "DSE2019_27_1766667001397",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "The decomposition of HI(g) into H<sub>2</sub>(g) and I<sub>2</sub>(g) is reversible. In a closed container of 3.0 dm<sup>3</sup> keeping at a fixed temperature, an equilibrium mixture contains 0.10 mol of HI(g), 0.60 mol of H<sub>2</sub>(g) and 0.60 mol of I<sub>2</sub>(g). What is the equilibrium constant K<sub>c</sub> for the decomposition at this temperature?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0.4",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "3.6",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "9.0",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "36.0",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:50:01.397Z"
+    },
+    {
+      "id": "DSE2020_26_1766667101216",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the information below:\n<u>Reaction</u>\t\t\t<u>Equilibrium constant at 25℃</u>\nH<sub>2</sub>A(aq) ⇌ H<sup>+</sup>(aq) + HA<sup>-</sup>(aq)\t\t1.3 x 10<sup>-3</sup> mol dm<sup>-3</sup>\nHA<sup>-</sup>(aq) ⇌ H<sup>+</sup>(aq) + A<sup>2-</sup>(aq)\t\t3.1 x 10<sup>-6</sup> mol dm<sup>-3</sup>\n2HA<sup>-</sup>(aq) ⇌ H<sub>2</sub>A(aq) + A<sup>2-</sup>(aq)\t\tX\nWhat is the numerical value of X?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "4.2 x 10<sup>2</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2.4 x 10<sup>-3</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "4.0 x 10<sup>-9</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "2.5 x 10<sup>8</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:51:41.216Z"
+    },
+    {
+      "id": "DSE2020_33_1766667145469",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Refer to the following chemical reaction:\nH<sub>2</sub>O(l) ⇌ H<sup>+</sup>(aq) + OH<sup>-</sup>(aq)\t\t\t\t∆H > 0\nThe pH of a pure water sample is 7.0 at 25℃. Which of the following statements is/are correct when the sample has been heated to 50℃?\n(1) The [OH<sup>-</sup>(aq)] of the sample is 1.0 x 10<sup>-7</sup> mol dm<sup>-3</sup>\n(2) The pH of the sample is smaller than 7.0\n(3) The sample remains neutral",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:52:25.469Z"
+    },
+    {
+      "id": "DSE2021_31_1766667201925",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following reaction under certain conditions:\n2X<sub>3</sub>(g) ⇌ 3X<sub>2</sub>(g)\t\t\tKc = 4.0 mol dm<sup>-3</sup>\nThe reaction quotient is 2.0 mol dm<sup>-3</sup> at a certain moment. Which of the following statements is/are correct?\n(1) The reaction quotient is larger than 2.0 mol dm<sup>-3</sup> after a period of time\n(2) The backward reaction is faster than the forward reaction at that moment\n(3) The concentration of X<sub>2</sub>(g) must be equal to the concentration of X<sub>3</sub>(g) at that moment",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:53:21.925Z"
+    },
+    {
+      "id": "DSE2021_32_1766667267160",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following equilibrium system:\n\n![](images/Topic10/dse2021-32-1766667267160-inline-q-qimg-1766667238360-5450-mjlg4ysv-9941.png)\n\nWhich of the following statements is/are correct?\n(1) Adding Na<sub>2</sub>CO<sub>3</sub>(s) would make its colour become paler\n(2) Increasing the temperature would make its colour become darker\n(3) Adding a few drops of concentrated HCl(aq) would increase the concentration of A<sup>-</sup>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:54:27.160Z"
+    },
+    {
+      "id": "DSE2022_32_1766667337416",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the following equilibrium system:\n2CrO<sub>4</sub><sup>2-</sup>(aq) + 2H<sup>+</sup>(aq) ⇌ Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(aq) + H<sub>2</sub>O(l)\nWhich of the following statements can demonstrate that chromium exhibits the characteristic(s) of transition metals?\n(1) Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(aq) ions are orange in colour\n(2) Adding HCl(aq) would shift the equilibrium position to the right\n(3) The oxidation states of chromium in CrO<sub>4</sub><sup>2-</sup> and Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> are the same",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:55:37.416Z"
+    },
+    {
+      "id": "DSE2022_36_1766667356397",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "<u>1st statement</u>\nAt chemical equilibrium, the concentration of reactants must be equal to the concentration of products\n\n<u>2nd statement</u>\nAt chemical equilibrium, both forward reaction rate and backward reaction rate are equal to zero",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:55:56.397Z"
     }
   ]
 }
