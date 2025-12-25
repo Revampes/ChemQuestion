@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-23T07:15:11.197Z",
-    "totalQuestions": 23
+    "lastUpdated": "2025-12-25T14:47:46.690Z",
+    "totalQuestions": 24
   },
   "questions": [
     {
@@ -905,6 +905,45 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T07:14:21.677Z"
+    },
+    {
+      "id": "DSE2013_14_1766673733929",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "A portion of the structure of an addition polymer X is shown below:\n\n![](images/Topic5/dse2013-14-1766673733929-inline-q-qimg-1766673724734-481-mjlk4gq5-7019.png)\n\nWhich of the following is the systematic name of the monomer of X based on the given structure?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "1,1-dichloro-2-methylethene",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "1,1-dichloropropene",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "1,2-dichloropropene",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "3,3-dichloropropene",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T14:42:13.929Z"
     }
   ]
 }
