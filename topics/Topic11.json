@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2025-12-25T13:28:45.642Z",
-    "totalQuestions": 44
+    "lastUpdated": "2025-12-25T13:41:59.978Z",
+    "totalQuestions": 61
   },
   "questions": [
     {
@@ -1720,6 +1720,669 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-25T13:27:35.191Z"
+    },
+    {
+      "id": "DSE2020_27_1766669423832",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following alkanols can form a ketone by warming with acidified sodium dichromate solution?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2020-27-1766669423832-optiona-mjlhr2md-4442.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2020-27-1766669423832-optionb-mjlhr3qk-8374.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2020-27-1766669423832-optionc-mjlhr4wi-1767.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2020-27-1766669423832-optiond-mjlhr5z6-5198.png"
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:30:23.832Z"
+    },
+    {
+      "id": "DSE2020_29_1766669495720",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Refer to the following conversions:\n\n![](images/Topic11/dse2020-29-1766669495720-inline-q-qimg-1766669458010-9468-mjlhrbsc-564.png)\n\nWhich of the following is a possible structure of Z?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2020-29-1766669495720-optiona-mjlhr721-4893.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2020-29-1766669495720-optionb-mjlhr88y-2285.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2020-29-1766669495720-optionc-mjlhr9jy-4559.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2020-29-1766669495720-optiond-mjlhrahm-5287.png"
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:31:35.720Z"
+    },
+    {
+      "id": "DSE2020_31_1766669550700",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following pairs of reagents would NOT react with each other?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2020-31-1766669550700-optiona-mjlhrd8y-8618.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2020-31-1766669550700-optionb-mjlhre6n-7254.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2020-31-1766669550700-optionc-mjlhrfac-3560.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2020-31-1766669550700-optiond-mjlhrgeu-5313.png"
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:32:30.700Z"
+    },
+    {
+      "id": "DSE2020_32_1766669582841",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following pairs of compounds are isomers?\n\n![](images/Topic11/dse2020-32-1766669582841-inline-q-qimg-1766669580234-5286-mjlhrhbk-6885.png)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:33:02.841Z"
+    },
+    {
+      "id": "DSE2020_34_1766669608817",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning nylon-6,6 are correct?\n(1) Fishing net can be made from nylon-6,6\n(2) H<sub>2</sub>N(CH<sub>2</sub>)<sub>6</sub>NH<sub>2</sub> is one of the monomers of nylon-6,6\n(3) The intermolecular attractions in nylon-6,6 are covalent bonds",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:33:28.817Z"
+    },
+    {
+      "id": "DSE2020_36_1766669634140",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\nThe rate of conversion from glucose to ethanol is increased by adding yeast\n\n<b>2nd statement</b>\nThe conversion from glucose to ethanol is catalysed by enzymes in yeast",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:33:54.140Z"
+    },
+    {
+      "id": "DSE2021_29_1766669687698",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the following reaction:\n\n![](images/Topic11/dse2021-29-1766669687698-inline-q-qimg-1766669653607-1289-mjlhriy5-8208.png)\n\nWhat is Y?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "HOOCCH<sub>2</sub>COCH<sub>2</sub>CH<sub>2</sub>OH",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "HOOCCH<sub>2</sub>CH(OH)CH<sub>2</sub>CHO",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "HOOCCH<sub>2</sub>CH(OH)CH<sub>2</sub>CH<sub>2</sub>OH",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "HOCH<sub>2</sub>CH<sub>2</sub>CH(OH)CH<sub>2</sub>CH<sub>2</sub>OH",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:34:47.698Z"
+    },
+    {
+      "id": "DSE2021_30_1766669717932",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the information shown in the table below:\n\n![](images/Topic11/dse2021-30-1766669717932-inline-q-qimg-1766669715659-5485-mjlhrk17-1524.png)\n\nWhich of the following liquids have identical boiling point?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "liquids in bottle A and bottle B only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "liquids in bottle A and bottle C only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "liquids in bottle B and bottle C only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "liquids in bottle A, bottle B and bottle C",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:35:17.932Z"
+    },
+    {
+      "id": "DSE2021_34_1766669761125",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following mixtures would NOT separate into two liquid layers after heating under reflux for a period of time?\n(1) HCOOCH<sub>2</sub>CH<sub>3</sub>(l) and excess NaOH(aq)\n(2) CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Cl(l) and excess concentrated NaOH(aq)\n(3) CH<sub>3</sub>CH<sub>2</sub>CHO(l) and excess acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:36:01.125Z"
+    },
+    {
+      "id": "DSE2021_35_1766669791235",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The diagram below shows the structure of a compound\n\n![](images/Topic11/dse2021-35-1766669791235-inline-q-qimg-1766669784647-70-mjlhrltn-7160.png)\n\nWhich of the following statements concerning the compound are correct?\n(1) It has an amide group\n(2) Its structure has only one chiral carbon\n(3) It can be converted to an alcohol by using an appropriate reducing agent",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:36:31.235Z"
+    },
+    {
+      "id": "DSE2021_36_1766669808145",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\nMethyl ethanoate and ethyl methanoate have similar chemical properties\n\n<b>2nd statement</b>\nMethyl ethanoate and ethyl methanoate are isomers",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:36:48.145Z"
+    },
+    {
+      "id": "DSE2022_24_1766669826175",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 24,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\nEthene and but-1-ene have the same standard enthalpy change of combustion\n\n<b>2nd statement</b>\nEthene and but-1-ene have the same empirical formula",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:37:06.175Z"
+    },
+    {
+      "id": "DSE2022_27_1766669859515",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of an organic compound is shown below:\n\n![](images/Topic11/dse2022-27-1766669859515-inline-q-qimg-1766669857497-6563-mjlhrmwa-2662.png)\n\nWhich of the following combinations concerning whether cis-trans isomerism and enantiomerism can occur in the compound is correct?\ncis-trans isomerism\t\tenantiomerism",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "No\t\t\t         No",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Yes\t\t\t         Yes",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Yes\t\t\t         No",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "No\t\t\t         Yes",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:37:39.515Z"
+    },
+    {
+      "id": "DSE2022_29_1766669933671",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of an organic compound is shown below:\n\n![](images/Topic11/dse2022-29-1766669933671-inline-q-qimg-1766669895832-4465-mjlhrt78-4859.png)\n\nWhen it is heated with excess NaOH(aq), followed by the addition of excess HCl(aq), a major organic product Z is formed. Which of the following is Z?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2022-29-1766669933671-optiona-mjlhro2r-5777.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2022-29-1766669933671-optionb-mjlhrpbu-8053.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2022-29-1766669933671-optionc-mjlhrqc7-3844.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2022-29-1766669933671-optiond-mjlhrrlf-5619.png"
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:38:53.671Z"
+    },
+    {
+      "id": "DSE2022_33_1766669970622",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of aspirin is shown below:\n\n![](images/Topic11/dse2022-33-1766669970622-inline-q-qimg-1766669960983-5384-mjlhruhw-7234.png)\n\nWhich of the following statements about aspirin are correct?\n(1) It has an ester group\n(2) It can reduce inflammation\n(3) It has a higher solubility in Na<sub>2</sub>CO<sub>3</sub>(aq) than in pure water",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:39:30.622Z"
+    },
+    {
+      "id": "DSE2022_34_1766670030974",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following compounds can be used as a monomer for condensation polymerisation?\n(1) H<sub>2</sub>C=CHCH<sub>2</sub>CH<sub>2</sub>CH=CH<sub>2</sub>\n(2) HOOCCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>COOH\n(3) HOCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:40:30.974Z"
+    },
+    {
+      "id": "DSE2022_35_1766670058126",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2022",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of a detergent is shown below:\n\n![](images/Topic11/dse2022-35-1766670058126-inline-q-qimg-1766670054924-2006-mjlhrvg5-7502.png)\n\nWhich of the following statements concerning this detergent are correct?\n(1) It is a soapless detergent\n(2) It can act as an emulsifying agent\n(3) It can increase the surface tension of water",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:40:58.126Z"
     }
   ]
 }
