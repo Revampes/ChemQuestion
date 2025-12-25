@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 12: Patterns in the Chemical World",
-    "lastUpdated": "2025-12-23T09:46:07.792Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-25T13:49:37.475Z",
+    "totalQuestions": 18
   },
   "questions": [
     {
@@ -43,6 +43,669 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T09:45:54.702Z"
+    },
+    {
+      "id": "DSE2013_26_1766670161080",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following is NOT a characteristic property of transition metals?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "They form coloured compounds",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "They exhibit variable oxidation numbers in their compounds",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "They react with dilute hydrochloric acid to give hydrogen gas",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "They exhibit catalytic property in elemental state or as compounds",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:42:41.080Z"
+    },
+    {
+      "id": "DSE2013_36_1766670179497",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "<b>1st statement</b>\nBoth aluminium oxide and magnesium oxide exhibit similar acid-base properties\n\n<b>2nd statement</b>\nBoth aluminium oxide and magnesium oxide are ionic oxides",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:42:59.498Z"
+    },
+    {
+      "id": "DSE2014_30_1766670238416",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following graphs (not drawn to scale) correctly shows the variation in electrical conductivity of the elements in the third period of the Periodic Table at room temperature?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic12/dse2014-30-1766670238416-optiona-mjli1e02-4567.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic12/dse2014-30-1766670238416-optionb-mjli1fvg-4700.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic12/dse2014-30-1766670238416-optionc-mjli1gx7-9447.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic12/dse2014-30-1766670238416-optiond-mjli1idx-5894.png"
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:43:58.416Z"
+    },
+    {
+      "id": "DSE2014_36_1766670253165",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "<b>1st statement</b>\nAluminium oxide is soluble in water\n\n<b>2nd statement</b>\nAluminium oxide is an amphoteric oxide",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:44:13.165Z"
+    },
+    {
+      "id": "DSE2015_25_1766670267519",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following statements concerning the Periodic Table is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "The melting point of the Group I elements increases down the group",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The boiling point of the Group VII elements increases down the group",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The elements are arranged in the order of increasing relative atomic mass",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "The electrical conductivity of the third period elements increases from left to right",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:44:27.519Z"
+    },
+    {
+      "id": "DSE2015_35_1766670283646",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "<b>1st statement</b>\nThe melting point of silicon is higher than that of aluminium\n\n<b>2nd statement</b>\nThe number of electrons in a silicon atom is greater than that in an aluminium atom",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:44:43.646Z"
+    },
+    {
+      "id": "DSE2016_30_1766670303791",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following trends involving Na, Mg and Al is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Melting point of metal:\t\tAl > Mg > Na",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Electronegativity of metal:\t\tAl > Mg > Na",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Metal reactivity with water:\t\tNa > Mg > Al",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Base strength of metal oxide:\tAl<sub>2</sub>O<sub>3</sub> > MgO > Na2O",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:45:03.791Z"
+    },
+    {
+      "id": "DSE2016_36_1766670336535",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "<b>1st statement</b>\nP<sub>4</sub>O<sub>10</sub>(s) can react with NaOH(aq)\n\n<b>2nd statement</b>\nP<sub>4</sub>O<sub>10</sub>(s) is an acidic oxide",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:45:36.535Z"
+    },
+    {
+      "id": "DSE2017_25_1766670404790",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 25,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following graphs (not drawn to scale) shows the variation in melting points of the elements in the third period of the Periodic Table?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic12/dse2017-25-1766670404790-optiona-mjli1jts-9588.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic12/dse2017-25-1766670404790-optionb-mjli1l9r-1873.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic12/dse2017-25-1766670404790-optionc-mjli1m7m-8568.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic12/dse2017-25-1766670404790-optiond-mjli1na0-6207.png"
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:46:44.790Z"
+    },
+    {
+      "id": "DSE2017_30_1766670414712",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following statements concerning silicon dioxide solid is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "There are single covalent bonds between silicon atoms and oxygen atoms",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It is insoluble in sodium hydroxide solution",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It has a simple molecular structure",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It conducts electricity at room temperature",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:46:54.712Z"
+    },
+    {
+      "id": "DSE2018_28_1766670424844",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "The boiling point of argon is lower than that of neon",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The boiling point of nitrogen is lower than that of oxygen",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The melting point of silicon is lower than that of sodium",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "The melting point of aluminium is lower than that of magnesium",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:47:04.844Z"
+    },
+    {
+      "id": "DSE2018_32_1766670450066",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following processes can illustrate the characteristics of transition metals?\n(1) mixing AgNO<sub>3</sub>(aq) and NaCl(aq)\n(2) mixing FeSO<sub>4</sub>(aq) and Br<sub>2</sub>(aq)\n(3) mixing CuSO<sub>4</sub>(aq) and H<sub>2</sub>O(l)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:47:30.066Z"
+    },
+    {
+      "id": "DSE2019_33_1766670461562",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following does NOT exhibit a characteristic of iron as a transition metal?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Iron corrodes readily",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Iron can be used as a catalyst",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Iron can form two chlorides",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Iron(II) sulphate solution is green",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:47:41.562Z"
+    },
+    {
+      "id": "DSE2020_28_1766670500074",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following statements concerning the oxides of elements in the third period of the Periodic Table is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "SiO<sub></sub>2(s) dissolves in water to form a neutral solution",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "P<sub>4</sub>O<sub>10</sub>(s) dissolves in water to form an acidic solution",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Al<sub>2</sub>O<sub>3</sub>(s) dissolves in water to form an alkaline solution",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Cl<sub>2</sub>O(g) dissolves in water to form Cl<sub>2</sub>(aq) and O<sub>2</sub>(g) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:48:20.074Z"
+    },
+    {
+      "id": "DSE2020_30_1766670526584",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "The sketch below shows the melting points of ten consecutive elements in the second and third periods of the Periodic Table, arranged in the order of increasing atomic numbers. Sodium is one of these ten elements. Which of W, X, Y or Z may represent sodium?\n\n![](images/Topic12/dse2020-30-1766670526584-inline-q-qimg-1766670523683-8753-mjli1obo-8972.png)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "W",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "X",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Y",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Z",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:48:46.584Z"
+    },
+    {
+      "id": "DSE2021_28_1766670539709",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following statements correctly describes the property of an amphoteric oxide?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It can react as an acid or as a base",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It can react with water to form an acid and an alkali",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It can be simultaneously oxidised and reduced in a reaction",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It can react with water to form an oxidising agent and a reducing agent",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:48:59.709Z"
+    },
+    {
+      "id": "DSE2021_33_1766670555880",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Which of the following statements concerning the elements in the third period of the Periodic Table going from Na to Cl is/are correct?\n(1) The bond type of the elements changes from metallic bonding to covalent bonding\n(2) The oxide of the elements changes from acidic to basic\n(3) The electrical conductivity of the elements keeps decreasing",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:49:15.880Z"
     }
   ]
 }
