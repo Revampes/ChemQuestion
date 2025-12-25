@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2025-12-23T09:46:04.366Z",
-    "totalQuestions": 1
+    "lastUpdated": "2025-12-25T13:28:45.642Z",
+    "totalQuestions": 44
   },
   "questions": [
     {
@@ -43,6 +43,1683 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T09:45:20.917Z"
+    },
+    {
+      "id": "DSE2012_29_1766667446104",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning compound U (CH<sub>3</sub>CH<sub>2</sub>CH=CHCH<sub>2</sub>CH<sub>2</sub>OH) is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "The empirical formula of U is C<sub>3</sub>H<sub>6</sub>O",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "The systematic name of U is hex-4-en-1-ol",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "U reacts with HCl to give a single product",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "U can separately turn Br<sub>2</sub>(aq) and acidified KMnO<sub>4</sub>(aq) colourless",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:57:26.104Z"
+    },
+    {
+      "id": "DSE2012_32_1766667483107",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following structures represent(s) the active ingredient(s) in aspirin tablets?\n\n![](images/Topic11/dse2012-32-1766667483107-inline-q-qimg-1766667479345-7134-mjlh9n7n-5007.png)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:58:03.107Z"
+    },
+    {
+      "id": "DSE2012_33_1766667534474",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following compounds can be formed when (CH3)2C(OH)CH2CH3 is dehydrated?\n(1) (CH<sub>3</sub>)<sub>2</sub>C=CHCH<sub>3</sub>\n(2) (CH<sub>3</sub>)<sub>2</sub>CHCH=CH<sub>2</sub>\n(3) CH<sub>2</sub>=C(CH<sub>3</sub>)CH<sub>2</sub>CH<sub>3</sub>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:58:54.474Z"
+    },
+    {
+      "id": "DSE2012_34_1766667573051",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of a compound is shown below:\n\n![](images/Topic11/dse2012-34-1766667573051-inline-q-qimg-1766667562120-1484-mjlh9oxc-4628.png)\n\nWhich of the following statements concerning the compound are correct?\n(1) It can form a salt with aqueous ammonia\n(2) It can be reduced to an alkanol by using LiAlH<sub>4</sub>\n(3) It can form an ester with methanol under suitable conditions",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T12:59:33.051Z"
+    },
+    {
+      "id": "DSE2012_36_1766667608294",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\n2-Chlorobut-1-ene shows geometrical isomerism\n\n<b>2nd statement</b>\n2-Chlorobut-1-ene has a double bond",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:00:08.294Z"
+    },
+    {
+      "id": "DSE2013_20_1766667650798",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "An organic compound has the following structure:\n\n![](images/Topic11/dse2013-20-1766667650798-inline-q-qimg-1766667648125-1404-mjlh9pui-9633.png)\n\nWhich of the following statements about this compound is/are correct?\n(1) It is immiscible with water\n(2) It is neutral to litmus solution\n(3) It burns with a non-luminous flame",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:00:50.798Z"
+    },
+    {
+      "id": "DSE2013_29_1766667695384",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of fructose is shown below:\n\n![](images/Topic11/dse2013-29-1766667695384-inline-q-qimg-1766667681911-1862-mjlh9qqk-1757.png)\n\nWhich of the following statements about fructose is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Its empirical formula is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It can turn acidified potassium dichromate solution from orange to green",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It is insoluble in water",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Its molecule has five chiral carbon centres",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:01:35.384Z"
+    },
+    {
+      "id": "DSE2013_30_1766667769888",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The three-dimensional structure of a molecule of compound X and that of compound Y are shown below:\n\n![](images/Topic11/dse2013-30-1766667769888-inline-q-qimg-1766667764071-9462-mjlh9s7i-2255.png)\n\nWhich of the following statements about X and Y is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "X and Y are identical",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "X and Y are a pair of structural isomers",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "A mixture of X and Y can be  separated by fractional distillation",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "X and Y have the same standard enthalpy change of combustion",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:02:49.888Z"
+    },
+    {
+      "id": "DSE2013_31_1766667824399",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the compounds X and Y shown below:\n\n![](images/Topic11/dse2013-31-1766667824399-inline-q-qimg-1766667805395-4843-mjlh9tbf-2429.png)\n\nWhich of the following statements about X and Y is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "X and Y are a pair of geometrical isomers",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both X and Y react with H<sub>2</sub>(g) in the presence of Ni(s)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "X and Y react separately with Br<sub>2</sub> in CH<sub>3</sub>CCl<sub>3</sub> to give the same organic product",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both the polymerisation X and that of Y give the same addition polymer",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:03:44.399Z"
+    },
+    {
+      "id": "DSE2013_32_1766667850541",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following statements about the action of sodium hydroxide solution on ethanamide is/are correct?\n(1) Sodium ethanoate is formed in the reaction\n(2) In the reaction, sodium hydroxide acts as a catalyst\n(3) The reaction attains equilibrium if the reaction mixture is heated under reflux",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:04:10.541Z"
+    },
+    {
+      "id": "DSE2013_34_1766667884332",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the following conversion of organic compounds:\n\n![](images/Topic11/dse2013-34-1766667884332-inline-q-qimg-1766667875549-9344-mjlh9ue7-1720.png)\n\nWhich of the following statements about the above conversion are correct?\n(1) Excess Br<sub>2</sub>(l) should be used in Step 1\n(2) Light is needed in Step 1\n(3) The reagent used in Step 2 can be KOH(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:04:44.332Z"
+    },
+    {
+      "id": "DSE2013_35_1766667920455",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2013",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "In order to prepare 2-chloro-2-methylpropane, a mixture of 2-methylpropan-2-ol and concentrated hydrochloric acid is shaken vigorously\n\n![](images/Topic11/dse2013-35-1766667920455-inline-q-qimg-1766667915455-7525-mjlh9vjd-3679.png)\n\nWhich of the following statements about this preparation are correct?\n(1) Two layers of liquids can be observed in the reaction mixture after shaking\n(2) The crude product should be washed with sodium carbonate solution\n(3) The unreacted 2-methylpropan-2-ol can be removed by simple distillation",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:05:20.455Z"
+    },
+    {
+      "id": "DSE2014_27_1766667973324",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following combinations concerning CH<sub>3</sub>CH=CHCH<sub>2</sub>CH(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub> is correct?\n<u>Number of geometrical isomers</u>\t<u>Number of enantiomers</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "2\t\t\t\t      4",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2\t\t\t\t      2",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "0\t\t\t\t      2",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "2\t\t\t\t      0",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:06:13.324Z"
+    },
+    {
+      "id": "DSE2014_28_1766668174643",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the following organic reactions where P, Q and R are the major organic products formed\n\n![](images/Topic11/dse2014-28-1766668174643-inline-q-qimg-1766668022371-335-mjlh9wyf-9854.png)\n\nWhich of the following combinations is correct?\n<u>P</u>\t\t\t\t   <u>Q</u>\t\t\t\t    <u>R</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "CH<sub>3</sub>CH<sub>2</sub>CHBrCH<sub>3</sub>\t\tCH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>3</sub>\t\tCH<sub>3</sub>CH<sub>2</sub>COCH<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>Br\t\tCH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH\t\tCH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CHO",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>Br\t\tCH<sub>3</sub>CH<sub>2</sub>CH=CH<sub>2</sub>\t\tCH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>2</sub>OH",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "CH<sub>3</sub>CH<sub>2</sub>CHBrCH<sub>3</sub>\t\tCH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>3</sub>\t\tCH<sub>3</sub>CH<sub>2</sub>CO<sub>2</sub>H",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:09:34.643Z"
+    },
+    {
+      "id": "DSE2014_32_1766668187767",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning aspirin is/are correct?\n(1) It undergoes esterification with ethanoic acid in the presence of an acid catalyst\n(2) It reacts with sodium carbonate solution to give a colourless gas\n(3) It can be used to reduce inflammation",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:09:47.767Z"
+    },
+    {
+      "id": "DSE2014_33_1766668221963",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "A sunblock cream contains the compound below as the active ingredient:\n\n![](images/Topic11/dse2014-33-1766668221963-inline-q-qimg-1766668213653-3845-mjlh9yh9-1547.png)\n\nWhich of the following reagents can react with this compound?\n(1) NaOH(aq)\n(2) PCl<sub>3</sub>(l)\n(3) acidified KMnO<sub>4</sub>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:10:21.963Z"
+    },
+    {
+      "id": "DSE2014_34_1766668251654",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of a detergent is shown below:\n\n![](images/Topic11/dse2014-34-1766668251654-inline-q-qimg-1766668245744-4955-mjlh9zwn-6337.png)\n\nWhich of the following statements concerning the detergent are correct?\n(1) It has a cleaning function in hard water\n(2) Vigorous shaking it with oil and water can form a stable emulsion\n(3) It can be formed by reacting a certain vegetable oil with NaOH(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:10:51.654Z"
+    },
+    {
+      "id": "DSE2015_26_1766668274777",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "How many geometrical isomers does H<sub>3</sub>C–CH=CH–CH=CH–CH<sub>3</sub> have?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "3",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "4",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:11:14.777Z"
+    },
+    {
+      "id": "DSE2015_29_1766668334228",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the following conversion:\n\n![](images/Topic11/dse2015-29-1766668334228-inline-q-qimg-1766668297608-5465-mjlha10v-3436.png)\n\nWhich of the following combinations of reagents can achieve the above conversion?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "NaOH(aq) and CH<sub>3</sub>OH(l)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "CH<sub>3</sub>OH(l) and CH<sub>3</sub>COOH(l)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "NaOH(aq), H<sub>2</sub>SO<sub>4</sub>(aq) and CH<sub>3</sub>OH(l)",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "H<sub>2</sub>SO<sub>4</sub>(aq), NaOH(aq) and CH<sub>3</sub>COOH(l)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:12:14.228Z"
+    },
+    {
+      "id": "DSE2015_30_1766668363076",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of the antibiotic ‘amoxicillin’ is shown below:\n\n![](images/Topic11/dse2015-30-1766668363076-inline-q-qimg-1766668359047-4779-mjlha2t2-9080.png)\n\nWhich of the following functional groups is/are present in amoxicillin?\n(1) ester\n(2) amide\n(3) hydroxyl",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:12:43.076Z"
+    },
+    {
+      "id": "DSE2015_32_1766668396657",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following compounds can react with acidified potassium dichromate solution to form a ketone?\n\n![](images/Topic11/dse2015-32-1766668396657-inline-q-qimg-1766668394257-5832-mjlha48v-6380.png)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:13:16.658Z"
+    },
+    {
+      "id": "DSE2015_34_1766668428224",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "A polymer has the structure shown below:\n\n![](images/Topic11/dse2015-34-1766668428224-inline-q-qimg-1766668425913-2722-mjlha5cb-465.png)\n\nWhich of the following statements concerning the polymer is correct?\n(1) Its intermolecular attraction is predominately hydrogen bond\n(2) The polymer chains can be broken in the presence of dilute hydrochloric acid\n(3) The polymer chains can be broken in the presence of dilute sodium hydroxide solution",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:13:48.224Z"
+    },
+    {
+      "id": "DSE2016_28_1766668457917",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning but-1-ene and butan-1-ol is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both of them can decolourise acidified KMnO<sub>4</sub>(aq)",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Butan-1-ol can react with PBr<sub>3</sub>(l) while but-1-ene cannot",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Both of them can react with H<sub>2</sub>(g) in the presence of platinum",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "But-1-ene can be obtained from heating butan-1-ol with Al<sub>2</sub>O<sub>3</sub>(s)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:14:17.917Z"
+    },
+    {
+      "id": "DSE2016_29_1766668480150",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The molecular formula of compound X is C<sub>4</sub>H<sub>4</sub>O<sub>4</sub>. It has two —COOH groups. How many isomers may X have?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "5",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "4",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "3",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "2",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:14:40.150Z"
+    },
+    {
+      "id": "DSE2016_31_1766668524893",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning nylon-6,6 is/are correct?\n(1) It can be used to make ropes\n(2) The polymerisation in forming it is a hydrolysis process\n(3) Its repeating unit is   ![](images/Topic11/dse2016-31-1766668524893-inline-q-qimg-1766668509154-1987-mjlha6bm-205.png)\n\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:15:24.893Z"
+    },
+    {
+      "id": "DSE2016_32_1766668567092",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Aspartame is an artificial sweetener. The structure of it is shown below:\n\n![](images/Topic11/dse2016-32-1766668567092-inline-q-qimg-1766668551939-6639-mjlha7mi-1505.png)\n\nWhich of the following statements concerning an aspartame molecule is/are correct?\n(1) It has two ester groups\n(2) It has two chiral centers\n(3) It has two amide groups",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:16:07.092Z"
+    },
+    {
+      "id": "DSE2016_35_1766668580668",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Soap can\n(1) be made from fats\n(2) emulsify oily particles\n(3) increase the surface tension of water\nWhich of the following combinations is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:16:20.668Z"
+    },
+    {
+      "id": "DSE2017_18_1766668620875",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structures of organic compounds A and B are shown below:\n\n![](images/Topic11/dse2017-18-1766668620875-inline-q-qimg-1766668602981-8707-mjlha8qq-2026.png)\n\nWhich of the following statements concerning the two compounds is/are correct?\n(1) A and B belong to the same homologous series\n(2) A and B can be distinguished by acidified KMnO<sub>4</sub>(aq)\n(3) Complete combustion of 1.0 g of A and complete combustion of 1.0 g of B would form the same\nmass of CO<sub>2</sub>(g)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:17:00.875Z"
+    },
+    {
+      "id": "DSE2017_26_1766668648301",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 26,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of a compound is shown below:\n\n![](images/Topic11/dse2017-26-1766668648301-inline-q-qimg-1766668643979-2254-mjlha9p3-4688.png)\n\nHow many cis-trans isomers does this compound have?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "0",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "2",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "4",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "8",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:17:28.301Z"
+    },
+    {
+      "id": "DSE2017_29_1766668674393",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "A compound has the following structure:\n\n![](images/Topic11/dse2017-29-1766668674393-inline-q-qimg-1766668668832-6298-mjlhab75-1183.png)\n\nWhich of the following statements concerning the compound is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "It can react with PCl<sub>3</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "It is insoluble in water",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "It is optically inactive",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "It has a ketone functional group",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:17:54.393Z"
+    },
+    {
+      "id": "DSE2017_33_1766668700031",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 33,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structures of three compounds are shown below:\n\n![](images/Topic11/dse2017-33-1766668700031-inline-q-qimg-1766668697680-6231-mjlhac58-3014.png)\n\nWhich of them can form a stable emulsion when shaken with oil and water vigorously?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:18:20.031Z"
+    },
+    {
+      "id": "DSE2017_35_1766668716232",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following processes can form ethanol?\n(1) heating ethanoic acid with NaBH<sub>4</sub>\n(2) heating bromoethane with KOH(aq)\n(3) heating ethyl butanoate with NaOH(aq) under reflux",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:18:36.232Z"
+    },
+    {
+      "id": "DSE2017_36_1766668765240",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2017",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\nBoth CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>OH and (CH3)3COH can react with acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>(aq)\n\n<b>2nd statement</b>\nBoth CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>OH and (CH<sub>3</sub>)<sub>3</sub>COH have the same functional group",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:19:25.240Z"
+    },
+    {
+      "id": "DSE2018_27_1766668828054",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 27,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following polymers is commonly used to make drainage pipes?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2018-27-1766668828054-optiona-mjlhad7d-1098.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2018-27-1766668828054-optionb-mjlhaeoy-7375.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2018-27-1766668828054-optionc-mjlhag4x-9806.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2018-27-1766668828054-optiond-mjlhahb5-3000.png"
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:20:28.055Z"
+    },
+    {
+      "id": "DSE2018_30_1766668867753",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the following conversion:\n\n![](images/Topic11/dse2018-30-1766668867753-inline-q-qimg-1766668860954-2071-mjlhaivf-678.png)\n\nWhich of the following combinations can achieve the above conversion?\n<u>Reagent used in Step (I)</u>\t\t<u>Reagent used in Step (II)</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "aqueous ammonia\t\t\tdilute sulphuric acid",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "aqueous potassium hydroxide\tdilute sulphuric acid",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "aqueous ammonia\t\t\tconcentrated sulphuric acid",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "aqueous potassium hydroxide\tconcentrated sulphuric acid",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:21:07.753Z"
+    },
+    {
+      "id": "DSE2018_31_1766668901883",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following compounds CANNOT form condensation polymers?\n(1) H<sub>2</sub>N(CH<sub>2</sub>)<sub>5</sub>CO<sub>2</sub>H\n(2) CH<sub>3</sub>CO<sub>2</sub>CH=CH<sub>2</sub>\n(3) CH<sub>3</sub>CH(OH)CO<sub>2</sub>H",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:21:41.884Z"
+    },
+    {
+      "id": "DSE2018_34_1766668915576",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 34,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning soap are correct?\n(1) Soap is an ester\n(2) Soap can reduce the surface tension of water\n(3) Soap particles consists of both hydrophobic and hydrophilic parts",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:21:55.576Z"
+    },
+    {
+      "id": "DSE2018_35_1766668957975",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "An organic compound has the following structure:\n\n![](images/Topic11/dse2018-35-1766668957975-inline-q-qimg-1766668954261-7362-mjlhak6u-537.png)\n\nWhich of the following statements concerning this compound are correct?\n(1) It has an ester group\n(2) It contains at least one chiral center\n(3) It reacts with acidified dichromate solution to form a ketone",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:22:37.975Z"
+    },
+    {
+      "id": "DSE2019_23_1766668970357",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following statements concerning ethanol are correct?\n(1) It is flammable\n(2) It is soluble in water\n(3) It is more volatile than water",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:22:50.357Z"
+    },
+    {
+      "id": "DSE2019_29_1766669043364",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of limonene is shown below:\n\n![](images/Topic11/dse2019-29-1766669043364-inline-q-qimg-1766669003789-5239-mjlhaq0q-727.png)\n\nIt reacts with excess HCl(g) to give Z as the major product. Which of the following is Z?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2019-29-1766669043364-optiona-mjlhalyh-4896.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2019-29-1766669043364-optionb-mjlhamut-374.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2019-29-1766669043364-optionc-mjlhao5o-3583.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2019-29-1766669043364-optiond-mjlhap3e-4319.png"
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:24:03.364Z"
+    },
+    {
+      "id": "DSE2019_31_1766669134417",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 31,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Which of the following combinations is correct?\n<u>Structure</u>                   <u>Systematic name</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2019-31-1766669134417-optiona-mjlhaqxl-636.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2019-31-1766669134417-optionb-mjlhart9-5023.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2019-31-1766669134417-optionc-mjlhasxi-3277.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2019-31-1766669134417-optiond-mjlhatvp-1011.png"
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:25:34.417Z"
+    },
+    {
+      "id": "DSE2019_32_1766669212645",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 32,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the following conversion of organic compounds:\n\n![](images/Topic11/dse2019-32-1766669212645-inline-q-qimg-1766669168077-1647-mjlhauu3-477.png)\n\nWhich of the following combinations of steps is correct?\n<u>Step 1</u>\t\t\t\t\t     <u>Step 2</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "LiAlH<sub>4</sub>, dry ether; then H<sup>+</sup>(aq)\t\tNaOH(aq), heat",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "NaBH<sub>4</sub>, ethanol; then H<sup>+</sup>(aq)\t\tNaOH(aq), heat",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "LiAlH<sub>4</sub>, dry ether; then H<sup>+</sup>(aq)\t\tconcentrated H<sub>2</sub>SO<sub>4</sub>(l), heat",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "NaBH<sub>4</sub>, ethanol; then H<sup>+</sup>(aq)\t\tconcentrated H<sub>2</sub>SO<sub>4</sub>(l), heat",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:26:52.646Z"
+    },
+    {
+      "id": "DSE2019_36_1766669255191",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 36,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\nCH<sub>2</sub>=CHCH(CH<sub>3</sub>)C<sub>2</sub>H<sub>5</sub> can exhibit optical activity\n\n<b>2nd statement</b>\nCH<sub>2</sub>=CHCH(CH<sub>3</sub>)C<sub>2</sub>H<sub>5</sub> has one chiral center",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T13:27:35.191Z"
     }
   ]
 }
