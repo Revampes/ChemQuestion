@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 8: Chemical Reactions and Energy",
-    "lastUpdated": "2025-12-23T09:27:22.022Z",
-    "totalQuestions": 20
+    "lastUpdated": "2025-12-25T14:47:48.009Z",
+    "totalQuestions": 21
   },
   "questions": [
     {
@@ -784,6 +784,45 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T09:26:51.012Z"
+    },
+    {
+      "id": "DSE2016_22_1766674053944",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2016",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Which of the following processes are exothermic?\n(1) placing calcium oxide in water\n(2) placing a zinc strip in a copper(II) sulphate solution\n(3) passing hydrogen chloride gas into a sodium hydroxide solution",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-25T14:47:33.944Z"
     }
   ]
 }
