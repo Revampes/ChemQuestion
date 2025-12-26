@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2025-12-23T08:52:20.015Z",
-    "totalQuestions": 53
+    "lastUpdated": "2025-12-26T01:55:29.570Z",
+    "totalQuestions": 56
   },
   "questions": [
     {
@@ -2077,6 +2077,124 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T08:51:34.884Z"
+    },
+    {
+      "id": "DSE2012_17_1766713516072",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The diagram below shows the set-up of an experiment:\n\n![](images/Topic7/dse2012-17-1766713516072-inline-q-qimg-1766713513140-386-mjm7z34e-6129.png)\n\nThe unglazed porcelain in tube A is strongly heated and the glass wool is occasionally heated. Which of the following statement is/are correct?\n(1) A chemical reaction occurs at the glass wool\n(2) There is NO colour change in the solution in tube B\n(3) There is NO colour change in the solution in tube C",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T01:45:16.072Z"
+    },
+    {
+      "id": "DSE2012_22_1766713747273",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 22,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Which of the following processes involve redox reaction?\n(1) mixing methanol and ethanol\n(2) mixing chlorine and methane under sunlight\n(3) mixing ethene and acidified KMnO<sub>4</sub>(aq)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T01:49:07.273Z"
+    },
+    {
+      "id": "DSE2012_23_1766713931560",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "<b>1st statement</b>\nWhen iron and copper are separately immersed in hexane completely, iron corrodes faster than copper\n\n<b>2nd statement</b>\nIron can be oxidised more readily than copper",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T01:52:11.560Z"
     }
   ]
 }
