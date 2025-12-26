@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 2: Microscopic World I",
-    "lastUpdated": "2025-12-22T04:15:39.921Z",
-    "totalQuestions": 35
+    "lastUpdated": "2025-12-26T01:55:22.975Z",
+    "totalQuestions": 36
   },
   "questions": [
     {
@@ -1375,6 +1375,45 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-22T04:15:01.213Z"
+    },
+    {
+      "id": "DSE2012_15_1766713336332",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "question": "Which of the following statements concerning an <sup>131</sup>I atom and a <sup>131</sup>Xe atom is/are correct?\n(1) They have the same number of protons\n(2) They have different numbers of neutrons\n(3) They have different numbers of outermost shell electrons",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T01:42:16.332Z"
     }
   ]
 }
