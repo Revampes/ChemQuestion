@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 9: Rate of Reaction",
-    "lastUpdated": "2025-12-24T05:16:06.824Z",
-    "totalQuestions": 23
+    "lastUpdated": "2025-12-26T02:38:05.455Z",
+    "totalQuestions": 24
   },
   "questions": [
     {
@@ -901,6 +901,45 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-24T05:15:40.705Z"
+    },
+    {
+      "id": "DSE2019_28_1766716570245",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 28,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Consider the following reaction:\n2NaOH(aq) + N<sub>2</sub>O<sub></sub>4(g) → NaNO<sub>3</sub>(aq) + NaNO<sub>2</sub>(aq) + H<sub>2</sub>O(l)\nWhat is the minimum volume of 0.5 M NaOH(aq) needed to completely react with 480 cm<sup>3</sup> of N<sub>2</sub>O<sub>4</sub>(g) at room conditions?\n(Molar volume of gas at room conditions = 24 dm<sup>3</sup>)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "8 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "12.5 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "40 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "80 cm<sup>3</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:36:10.245Z"
     }
   ]
 }
