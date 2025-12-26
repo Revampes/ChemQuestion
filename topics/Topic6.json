@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 6: Microscopic World II",
-    "lastUpdated": "2025-12-23T08:17:13.395Z",
-    "totalQuestions": 19
+    "lastUpdated": "2025-12-26T02:28:24.717Z",
+    "totalQuestions": 20
   },
   "questions": [
     {
@@ -745,6 +745,45 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T08:16:59.642Z"
+    },
+    {
+      "id": "DSE2018_17_1766715906749",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Which of the following statements is/are correct?\n(1) The density of H<sub>2</sub>O(l) is lower than that of H<sub>2</sub>O(g)\n(2) When ice changes to water, the open structure of ice collapses\n(3) When the temperature of water rises from 10°C to 30°C, the average distance between H<sub>2</sub>O molecules increases",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:25:06.749Z"
     }
   ]
 }
