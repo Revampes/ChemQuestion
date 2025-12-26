@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-26T02:08:19.751Z",
-    "totalQuestions": 29
+    "lastUpdated": "2025-12-26T02:17:49.785Z",
+    "totalQuestions": 30
   },
   "questions": [
     {
@@ -1139,6 +1139,45 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:02:30.462Z"
+    },
+    {
+      "id": "DSE2015_19_1766715365489",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 19,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following pairs of substances can be distinguished by using acidified KMnO4(aq)?\n(1) pent-1-ene and pent-2-ene\n(2) cyclohexane and cyclohexene\n(3) polyethene and poly(chloroethene)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:16:05.489Z"
     }
   ]
 }
