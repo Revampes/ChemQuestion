@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2025-12-26T02:28:23.645Z",
-    "totalQuestions": 64
+    "lastUpdated": "2025-12-26T02:38:20.055Z",
+    "totalQuestions": 65
   },
   "questions": [
     {
@@ -2500,6 +2500,46 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:22:09.086Z"
+    },
+    {
+      "id": "DSE2019_30_1766716676109",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds",
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Choose one combination from below in which X can make an addition polymer; while Y can make a condensation polymer\nX              Y",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2019-30-1766716676109-optiona-mjm9i5f0-3905.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2019-30-1766716676109-optionb-mjm9i6e8-1017.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2019-30-1766716676109-optionc-mjm9i7t8-2485.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2019-30-1766716676109-optiond-mjm9i968-5443.png"
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:37:56.109Z"
     }
   ]
 }
