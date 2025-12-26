@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-26T01:55:29.570Z",
-    "totalQuestions": 41
+    "lastUpdated": "2025-12-26T02:08:20.583Z",
+    "totalQuestions": 42
   },
   "questions": [
     {
@@ -1615,6 +1615,46 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T01:52:11.560Z"
+    },
+    {
+      "id": "DSE2014_18_1766714754687",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "In an experiment, a small piece of potassium is added to a trough of water containing phenolphthalein. Which of the following statements concerning the experiment are correct?\n(1) An exothermic reaction occurs\n(2) A colourless solution is formed\n(3) The metal burns with a lilac flame",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:05:54.687Z"
     }
   ]
 }
