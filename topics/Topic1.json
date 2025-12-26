@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-23T07:14:33.228Z",
-    "totalQuestions": 21
+    "lastUpdated": "2025-12-26T02:47:32.033Z",
+    "totalQuestions": 23
   },
   "questions": [
     {
@@ -827,6 +827,84 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T07:04:23.972Z"
+    },
+    {
+      "id": "DSE2020_1_1766717028333",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 1,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following statements concerning quicklime is INCORRECT?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Heating marble strongly can form quicklime",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Reacting quicklime with sulphur dioxide can form calcium sulphate",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Reacting quicklime with carbon dioxide can form calcium carbonate",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "A large amount of heat evolves when quicklime is put into water",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:43:48.333Z"
+    },
+    {
+      "id": "DSE2020_23_1766717235727",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Which of the following hazard warning labels should be displayed on a bottle containing methanol?\n\n![](images/Topic1/dse2020-23-1766717235727-inline-q-qimg-1766717233100-7801-mjm9u2lt-8634.png)\n",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:47:15.727Z"
     }
   ]
 }
