@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2025-12-26T01:55:30.648Z",
-    "totalQuestions": 62
+    "lastUpdated": "2025-12-26T02:08:28.204Z",
+    "totalQuestions": 63
   },
   "questions": [
     {
@@ -2422,6 +2422,45 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T01:55:14.928Z"
+    },
+    {
+      "id": "DSE2014_29_1766714888825",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 29,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "In which of the following options are molecule Y and molecule Z identical?\n<u>Molecule Y</u>              <u>Molecule Z</u>",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic11/dse2014-29-1766714888825-optiona-mjm8frge-7221.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic11/dse2014-29-1766714888825-optionb-mjm8fsdj-6788.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic11/dse2014-29-1766714888825-optionc-mjm8fthn-6519.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic11/dse2014-29-1766714888825-optiond-mjm8fukn-9850.png"
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:08:08.825Z"
     }
   ]
 }
