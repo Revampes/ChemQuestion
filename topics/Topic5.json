@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-26T02:17:49.785Z",
-    "totalQuestions": 30
+    "lastUpdated": "2025-12-26T02:38:12.489Z",
+    "totalQuestions": 32
   },
   "questions": [
     {
@@ -1178,6 +1178,85 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:16:05.489Z"
+    },
+    {
+      "id": "DSE2019_18_1766716381100",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 18,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Consider the following two compounds:\n\n![](images/Topic5/dse2019-18-1766716381100-inline-q-qimg-1766716377705-3730-mjm9hwe7-6296.png)\n\nWhich of the following statements is/are correct?\n(1) They are both soluble in water\n(2) They have the same empirical formula\n(3) They are in the same homologous series",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:33:01.100Z"
+    },
+    {
+      "id": "DSE2019_30_1766716676109",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2019",
+      "questionNumber": 30,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds",
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Choose one combination from below in which X can make an addition polymer; while Y can make a condensation polymer\nX              Y",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic5/dse2019-30-1766716676109-optiona-mjm9hz0v-7331.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic5/dse2019-30-1766716676109-optionb-mjm9i0go-5974.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic5/dse2019-30-1766716676109-optionc-mjm9i1mr-3534.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic5/dse2019-30-1766716676109-optiond-mjm9i30v-7898.png"
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:37:56.109Z"
     }
   ]
 }
