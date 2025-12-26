@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2025-12-26T02:47:29.969Z",
-    "totalQuestions": 53
+    "lastUpdated": "2025-12-26T03:08:11.454Z",
+    "totalQuestions": 54
   },
   "questions": [
     {
@@ -2077,6 +2077,45 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:46:02.437Z"
+    },
+    {
+      "id": "DSE2021_6_1766717772965",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Refer to the information in the table below:\n\n![](images/Topic4/dse2021-6-1766717772965-inline-q-qimg-1766717742455-4821-mjmakn3r-1303.png)\n\nWhich of the following statements is correct?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "X has a higher pH than Z because HCl is a stronger acid than CH<sub>3</sub>COOH",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Y has a lower pH than X because the volume of H<sub>2</sub>SO<sub>4</sub>(aq) is smaller than that of HCl(aq)",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Y has a lower pH than X because H<sub>2</sub>SO<sub>4</sub> is a strong dibasic acid but HCl is a strong monobasic acid",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Y has a lower pH than Z because the concentration of H<sub>2</sub>SO<sub>4</sub>(aq) is lower than that of CH<sub>3</sub>COOH(aq)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:56:12.965Z"
     }
   ]
 }
