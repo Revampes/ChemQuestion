@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 8: Chemical Reactions and Energy",
-    "lastUpdated": "2025-12-26T02:08:21.680Z",
-    "totalQuestions": 22
+    "lastUpdated": "2025-12-26T03:08:12.474Z",
+    "totalQuestions": 23
   },
   "questions": [
     {
@@ -863,6 +863,45 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:05:54.687Z"
+    },
+    {
+      "id": "DSE2021_12_1766718134780",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 12,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Given that:\n2Mg(s) + O<sub>2</sub>(g) → 2MgO(s)                        ∆H<sub>1</sub>\nMg(s) +1/2O<sub>2</sub>(g) + CO<sub>2</sub>(g) → MgCO<sub>3</sub>(s)    ∆H<sub>2</sub>\nMgCO<sub>3</sub>(s) → MgO(s) + CO<sub>2</sub>(g)                   ∆H<sub>3</sub>\nWhat is ∆H<sub>3</sub> ?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "∆H<sub>1</sub> - ∆H<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "∆H<sub>2</sub> - ∆H<sub>1</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "∆H<sub>2</sub> - 1/2∆H<sub>1</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "1/2∆H<sub>1</sub> - ∆H<sub>2</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T03:02:14.780Z"
     }
   ]
 }
