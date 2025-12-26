@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-26T02:08:20.583Z",
-    "totalQuestions": 42
+    "lastUpdated": "2025-12-26T02:17:49.785Z",
+    "totalQuestions": 44
   },
   "questions": [
     {
@@ -1655,6 +1655,86 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:05:54.687Z"
+    },
+    {
+      "id": "DSE2015_14_1766715201839",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 4: Acids and Bases",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following information concerning metals W, X, Y and Z:\n(1) Heating oxide of W gives metal W\n(2) Heating metal X in steam gives a colourless gas\n(3) Putting metal Y in CH<sub>3</sub>CO<sub>2</sub>H(aq) gives a colourless gas\n(4) Putting metal Z in CuSO<sub>4</sub>(aq) gives a reddish-brown solid\nWhich of these metals has the lowest reactivity?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "W",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "X",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Y",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Z",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:13:21.839Z"
+    },
+    {
+      "id": "DSE2015_21_1766715458439",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 21,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Which of the following observations would be expected when some calcium granules are put in cold water inside a test tube?\n(1) A cloudy mixture is formed\n(2) The test tube becomes warm\n(3) Colourless gas bubbles are formed",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:17:38.439Z"
     }
   ]
 }
