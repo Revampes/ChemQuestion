@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2025-12-26T02:38:20.055Z",
-    "totalQuestions": 65
+    "lastUpdated": "2025-12-26T03:08:18.388Z",
+    "totalQuestions": 66
   },
   "questions": [
     {
@@ -2540,6 +2540,45 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:37:56.109Z"
+    },
+    {
+      "id": "DSE2021_20_1766718484249",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 20,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The structure of a portion of a polymer is shown below:\n\n![](images/Topic11/dse2021-20-1766718484249-inline-q-qimg-1766718424301-7606-mjmakqkx-6754.png)\n\nWhich of the following statements concerning the polymer is/are correct?\n(1)  ![](images/Topic11/dse2021-20-1766718484249-inline-q-qimg-1766718444028-4378-mjmakru4-1290.png)  is the repeating unit of it\n(2)  ![](images/Topic11/dse2021-20-1766718484249-inline-q-qimg-1766718465487-5631-mjmakss9-434.png)  is a monomer of it\n(3) HOCH<sub>2</sub>COOH is a monomer of it",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(2) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T03:08:04.249Z"
     }
   ]
 }
