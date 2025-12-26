@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2025-12-23T06:31:51.436Z",
-    "totalQuestions": 51
+    "lastUpdated": "2025-12-26T02:17:49.187Z",
+    "totalQuestions": 52
   },
   "questions": [
     {
@@ -1997,6 +1997,47 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-23T06:31:24.322Z"
+    },
+    {
+      "id": "DSE2015_14_1766715201839",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 4: Acids and Bases",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following information concerning metals W, X, Y and Z:\n(1) Heating oxide of W gives metal W\n(2) Heating metal X in steam gives a colourless gas\n(3) Putting metal Y in CH<sub>3</sub>CO<sub>2</sub>H(aq) gives a colourless gas\n(4) Putting metal Z in CuSO<sub>4</sub>(aq) gives a reddish-brown solid\nWhich of these metals has the lowest reactivity?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "W",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "X",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Y",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Z",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:13:21.839Z"
     }
   ]
 }
