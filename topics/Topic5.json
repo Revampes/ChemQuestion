@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-26T02:38:12.489Z",
-    "totalQuestions": 32
+    "lastUpdated": "2025-12-26T03:08:13.483Z",
+    "totalQuestions": 33
   },
   "questions": [
     {
@@ -1257,6 +1257,45 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:37:56.109Z"
+    },
+    {
+      "id": "DSE2021_17_1766718314992",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2021",
+      "questionNumber": 17,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "What is the systematic name of CH<sub>2</sub>BrCHBrCH<sub>2</sub>CH<sub>2</sub>I ?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "1-iodo-3,4-dibromobutane",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "4-iodo-1,2-dibromobutane",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "1,2-dibromo-4-iodobutane",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "3,4-dibromo-1-iodobutane",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T03:05:14.992Z"
     }
   ]
 }
