@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-26T01:55:29.570Z",
-    "totalQuestions": 27
+    "lastUpdated": "2025-12-26T02:08:19.751Z",
+    "totalQuestions": 29
   },
   "questions": [
     {
@@ -1061,6 +1061,84 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T01:53:36.667Z"
+    },
+    {
+      "id": "DSE2014_8_1766714374935",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 8,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Which of the following compounds would be formed when bromoethene reacts with chlorine in a suitable organic solvent?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "",
+          "image": "images/Topic5/dse2014-8-1766714374935-optiona-mjm8fkr5-9759.png"
+        },
+        {
+          "option": "B",
+          "content": "",
+          "image": "images/Topic5/dse2014-8-1766714374935-optionb-mjm8fm07-1970.png"
+        },
+        {
+          "option": "C",
+          "content": "",
+          "image": "images/Topic5/dse2014-8-1766714374935-optionc-mjm8fmyv-5198.png"
+        },
+        {
+          "option": "D",
+          "content": "",
+          "image": "images/Topic5/dse2014-8-1766714374935-optiond-mjm8fo8e-6201.png"
+        }
+      ],
+      "correctOption": "B",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T01:59:34.935Z"
+    },
+    {
+      "id": "DSE2014_10_1766714550462",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2014",
+      "questionNumber": 10,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "One mole of methane is allowed to react with two moles of chlorine in the presence of light. Which of the following best describes the organic product(s) that would be formed?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "one mole of CCl<sub>4</sub>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "one mole of CH<sub>2</sub>Cl<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "a mixture containing only CCl<sub>4</sub> and CH<sub>2</sub>Cl<sub>2</sub>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "a mixture containing CH<sub>3</sub>Cl, CH<sub>2</sub>Cl<sub>2</sub>, CHCl<sub>3</sub> and CCl<sub>4</sub>",
+          "image": null
+        }
+      ],
+      "correctOption": "D",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:02:30.462Z"
     }
   ]
 }
