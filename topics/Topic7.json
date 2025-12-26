@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2025-12-26T02:17:49.187Z",
-    "totalQuestions": 58
+    "lastUpdated": "2025-12-26T02:28:28.399Z",
+    "totalQuestions": 59
   },
   "questions": [
     {
@@ -2275,6 +2275,45 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:13:21.839Z"
+    },
+    {
+      "id": "DSE2018_23_1766716093256",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 23,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "\n![](images/Topic7/dse2018-23-1766716093256-inline-q-qimg-1766716075247-3054-mjm95k6a-5343.png)\n\nWhich of the following statements are correct?\n(1) The pH of the solution in compartment A decreases gradually\n(2) Hydrogen gas in compartment B acts as a reducing agent\n(3) The equation for the overall reaction is : H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>2</sub>O(l)",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:28:13.256Z"
     }
   ]
 }
