@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2025-12-26T01:55:29.570Z",
-    "totalQuestions": 56
+    "lastUpdated": "2025-12-26T02:17:49.187Z",
+    "totalQuestions": 58
   },
   "questions": [
     {
@@ -2195,6 +2195,86 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T01:52:11.560Z"
+    },
+    {
+      "id": "DSE2015_6_1766715035293",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 6,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The conversion of nitrogen gas to nitric acid involves the following steps:\n\n![](images/Topic7/dse2015-6-1766715035293-inline-q-qimg-1766715026586-1028-mjm8rtoi-6864.png)\n\nIn which step is nitrogen reduced?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Step 1",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Step 2",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Step 3",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Step 4",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:10:35.293Z"
+    },
+    {
+      "id": "DSE2015_14_1766715201839",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2015",
+      "questionNumber": 14,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals",
+        "Topic 4: Acids and Bases",
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the following information concerning metals W, X, Y and Z:\n(1) Heating oxide of W gives metal W\n(2) Heating metal X in steam gives a colourless gas\n(3) Putting metal Y in CH<sub>3</sub>CO<sub>2</sub>H(aq) gives a colourless gas\n(4) Putting metal Z in CuSO<sub>4</sub>(aq) gives a reddish-brown solid\nWhich of these metals has the lowest reactivity?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "W",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "X",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "Y",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Z",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:13:21.839Z"
     }
   ]
 }
