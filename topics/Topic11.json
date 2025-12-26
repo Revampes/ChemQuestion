@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2025-12-25T13:41:59.978Z",
-    "totalQuestions": 61
+    "lastUpdated": "2025-12-26T01:55:30.648Z",
+    "totalQuestions": 62
   },
   "questions": [
     {
@@ -2383,6 +2383,45 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-25T13:40:58.126Z"
+    },
+    {
+      "id": "DSE2012_35_1766714114928",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2012",
+      "questionNumber": 35,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "<b>1st statement</b>\n2-Chlorobut-1-ene shows geometrical isomerism\n\n<b>2nd statement</b>\n2-Chlorobut-1-ene has a double bond",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "The 1st statement is false but the 2nd statement is true",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "Both statements are false",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T01:55:14.928Z"
     }
   ]
 }
