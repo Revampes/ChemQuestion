@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2025-12-26T02:08:28.204Z",
-    "totalQuestions": 63
+    "lastUpdated": "2025-12-26T02:28:23.645Z",
+    "totalQuestions": 64
   },
   "questions": [
     {
@@ -2461,6 +2461,45 @@
       "correctOption": "B",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:08:08.825Z"
+    },
+    {
+      "id": "DSE2018_15_1766715729086",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2018",
+      "questionNumber": 15,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The diagram below shows an apparatus:\n\n![](images/Topic11/dse2018-15-1766715729086-inline-q-qimg-1766715720130-1474-mjm95h51-9672.png)\n\nWhich of the following mixtures can be separated by this apparatus?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "rock salt and sand",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "propan-2-ol and water",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "hexane (C<sub>6</sub>H<sub>14</sub>) and water",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "methanoic acid ethanoic acid",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:22:09.086Z"
     }
   ]
 }
