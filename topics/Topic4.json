@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2025-12-26T02:17:49.187Z",
-    "totalQuestions": 52
+    "lastUpdated": "2025-12-26T02:47:29.969Z",
+    "totalQuestions": 53
   },
   "questions": [
     {
@@ -2038,6 +2038,45 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:13:21.839Z"
+    },
+    {
+      "id": "DSE2020_16_1766717162437",
+      "source": "DSE",
+      "paper": "1A",
+      "year": "2020",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "The initial burette reading in a titration is 4.80 cm<sup>3</sup>, and the corresponding final burette reading can be found from the diagram below :\n\n![](images/Topic4/dse2020-16-1766717162437-inline-q-qimg-1766717149439-8776-mjm9u1e4-5207.png)\n\nWhat is the volume of the reagent used in the titration?",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "23.90 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "23.80 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "22.60 cm<sup>3</sup>",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "22.50 cm<sup>3</sup>",
+          "image": null
+        }
+      ],
+      "correctOption": "C",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-26T02:46:02.437Z"
     }
   ]
 }
