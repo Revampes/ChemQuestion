@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2025-12-26T02:17:49.785Z",
-    "totalQuestions": 44
+    "lastUpdated": "2025-12-27T09:37:55.555Z",
+    "totalQuestions": 45
   },
   "questions": [
     {
@@ -1735,6 +1735,45 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:17:38.439Z"
+    },
+    {
+      "id": "Others2004_16_1766828267290",
+      "source": "Others",
+      "paper": "1A",
+      "year": "2004",
+      "questionNumber": 16,
+      "type": "Multiple-choice",
+      "marks": 1,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Magnesium can be obtained from magnesium oxide by",
+      "image": null,
+      "options": [
+        {
+          "option": "A",
+          "content": "electrolysis of the molten oxide.",
+          "image": null
+        },
+        {
+          "option": "B",
+          "content": "heating the oxide strongly.",
+          "image": null
+        },
+        {
+          "option": "C",
+          "content": "heating the oxide with carbon.",
+          "image": null
+        },
+        {
+          "option": "D",
+          "content": "heating the oxide with zinc powder.",
+          "image": null
+        }
+      ],
+      "correctOption": "A",
+      "structuralAnswer": null,
+      "timestamp": "2025-12-27T09:37:47.290Z"
     }
   ]
 }
