@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2025-12-26T03:08:13.483Z",
-    "totalQuestions": 33
+    "lastUpdated": "2026-05-11T17:24:28.691Z",
+    "totalQuestions": 34
   },
   "questions": [
     {
@@ -1296,6 +1296,78 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T03:05:14.992Z"
+    },
+    {
+      "id": "DSE2012_2_1778520252542",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 2,
+      "type": "Structural question",
+      "marks": 1,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds",
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Poly(ethenyl ethanoate) is a polymer. Its monomer is ethenyl ethanoate with the structure shown below:\n\n![](images/Topic5/dse2012-2-1778520252542-inline-q-qimg-1778519360417-5798-mp1h1k8d-6528.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Ethene is the raw material used in making ethenyl ethanoate. Ethene can be produced from hydrocarbons of higher molecular mass by an important industrial process.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Name this industrial process.",
+                "subAnswer": "Cracking / Catalytic cracking / Thermal cracking",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Explain why this process is important.",
+                "subAnswer": "This process can produce small molcules / alkenes / ethene / petrol / hydrocarbons of lower molecular masses from large hydrocarbons to meet the industrial demand / to make useful materials / to make useful fuels / \nThis process can produce more small molecules / alkenes / ethene / petrol / hydrocarbons of lower molecular masses from large hydrocarbons.",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Draw the structure of poly(ethenyl ethanoate).",
+            "subAnswer": "\n![](images/Topic5/dse2012-2-1778520252542-inline-s-simg-1778519683054-4117-mp1h1nom-699.png)\n\nCH<sub>2</sub> and OC(=O)CH<sub>3</sub> can be written in the condensed form\nThe brackets and \"n\" should NOT be omitted\n",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Ethyl ethanoate is an organic solvent.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Draw the structure of ethyl ethanoate.",
+                "subAnswer": "\n![](images/Topic5/dse2012-2-1778520252542-inline-s-simg-1778519802767-9369-mp1h1ovz-2989.png)\n\nThe ester group should not be written in the condensed form/ CH<sub>3</sub>COOCH<sub>2</sub>CH<sub>3</sub> is NOT acceptable.\nThe bond angle of the ester group NOT necessary be drawn as 120 degree.\n",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Suggest a chemical test to show how to distinguish between ethenyl ethanoate and ethyl ethanoate.",
+                "subAnswer": "Bromine test - ethenyl ethanoate can decolourise orange / brown / yellow bromine / Br<sub>2</sub> solution immediately while ethyl ethanoate cannot. (NOT Accept Br). (Require the mention the reaction of Br<sub>2</sub> with ethenyl ethanoate is much faster than ethyl ethanoate). /\nTreating with acidified potassium permanganate solution - ethenyl ethanoate can decolourise pruple acifified potassium permanganate solution while ethyl ethanoate cannot. (Also accept treating with potassium permanganage solution (without acidification) with the correct descriptions of observation - change from purple to brown (ppt)).",
+                "marks": 2
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-11T17:24:12.542Z"
     }
   ]
 }
