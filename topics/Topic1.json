@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2025-12-26T02:47:32.033Z",
-    "totalQuestions": 23
+    "lastUpdated": "2026-05-11T12:17:41.836Z",
+    "totalQuestions": 24
   },
   "questions": [
     {
@@ -905,6 +905,55 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:47:15.727Z"
+    },
+    {
+      "id": "DSE2012_1_1778501848527",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 1,
+      "type": "Structural question",
+      "marks": 6,
+      "topics": [
+        "Topic 1: Planel Earth"
+      ],
+      "question": "Neon occurs naturally in three isotopes with the abundance of each isotope shown in the table below:\n\n\n![](images/Topic1/dse2012-1-1778501848527-inline-q-qimg-1778501465205-9558-mp163592-2743.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "What is meant by the term 'isotope' ?",
+            "subAnswer": "<u>Atoms</u> with the <u>same number of protons but different numbers of neutrons</u>. / <u>Atoms</u> with the <u>same atomic number but different mass numbers</u>.",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Calculate the relative atomic mass of neon.",
+            "subAnswer": "20 x 0.9048 + 21 x 0.0027 + 22 x 0.0925\n= 20.19 / 20.2 / 20.188 / 20.1877",
+            "marks": 2
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Give one daily application of neon.",
+            "subAnswer": "Gas for filling luminous advertisement tubes / neon tubes / neon signs / neon lights (NOT Accept fluorescent tubes)",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "Explain why the boiling point of neon is lower than that of oxygen.",
+            "subAnswer": "<u>Neon is monoatomic whereas oxygen is diatomic.</u> <u>O<sub>2</sub>molecule has larger molecular size</u> than Ne molecule. (NOT Accept larger molecular mass).\nThis stronger van der Waals' force / stronger intermolecular force among O<sub>2</sub> molecules. (NOT Accept VDW force)",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-11T12:17:28.528Z"
     }
   ]
 }
