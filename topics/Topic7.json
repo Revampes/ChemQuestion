@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2025-12-26T02:28:28.399Z",
-    "totalQuestions": 59
+    "lastUpdated": "2026-05-12T10:10:56.998Z",
+    "totalQuestions": 60
   },
   "questions": [
     {
@@ -2314,6 +2314,69 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:28:13.256Z"
+    },
+    {
+      "id": "DSE2012_3_1778580645593",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 3,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider the information concerning the lemon cells shown in the diagrams below:\n\n![](images/Topic7/dse2012-3-1778580645593-inline-q-qimg-1778580262222-7157-mp2gzxhq-5415.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "What is the function of the lemons in these cells?",
+            "subAnswer": "Provide H<sup>+</sup> / ions / electrolyte for the chemical cell.",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "By completing the table below, arrange metal X, metal Y and copper in increasing order of reducing power.\n\n{{INLINE_IMG:simg_1778580372300_2571}}\n\n",
+            "subAnswer": "Copper, Metal Y, Metal X / Cu, Y, X\n",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "For Cell 1, write the half equation for the change that occurs at :",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "metal X strip (X is a group II metal), and",
+                "subAnswer": "X → X<sup>2+</sup> + 2e<sup>-</sup>",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "copper strip.",
+                "subAnswer": "2H<sup>+</sup> + 2e<sup>-</sup> → H<sub>2</sub>",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "For Cell 2, would the metal Y strip be the positive electrode if the copper strip is replaced with a silver strip? Explain your answer.",
+            "subAnswer": "No, the metal Y strip would be the negative electrode. It is because silver is lower than copper in the electrochemical series / silver is less reactive than copper. So silver should be lower than Y in the electrochemical series / less reactive than Y.",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-12T10:10:45.593Z"
     }
   ]
 }
