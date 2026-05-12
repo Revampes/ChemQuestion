@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2026-05-12T11:46:14.780Z",
-    "totalQuestions": 55
+    "lastUpdated": "2026-05-12T12:01:47.596Z",
+    "totalQuestions": 56
   },
   "questions": [
     {
@@ -2139,6 +2139,81 @@
         "isEssay": true
       },
       "timestamp": "2026-05-12T11:46:06.053Z"
+    },
+    {
+      "id": "DSE2012_7_1778587295447",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 7,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A fertiliser only contains ammonium nitrate (NH<sub>4</sub>NO<sub>3</sub>) and potassium chloride (KCl). An experiment was performed to determine the percentage by mass of NH<sub>4</sub>NO<sub>3</sub> in this fertiliser. The set-up used is shown below:\n\n![](images/Topic4/dse2012-7-1778587295447-inline-q-qimg-1778586523064-5007-mp2kyk07-1195.png)\n\nThe KOH(aq) was added slowly to the fertiliser and the mixture formed was heated gently. The ammonia liberated from the reaction between NH<sub>4</sub>NO<sub>3</sub> and KOH was first cooled in a condenser, and then passed through an inverted funnel to a solution containing 0.0485 mol of HCl. The solution was finally made up to 100.00 cm<sup>3</sup> and labelled 'S'.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Write an ionic equation for the reaction between NH<sub>4</sub>NO<sub>3</sub> and KOH.",
+            "subAnswer": "NH<sub>4</sub><sup>+</sup> + OH<sup>-</sup> → NH<sub>3</sub> + H<sub>2</sub>O (Neglect physical state)",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Suggest the potential hazard of one of the chemicals used.",
+            "subAnswer": "The KOH is (very) corrosive. / NH<sub>4</sub>NO<sub>3</sub> is explosive / NH<sub>4</sub>NO<sub>3</sub> is flammable / HCl is corrosive.\n(Should specify the chemical; NOT Accept harmful / toxic / poisonous; Not Accept HCl Fume is corrosive as dilute HCl is involved.)",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Given that ammonia is very soluble in water, state the advantage of using an inverted funnel.",
+            "subAnswer": "Prevent sucking back as NH<sub>3</sub>(g) is very soluble. (Accept prevent HCl sucking upwards or similar descriptions) / Increase the surface area for dissolving NH<sub>3</sub>(g)",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "25.00 cm<sup>3</sup> of 'S' was transferred to a conical flask, and then titrated with 0.100 M NaOH(aq) using methyl orange as an indicator. 41.00 cm<sup>3</sup> of the NaOH(aq) was requried to reach the end point.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Name the apparatus that should be used to transfer 25.00 cm<sup>3</sup> of 'S'.",
+                "subAnswer": "pipette",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "State the colour change at the end point of the titration.",
+                "subAnswer": "Changes from red to orange. (NOT Accept red to yellow)",
+                "marks": 1
+              },
+              {
+                "subLabel": "iii",
+                "subQuestion": "Calculate the percentage by mass of NH<sub>4</sub>NO<sub>3</sub> in this fertiliser.\n(Molar mass of NH<sub>4</sub>NO<sub>3</sub> = 80.0 g)",
+                "subAnswer": "Number of moles of HCl(aq) remained in the beaker:\n= 0.100 x 0.04100 x (100.0 / 25.00) = 0.0164\nNumber of moles of NH<sub>3</sub>(aq) produced\n= 0.0485 - 0.0164 = 0.0321\nPercentage by mass of NH<sub>4</sub>NO<sub>3</sub> in the fertiliser\n= (0.0321 x 80) / 3.150 x 100% = 81.5% / 81.5\n(Accept 81.52% / 82.5% / 82.54%)",
+                "marks": 3
+              }
+            ]
+          },
+          {
+            "subLabel": "e",
+            "subQuestion": "Suggest a test to show to presence of a potassium-containing compound in the fertiliser.",
+            "subAnswer": "Flame test - gives a lilac / purple / light purple flame. (Not Accept deep purple and violet)",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-12T12:01:35.447Z"
     }
   ]
 }
