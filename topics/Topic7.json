@@ -1,7 +1,7 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-12T11:41:46.366Z",
+    "lastUpdated": "2026-05-12T12:25:48.979Z",
     "totalQuestions": 61
   },
   "questions": [
@@ -2344,7 +2344,7 @@
           },
           {
             "subLabel": "b",
-            "subQuestion": "By completing the table below, arrange metal X, metal Y and copper in increasing order of reducing power.\n\n{{INLINE_IMG:simg_1778580372300_2571}}\n\n",
+            "subQuestion": "By completing the table below, arrange metal X, metal Y and copper in increasing order of reducing power.\n\n![](images/Topic7/dse2012-3-1778580645593-inline-subq-text-subqimg-1778588739699-5771-mp2ltgfn-3405.png)\n",
             "subAnswer": "Copper, Metal Y, Metal X / Cu, Y, X\n",
             "marks": 1
           },
@@ -2376,7 +2376,7 @@
           }
         ]
       },
-      "timestamp": "2026-05-12T10:10:45.593Z"
+      "timestamp": "2026-05-12T12:25:47.119Z"
     },
     {
       "id": "DSE2012_5_1778586090702",
