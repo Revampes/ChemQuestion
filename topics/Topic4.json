@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2025-12-26T03:08:11.454Z",
-    "totalQuestions": 54
+    "lastUpdated": "2026-05-12T11:46:14.780Z",
+    "totalQuestions": 55
   },
   "questions": [
     {
@@ -2116,6 +2116,29 @@
       "correctOption": "C",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:56:12.965Z"
+    },
+    {
+      "id": "DSE2012_6_1778586366053",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 6,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Outline the steps in preparing solid lead(II) sulphate from solid lead(II) nitrate. You have to state the additional chemical reagents that are required, but need NOT mention the apparatus involved.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "Dissolve solid lead(II) nitrate in water.\n\nThen mix with (excess) sulphuric acid / K<sub>2</sub>SO<sub>4</sub> / Na<sub>2</sub>SO<sub>4</sub> solution. (Also accept other examples of solution sulphates) (Remark: if the candidate considered PbSO<sub>4</sub> as soluble salt, 0 mark for this part)\n\nFilter the mixture to obtain the residue (PbSO<sub>4</sub>), wash it with deionised water and then dry in oven.\n\nCommunication Mark",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-12T11:46:06.053Z"
     }
   ]
 }
