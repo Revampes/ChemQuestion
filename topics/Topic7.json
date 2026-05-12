@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-12T10:10:56.998Z",
-    "totalQuestions": 60
+    "lastUpdated": "2026-05-12T11:41:46.366Z",
+    "totalQuestions": 61
   },
   "questions": [
     {
@@ -2377,6 +2377,63 @@
         ]
       },
       "timestamp": "2026-05-12T10:10:45.593Z"
+    },
+    {
+      "id": "DSE2012_5_1778586090702",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 5,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "In order to prepare 50dm<sup>3</sup> of 0.1M CuSO<sub>4</sub>, an inexperienced electroplating worker added the required exact amount of CuSO<sub>4</sub>·5H<sub>2</sub>O(s) to water in a plastic container. He then stirred the mixture with an iron rod until the CuSO<sub>4</sub>·5H<sub>2</sub>O(s) dissolved completely. Finally, he sent a sample of the solution to the Quality Control Laboratory for analysis, but found that the concentration of CuSO<sub>4</sub>(aq) was lower than 0.1M.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "With the aid of a chemical equation, explain why the concentration of the CuSO<sub>4</sub>(aq) prepared was lower than 0.1M.",
+            "subAnswer": "Displacement reaction occurred when the iron rod is dipped into the copper(II) sulphate solution. / Some copper(II) ions (Cu<sup>2+</sup>) are reduced and deposited onto the surface of the iron rod as copper metal.\nCu<sup>2+</sup>(aq) + Fe(s) → Cu(s) + Fe<sup>2+</sup>(aq) / CuSO<sub>4</sub>(aq) + Fe(s) → Cu(s) + FeSO<sub>4</sub> (Not Accept CuSO<sub>4</sub>·5H<sub>2</sub>O, physical states are not required)",
+            "marks": 2
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "The worker used the prepared CuSO<sub>4</sub>(aq) to coat a layer of copper on a metallic object by electrolysis. He used an unreasonably high voltage, and found that some bubbles were formed on the object and the copper layer easily flaked off.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Explain why copper can be coated on the metallic object by electrolysis.",
+                "subAnswer": "Copper is lower than hydrogen in the electrochemical series / Cu<sup>2+</sup>is discharged preferentially than H<sup>+</sup> when a current is applied.",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Suggest what the bubbles were, and explain why the copper layer easily flaked off.",
+                "subAnswer": "Hydrogen gas / H<sub>2</sub>\nThe hydrogen gas bubbles hinder the deposition of copper on the surface of the metallic object, hence causing the copper metal deposited easily flaked off.",
+                "marks": 2
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Draw a labelled diagram of the experimental set-up used in a laboratory for coating a layer of copper on a metallic object by electrolysis.",
+            "subAnswer": "\n![](images/Topic7/dse2012-5-1778586090702-inline-s-simg-1778585977424-8439-mp2k8t8k-3411.png)\n\nCorrect overall diagram - 1 mark\nCorrect labels (copper, object, (accept omitting the object), CuSO<sub>4</sub>(aq)/Cu<sup>2+</sup>(aq)) - 1 mark\nCorrect direction of the battery / power supply - 1 mark\n- Label not accept CuSO<sub>4</sub>·5H<sub>2</sub>O\n",
+            "marks": 3
+          }
+        ]
+      },
+      "timestamp": "2026-05-12T11:41:30.702Z"
     }
   ]
 }
