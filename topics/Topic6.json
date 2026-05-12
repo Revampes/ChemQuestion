@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 6: Microscopic World II",
-    "lastUpdated": "2025-12-26T02:28:24.717Z",
-    "totalQuestions": 20
+    "lastUpdated": "2026-05-12T11:41:41.317Z",
+    "totalQuestions": 21
   },
   "questions": [
     {
@@ -784,6 +784,29 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:25:06.749Z"
+    },
+    {
+      "id": "DSE2012_4_1778585238953",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 4,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "With the aid of a diagram, explain the formation of hydrogen bonding in hydrogen fluoride.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "\n![](images/Topic6/dse2012-4-1778585238953-inline-s-simg-1778585182222-5192-mp2k8pj7-1946.png)\n\nFluorine / F is a highly / very electronegative element.\nThe H-F covalent bond is very / highly polar / The H-F molecule is highly polarized.",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-12T11:27:18.953Z"
     }
   ]
 }
