@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2026-05-11T11:53:42.282Z",
-    "totalQuestions": 44
+    "lastUpdated": "2026-05-13T07:10:35.388Z",
+    "totalQuestions": 45
   },
   "questions": [
     {
@@ -1735,6 +1735,43 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:17:38.439Z"
+    },
+    {
+      "id": "DSE2012_9_1778656227614",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 9,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "The diagram below shows an experimental set-up for investigating the factors affecting rusting.\n\n![](images/Topic3/dse2012-9-1778656227614-inline-q-qimg-1778656127117-739-mp3pzwuz-4301.png)\n\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "What would be observed if an iron nail in the above set-up rusts?",
+            "subAnswer": "Blue / Blue and pink colouration would be observed near the iron nail which rusts. (Accept green to blue / yellow to blue)",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Suggest which of the iron nails in the above set-up would NOT rust during the experiment.\nExplain your answer.",
+            "subAnswer": "Both iron nail B and iron nail C would not rust.\nFor iron nail B, as Mg is higher than iron in the metal reactivity series (with further explanation such as: the magnesium ribbon loses electrons more readily and will become Mg<sup>2+</sup> / Mg corrodes more readily. /\nfor iron nail B, the magnesium ribbon protects the iron nail from rusting by sacrificial protection.\nFor iron nail C, as it is sealed with grease, the iron cannot contact with water and / or air (oxygen), so rusting cannot occur.",
+            "marks": 3
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T07:10:27.614Z"
     }
   ]
 }
