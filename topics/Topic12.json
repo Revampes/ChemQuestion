@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 12: Patterns in the Chemical World",
-    "lastUpdated": "2025-12-25T13:49:37.475Z",
-    "totalQuestions": 18
+    "lastUpdated": "2026-05-13T08:25:36.621Z",
+    "totalQuestions": 19
   },
   "questions": [
     {
@@ -706,6 +706,49 @@
       "correctOption": "A",
       "structuralAnswer": null,
       "timestamp": "2025-12-25T13:49:15.880Z"
+    },
+    {
+      "id": "DSE2012_16_1778660732833",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 16,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Consider the following oxides:\n\nNa<sub>2</sub>O    MgO    Al<sub>2</sub>O<sub>3</sub>    SiO<sub>2</sub>    P<sub>4</sub>O<sub>10</sub>    SO<sub>2</sub>    Cl<sub>2</sub>O",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Which of the oxides listed above can conduct electricity in molten state?",
+            "subAnswer": "Na<sub>2</sub>O, MgO, Al<sub>2</sub>O<sub>3</sub>\n(Order is not important, 0 mark if more/less than these 3 oxides are listed)",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Explain why SiO<sub>2</sub> has the highest melting point among the covalent oxides listed above.",
+            "subAnswer": "SiO<sub>2</sub> has a giant covalent structure, and the Si and O atoms are linked by strong covalent bonds. (Not accept strong covalent structure / giant covalent bonds)\nOther covalent oxides are discrete molecules attracted by weak van der Waals' forces / weak intermolecular forces / weak dipolar interactions. (NOT accept VDW forces)",
+            "marks": 2
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Write a chemical equation for the reaction between Al<sub>2</sub>O<sub>3</sub>(s) and NaOH(aq).",
+            "subAnswer": "Al<sub>2</sub>O<sub>3</sub> + 2OH<sup>-</sup> + 3H<sub>2</sub> → 2Al(OH)<sub>4</sub><sup>-</sup>\nor Al<sub>2</sub>O<sub>3</sub> + 2NaOH + 3H<sub>2</sub>O → 2NaAl(OH)<sub>4</sub>",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T08:25:32.833Z"
     }
   ]
 }
