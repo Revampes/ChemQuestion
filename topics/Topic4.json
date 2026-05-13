@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2026-05-12T12:01:47.596Z",
-    "totalQuestions": 56
+    "lastUpdated": "2026-05-13T12:35:44.989Z",
+    "totalQuestions": 57
   },
   "questions": [
     {
@@ -2214,6 +2214,89 @@
         ]
       },
       "timestamp": "2026-05-12T12:01:35.447Z"
+    },
+    {
+      "id": "DSE2013_4_1778675737785",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 4,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "The structure of a dibasic acid with Chemical formula H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> is shown below:\n\n![](images/Topic4/dse2013-4-1778675737785-inline-q-qimg-1778674882665-450-mp41m2tn-3875.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Give the systematic name of this dibasic acid.",
+            "subAnswer": "Ethanedioic acid",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "A student expected a 0.0500 mol dm<sup>-3</sup> standard H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) to have a pH of 1.0. However, the pH of the solution, when measured with a calibrated pH meter, was found to be greater than 1.\nExplain this observation with the aid of a chemical equation.",
+            "subAnswer": "H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) ⇌ C<sub>2</sub>O<sub>4</sub><sup>2-</sup>(aq) + 2H<sup>+</sup> / H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) ⇌ HC<sub>2</sub>O<sub>4</sub><sup>-</sup>(aq) + H<sup>+</sup>(aq)\nH<sub>2</sub>C<sub>2</sub>O<sub>4</sub> is a weak acid. It undergoes incomplete ionisation in water. As pH = -log<sub>10</sub>[H<sup>+</sup>(aq)], its pH is thus greater than 1.",
+            "marks": 2
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Solid sodium hydroxide is available in school laboratories. However, standard NaOH(aq) CANNOT be directly prepared by weighing NaOH(s) and then dissolving it in water. Explain why.",
+            "subAnswer": "NaOH(s) is deliquescent / absorbs water from the atmosphere.\nOr, NaOH(s) reacts with CO<sub>2</sub>(g) in the atmosphere.\nSo the mass of NaOH(s) cannot be accurately determined by weighing.",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "In a titration experiment, 25.00 cm<sup>3</sup> of a 0.0500 mol dm<sup>-3</sup> standard H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) and a few drops of phenolphthalein indicator were placed in a conical flask. NaOH(aq) of unknown concentration was then added from a burette into the flask. 17.20 cm<sup>3</sup> of the NaOH(aq) was required to reach the titration end point.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "State the colour change at the titration end point.",
+                "subAnswer": "From colourless to pink.",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "From the titration results, calculate the concentration of the NaOH(aq), in mol dm<sup>-3</sup>.",
+                "subAnswer": "concentration of NaOH(aq)\n= 0.05 x 25 x 2 / 17.50\n= 0.145 mol dm<sup>-3</sup>",
+                "marks": 2
+              }
+            ]
+          },
+          {
+            "subLabel": "e",
+            "subQuestion": "The following were considered as INAPPROPRIATE practices when carrying out the experiment in (d). For each of them, explain why it would lead to inaccurate titration results:",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "rinsing the conical flask with the standard H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) before transferring 25.00 cm<sup>3</sup> of the acid solution to it",
+                "subAnswer": "Rinsing the conical flask with H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq): Some H<sup>+</sup>(aq) ions remain in the flask, and more alkali (as revealed from the burette reading) than actually required is used to reach the titration end point.",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "carrying out the titration with the filter funnel remained on top of the burette after using it o fill the burette with the NaOH(aq).",
+                "subAnswer": "NaOH(aq) clinging onto the stem of funnel may fall into the burette. The volume of alkali used (as revealed from the burette reading) is smaller than what is expected.",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T12:35:37.785Z"
     }
   ]
 }
