@@ -1,7 +1,7 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-13T08:15:23.526Z",
+    "lastUpdated": "2026-05-13T08:32:15.293Z",
     "totalQuestions": 69
   },
   "questions": [
@@ -2655,7 +2655,7 @@
     {
       "id": "DSE2012_12_1778658486558",
       "source": "DSE",
-      "paper": null,
+      "paper": "1B",
       "year": "2012",
       "questionNumber": 12,
       "type": "Structural question",
@@ -2694,12 +2694,12 @@
           {
             "subLabel": "d",
             "subQuestion": "Outline a synthetic route, with no more than three steps, to accomplish the following conversion. For each step, give the reagent(s), reaction conditions (as appropriate) and structure of the organic product.\n\n![](images/Topic11/dse2012-12-1778658486558-inline-subq-text-subqimg-1778658887889-4370-mp3rnb8w-1195.png)\n",
-            "subAnswer": "\n![](images/Topic11/dse2012-12-1778658486558-inline-s-simg-1778658947373-4447-mp3rn8bh-4946.png)\n\n\n![](images/Topic11/dse2012-12-1778658486558-inline-s-simg-1778658983625-6667-mp3rn9m2-5277.png)\n\n",
+            "subAnswer": "![](images/Topic11/dse2012-12-1778658486558-inline-s-simg-1778658947373-4447-mp3rn8bh-4946.png)\n\n\n![](images/Topic11/dse2012-12-1778658486558-inline-s-simg-1778658983625-6667-mp3rn9m2-5277.png)\n\n",
             "marks": 2
           }
         ]
       },
-      "timestamp": "2026-05-13T07:56:36.982Z"
+      "timestamp": "2026-05-13T08:32:15.292Z"
     },
     {
       "id": "DSE2012_14_1778659840317",
