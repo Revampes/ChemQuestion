@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2026-05-11T17:24:28.691Z",
-    "totalQuestions": 34
+    "lastUpdated": "2026-05-13T07:14:09.686Z",
+    "totalQuestions": 35
   },
   "questions": [
     {
@@ -1368,6 +1368,29 @@
         ]
       },
       "timestamp": "2026-05-11T17:24:12.542Z"
+    },
+    {
+      "id": "DSE2012_10_1778656445655",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 10,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Suggest THREE measures for reducing the emission of air pollutants upon using fossil fuels.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "(Any three)\n\nInstall catalytic converters in car\nUse unleaded petrol\nReplace diesel with LPG for vehicles / Use LPG for vehicles / mini-bus / bus / taxi\nInstall scrubbers in power plant\nUsing Ultra Low Sulphur Diesel / Use low sulphur/coat in power plant / use low sulphur fuels)\nUse electrostatic precipitator\nRemove dust by mechanical filtering\n\n(NOT Accept use less fossil fuels / use alternative fuels)",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-13T07:14:05.655Z"
     }
   ]
 }
