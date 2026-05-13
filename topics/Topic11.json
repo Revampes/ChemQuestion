@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-13T07:56:45.981Z",
-    "totalQuestions": 68
+    "lastUpdated": "2026-05-13T08:11:01.494Z",
+    "totalQuestions": 69
   },
   "questions": [
     {
@@ -2700,6 +2700,51 @@
         ]
       },
       "timestamp": "2026-05-13T07:56:36.982Z"
+    },
+    {
+      "id": "DSE2012_14_1778659840317",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 14,
+      "type": "Structural question",
+      "marks": 0,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "The diagram below shows the conversion of an oil molecule X to a fat molecule Y.\n\n![](images/Topic11/dse2012-14-1778659840317-inline-q-qimg-1778659666436-644-mp3s5ixf-1079.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "\n![](images/Topic11/dse2012-14-1778659840317-inline-subq-text-subqimg-1778659682149-2381-mp3s5n8j-921.png)\n",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Given that all alkyl groups in both X and Y are straight chains, label the chiral carbon(s) by using ' * ' in the above diagram.",
+                "subAnswer": "\n![](images/Topic11/dse2012-14-1778659840317-inline-s-simg-1778659755160-6431-mp3s5ltr-3980.png)\n",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "With reference to (i), explain whether a change in optical activity is involved in the above conversion.",
+                "subAnswer": "Yes. X has one chiral carbon and hence optically active, while Y does not has chiral carbons and hence optically inactive. Thus, there is a change in optical activity for the conversion.",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T08:10:40.317Z"
     }
   ]
 }
