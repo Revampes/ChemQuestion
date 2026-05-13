@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 10: Chemical Equilibrium",
-    "lastUpdated": "2025-12-25T12:56:11.625Z",
-    "totalQuestions": 27
+    "lastUpdated": "2026-05-13T08:06:32.615Z",
+    "totalQuestions": 28
   },
   "questions": [
     {
@@ -1058,6 +1058,43 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-25T12:55:56.397Z"
+    },
+    {
+      "id": "DSE2012_13_1778659585076",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 13,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the reaction represented by the equation  below:\n\nFe<sup>3+</sup>(aq) + SCN<sup>-</sup> ⇌ Fe(SCN)<sup>2+</sup>(aq)\n\nIn an experiment, 25.0 cm<sup>3</sup> of 0.010 M Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq) and 25.0 cm<sup>3</sup> of 0.010 M KSCN(aq) were mixed in a conical flask at room temperature, and equilibrium was attained.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "The concentration of Fe(SCN)<sup>2+</sup>(aq) in the mixture was 0.0043 M when equilibrium was attained.\nCalculate the equilibrium constant K<sub>c</sub> for the above reaction at room temperature.",
+            "subAnswer": "[Fe<sup>3+</sup>(aq)]<sub>initial after mixing</sub> = 0.010 x 2 x 0.5 = 0.01 M\n[SCN<sup>-</sup>(aq)]<sub>initial after mixing</sub> = 0.010 x 0.5 = 0.005 M\n\n![](images/Topic10/dse2012-13-1778659585076-inline-s-simg-1778659370682-2248-mp3rzvsp-6918.png)\n\nK<sub>c</sub> = [Fe(SCN)<sup>2+</sup>(aq)] / [Fe<sup>3+</sup>(aq)][SCN<sup>-</sup>(aq)]\n= (0.0043) / 0.0057 x 0.0007\n= 1078 mol<sup>-1</sup> dm<sup>3</sup> (accept 1080, no mark for wrong unit)\n\n",
+            "marks": 3
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "It is known that FePO<sub>4</sub>(s) is insoluble in water. Suggest what would be the effect on the equilibrium position if Na<sub>3</sub>PO<sub>4</sub>(s) is added to the equiibrium mixture.",
+            "subAnswer": "The equilibrium position will shift to the left hand side / reactant side.",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T08:06:25.076Z"
     }
   ]
 }
