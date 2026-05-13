@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 1: Planel Earth",
-    "lastUpdated": "2026-05-11T12:17:41.836Z",
-    "totalQuestions": 24
+    "lastUpdated": "2026-05-13T12:05:48.181Z",
+    "totalQuestions": 25
   },
   "questions": [
     {
@@ -954,6 +954,64 @@
         ]
       },
       "timestamp": "2026-05-11T12:17:28.528Z"
+    },
+    {
+      "id": "DSE2013_1_1778673935580",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 1,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 1: Planel Earth",
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Water is the most abundant compound on the Earth's surface. It is very important to life on Earth.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Draw the electron diagram for a water molecule, showing electrons in the outermost shells only.",
+            "subAnswer": "\n![](images/Topic1/dse2013-1-1778673935580-inline-s-simg-1778673593956-3761-mp40jizy-9780.png)\n",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Nearly 98% of the water on Earth is sea water, which is not fit for human consumption.\nThe diagram below shows the set-up used in a simple distillation experiment for obtaining water from sea water.\n\n![](images/Topic1/dse2013-1-1778673935580-inline-subq-text-subqimg-1778673680666-5166-mp40jk9r-2989.png)\n",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Outline the underlying principle of this simple distillation experiment.",
+                "subAnswer": "Water boils at about 100°C, but the salts in sea water are non-volatile.\nThe steam formed condenses on the cold surface of the condenser / cool down to give liquid water.",
+                "marks": 2
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Insoluble solid S was placed into the flask before heating. Why?",
+                "subAnswer": "To prevent bumping / to prevent frothing / splash / overflow due to overheating of water",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Explain, from molecular level, why the density of ice is lower than that of water.",
+            "subAnswer": "The attraction between water molecules is predominately hydrogen bond.\nHydrogen bond is directional. In ice, the water molecules have a tetrahedral arrangement / are packed in an open structure.\nIn liquid water, the water molecules have relative motion and this leads to the collapse of the open structure. The molecules becomes more closely packed. So liquid water has higher density than ice.",
+            "marks": 3
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T12:05:35.580Z"
     }
   ]
 }
