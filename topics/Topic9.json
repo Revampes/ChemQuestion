@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 9: Rate of Reaction",
-    "lastUpdated": "2025-12-26T02:38:05.455Z",
-    "totalQuestions": 24
+    "lastUpdated": "2026-05-13T07:26:16.208Z",
+    "totalQuestions": 25
   },
   "questions": [
     {
@@ -940,6 +940,49 @@
       "correctOption": "D",
       "structuralAnswer": null,
       "timestamp": "2025-12-26T02:36:10.245Z"
+    },
+    {
+      "id": "DSE2012_11_1778657166475",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 11,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "In an experiment, 50 cm<sup>3</sup> of 2.0 M HCl(aq) was added to a conical flask containing 2.0 g of zinc powder. The curve in the graph below shows the volume, measured at room temperatureand pressure, of the hydrogen gas liberated in the first few minutes of the experiment. The dotted line in the graph is the tangent to the curve at the start of the reaction.\n\n![](images/Topic9/dse2012-11-1778657166475-inline-q-qimg-1778656724048-9680-mp3qk2xo-3864.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "The 'initial rate' of a reaction is defined as the instantaneous rate at the start of the reaction. With reference to the graph above, calculate the initial rate of the reaction with respect to the volume of hydrogen gas liberated.",
+            "subAnswer": "Initial rate = 60/4 = 15 cm<sup>3</sup>/min (0.25 cm<sup>3</sup>/s) (Accept 14.8 - 15.2)",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Explain qualitatively the effect on the initial rate of the reaction of replacing the 2.0 M HCl(aq) with 2.0 M H<sub>2</sub>SO<sub>4</sub>(aq).",
+            "subAnswer": "HCl is a monobasic acid, while H<sub>2</sub>SO<sub>4</sub> is a dibasic acid. Initial rate increases if H<sub>2</sub>SO<sub>4</sub> is used.\n/ Initial rate increases as the concentration of H<sup>+</sup> increases in 2.0 M H<sub>2</sub>SO<sub>4</sub>.\nTherefore, the frequency of effective collisions increases.",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Upon completion of the reaction, all the zinc powder was used up. Calculate the theoretical volume of hydrogen gas liberated, measured at room temperature and pressure.\n(Molar volume of gas at room temperature and pressure = 24 dm<sup>3</sup>;\nRelative atomic mass: Zn = 65.4)",
+            "subAnswer": "No. of mol of Zn = 2 / 65.4 = 0.031 mol\nVol of H<sub>2</sub> formed = 0.031 x 24000 = 734 cm<sup>3</sup> / 0.734 dm<sup>3</sup> \n(Accept 730-744 cm<sup>3</sup> / 0.73-0.74 dm<sup>3</sup>)\n(the unit must be correct)\n",
+            "marks": 3
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T07:26:06.475Z"
     }
   ]
 }
