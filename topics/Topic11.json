@@ -1,7 +1,7 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-13T08:11:01.494Z",
+    "lastUpdated": "2026-05-13T08:15:23.526Z",
     "totalQuestions": 69
   },
   "questions": [
@@ -2704,11 +2704,11 @@
     {
       "id": "DSE2012_14_1778659840317",
       "source": "DSE",
-      "paper": "1B",
+      "paper": null,
       "year": "2012",
       "questionNumber": 14,
       "type": "Structural question",
-      "marks": 0,
+      "marks": 4,
       "topics": [
         "Topic 11: Chemistry of Carbon Compounds"
       ],
@@ -2724,14 +2724,14 @@
         "subQuestions": [
           {
             "subLabel": "a",
-            "subQuestion": "\n![](images/Topic11/dse2012-14-1778659840317-inline-subq-text-subqimg-1778659682149-2381-mp3s5n8j-921.png)\n",
+            "subQuestion": "![](images/Topic11/dse2012-14-1778659840317-inline-subq-text-subqimg-1778659682149-2381-mp3s5n8j-921.png)\n",
             "subAnswer": "",
             "marks": 0,
             "subQuestions": [
               {
                 "subLabel": "i",
                 "subQuestion": "Given that all alkyl groups in both X and Y are straight chains, label the chiral carbon(s) by using ' * ' in the above diagram.",
-                "subAnswer": "\n![](images/Topic11/dse2012-14-1778659840317-inline-s-simg-1778659755160-6431-mp3s5ltr-3980.png)\n",
+                "subAnswer": "![](images/Topic11/dse2012-14-1778659840317-inline-s-simg-1778659755160-6431-mp3s5ltr-3980.png)\n",
                 "marks": 1
               },
               {
@@ -2741,10 +2741,16 @@
                 "marks": 1
               }
             ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "One of the products in the alkaline hydrolysis of Y has a cleansing property. Explain the cleansing property of this product.",
+            "subAnswer": "The C<sub>17</sub>H<sub>35</sub>COO<sup>-</sup> ions has an ionic head (COO<sup>-</sup>) and a hydrocarbon tail (C<sub>17</sub>H<sub>35</sub>).\nThe hydrocarbon tail dissolves in grease droplets / is hydrophobic while the ionic head dissolves in water / is hydrophilic.\nThe ionic heads of the grease droplets repel from each other and the dirts inside these droplets are then removed.\nCommunication Mark",
+            "marks": 4
           }
         ]
       },
-      "timestamp": "2026-05-13T08:10:40.317Z"
+      "timestamp": "2026-05-13T08:15:23.525Z"
     }
   ]
 }
