@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-11T17:24:38.641Z",
-    "totalQuestions": 67
+    "lastUpdated": "2026-05-13T07:48:20.393Z",
+    "totalQuestions": 68
   },
   "questions": [
     {
@@ -2651,6 +2651,49 @@
         ]
       },
       "timestamp": "2026-05-11T17:24:12.542Z"
+    },
+    {
+      "id": "DSE2012_12_1778658486558",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 12,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Cinnamon, which can be used as a flavouring, contains cinnamaldehyde (C<sub>9</sub>H<sub>8</sub>O). The structure of cinnamaldehyde is shown below:\n\n![](images/Topic11/dse2012-12-1778658486558-inline-q-qimg-1778657954420-5029-mp3rcba1-6375.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Draw the trans-isomer for the above structure.",
+            "subAnswer": "\n![](images/Topic11/dse2012-12-1778658486558-inline-s-simg-1778658013829-917-mp3rcfsn-4988.png)\n\nThe bond angles of the alkene should be about 120 degree. The bonds drawn in 90 degree are not accepted",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Explain why ethyl ethanoate is a better solvent than water for dissolving cinnamaldehyde.",
+            "subAnswer": "Cinnamaldehyde is a non-polar compound which can dissolve in a relatively non-polar organic solvent like ethyl ethanoate. However, water is a polar solvent. /\nBoth cinnamaldehyde and ethyl ethanoate are relatively non-polar compounds. Their molecules are attracted by weak intermolecular forces. weak dipole-dipole interactions / van der Waals' forces)",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "In an experiment to extract cinnamaldehyde from cinnamon, a solution containing only ethyl ethanoate and cinnamaldehyde is obtained after a series of steps. In order to separate these two compounds, simple distillation can be carried out. Draw a diagram for the set-up involved, and label the name of the distillate collected.\n(Boiling point: cinnamaldehyde = 248 °C, ethyl ethanoate = 77 °C)",
+            "subAnswer": "\n![](images/Topic11/dse2012-12-1778658486558-inline-s-simg-1778658375765-4370-mp3rcgyd-181.png)\n\n1 mark is given to the drawing of the correct step\nNo mark will given to the drawing if \n    - The thermometer or the condenser is missing\n    - The setup is a closed system\n    - The top of the distillation head is open to air\n    - A fractional column is included in the drawing\n1 mark is given to the correct labeling and spelling of the distillate (ethyl ethanoate)",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T07:48:06.558Z"
     }
   ]
 }
