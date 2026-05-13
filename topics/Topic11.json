@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-13T08:36:43.063Z",
-    "totalQuestions": 69
+    "lastUpdated": "2026-05-13T12:19:36.951Z",
+    "totalQuestions": 70
   },
   "questions": [
     {
@@ -2751,6 +2751,43 @@
         ]
       },
       "timestamp": "2026-05-13T08:36:43.063Z"
+    },
+    {
+      "id": "DSE2013_3_1778674768603",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 3,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Compound W contains carbon, hydrogen and oxygen only. The relative molecular mass of W is 88.0.\nComplete combustion of 1.32 g of W gives 2.64 g of carbon dioxide and 1.08 g of water.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Deduce the molecular formula of W.\n(Relative atomic masses: H = 1.0, C = 12.0, O = 16.0)",
+            "subAnswer": "C = 2.64 / 44\nH = 2 x 1.08 / 18\nO = 0.48 / 16\nAtom ratio = 2 : 4 : 1\nEmpirical formula is C<sub>2</sub>H<sub>4</sub>O\nMolecular formula is (C<sub>2</sub>H<sub>4</sub>O)<sub>n</sub>\nn x (12 x 2 + 1 x 4 + 16 x 1) = 88.0\nn = 2\nMolecular formula of W is C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>",
+            "marks": 3
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Given that W has only one functional group, draw TWO possible structures of W.",
+            "subAnswer": "Any two of the following structures. 1 mark for each structure.\n\n![](images/Topic11/dse2013-3-1778674768603-inline-s-simg-1778674762511-5306-mp411c3o-8765.png)\n",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T12:19:28.603Z"
     }
   ]
 }
