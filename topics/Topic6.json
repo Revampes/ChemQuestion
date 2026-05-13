@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 6: Microscopic World II",
-    "lastUpdated": "2026-05-13T12:05:55.702Z",
-    "totalQuestions": 22
+    "lastUpdated": "2026-05-13T12:13:23.345Z",
+    "totalQuestions": 23
   },
   "questions": [
     {
@@ -865,6 +865,49 @@
         ]
       },
       "timestamp": "2026-05-13T12:05:35.580Z"
+    },
+    {
+      "id": "DSE2013_2_1778674392980",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 2,
+      "type": "Structural question",
+      "marks": 6,
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "question": "Both BF<sub>3</sub> and NH<sub>3</sub> exist as simple molecules.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "For each of these molecules, draw its three-dimensional structure.\nBF<sub>3</sub>        NH<sub>3</sub>",
+            "subAnswer": "\n![](images/Topic6/dse2013-2-1778674392980-inline-s-simg-1778674133644-4029-mp40taqk-7663.png)\n\n\n![](images/Topic6/dse2013-2-1778674392980-inline-s-simg-1778674143492-9171-mp40tbz0-1187.png)\n\n(Showing the lone pair is NOT a must)",
+            "marks": 2
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "For each of these molecules, explain whether or not it is polar.",
+            "subAnswer": "BF<sub>3</sub> is a non-polar molecule. The three polar B-F bonds are symmetrically arranged on the same plane.\\\nNH<sub>3</sub> is a polar molecule. The central atom has a lone pair in its outermost shell and thus the three polar N-H bonds are not on the same plane.",
+            "marks": 2
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "BF<sub>3</sub> reacts with NH<sub>3</sub> to give F<sub>3</sub>BNH<sub>3</sub>. Describle the bond formation between BF<sub>3</sub> and NH<sub>3</sub>.",
+            "subAnswer": "In BF<sub>3</sub>, there are three bonding electron pairs / there is a vacant site in the outermost shell of the B atom.\nBy accepting the lone pair of electrons from the N atom of NH<sub>3</sub> / forming dative bond with N, the B atom attains the stable electronic configuration of neon (a noble gas).",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-13T12:13:12.980Z"
     }
   ]
 }
