@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2026-05-13T07:14:09.686Z",
-    "totalQuestions": 35
+    "lastUpdated": "2026-05-13T08:19:02.478Z",
+    "totalQuestions": 36
   },
   "questions": [
     {
@@ -1391,6 +1391,29 @@
         "isEssay": true
       },
       "timestamp": "2026-05-13T07:14:05.655Z"
+    },
+    {
+      "id": "DSE2012_15_1778660335899",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2012",
+      "questionNumber": 15,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Use electron diagrams to illustrate, step by step, how CH<sub>4</sub> reacts with Br<sub>2</sub> under sunlight to form CH<sub>3</sub>Br.\n(Show electrons in the outermost shells only.)",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "\n![](images/Topic5/dse2012-15-1778660335899-inline-s-simg-1778660273091-3760-mp3sfxuf-9735.png)\n\nNo marks are given if the numbers of electrons in the outermost shells are wrong\nIf more than three equations are written, marks are given to the correct ones (Max = 3)\nIf the candidate used the wrong halogen atoms (F, Cl, I) in the drawing, deduct 1 mark)",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-13T08:18:55.899Z"
     }
   ]
 }
