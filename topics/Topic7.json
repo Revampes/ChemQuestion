@@ -2556,6 +2556,63 @@
         ]
       },
       "timestamp": "2026-05-14T18:16:50.781Z"
+    },
+    {
+      "id": "DSE2013_10_1778782951863",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 10,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The diagram below shows the structure of a hydrogen-oxygen fuel cell using concentrated potassium hydroxide solution as the electrolyte.\n\n![](images/Topic7/dse2013-10-1778782951863-inline-q-qimg-1778782703302-9312-mp5thdcq-1483.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "An oxygen cylinder can be used to provide oxygen for the above fuel cell. From the hazard warning labels shown below, circle the label that should be displayed on the oxygen cylinder.\n\n![](images/Topic7/dse2013-10-1778782951863-inline-subq-text-subqimg-1778782739768-4046-mp5thhgw-1460.png)\n",
+            "subAnswer": "\n![](images/Topic7/dse2013-10-1778782951863-inline-s-simg-1778782757824-9274-mp5thg9g-5468.png)\n",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Write the half equation for the change occurring at each of the following electrodes when this fuel cell is producing a current.\n\nelectrode D\n\nelectrode E",
+            "subAnswer": "electrode D: H<sub>2</sub>(g) + 2OH<sup>-</sup>(aq) → 2H<sub>2</sub>O(l) + 2e<sup>-</sup>\nelectrode E: O<sub>2</sub>(g) + 2H<sub>2</sub>O(l) + 4e<sup>-</sup> → 4OH<sup>-</sup>(aq)",
+            "marks": 2
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Some people have the view that cars powered by hydrogen-oxygen fuel cells are more environmentally friendly than those powered by petrol.\n\nComment on this view from each of the following aspects:",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "source of fuel",
+                "subAnswer": "Accept both 'agree' and 'disagree' answers.\nAgree: The hydrogen gas can be obtained from renewable source (with one proper example)\nDisagree: The hydrogen gas used is produced from fossil fuel such as steam reforming of natural gas. / Electrical energy is consumed in the production of hydrogen from water.",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "the car emissions",
+                "subAnswer": "Agree: Only water is produced from the hydrogen-oxygen fuel cells. Or: No CO<sub>2</sub> / SO<sub>2</sub> / NO<sub>x</sub> / CO / unburnt hydrocarbon in the exhaust.",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-14T18:22:31.864Z"
     }
   ]
 }
