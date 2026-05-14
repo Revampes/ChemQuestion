@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2026-05-13T08:19:02.478Z",
-    "totalQuestions": 36
+    "lastUpdated": "2026-05-14T18:05:39.712Z",
+    "totalQuestions": 37
   },
   "questions": [
     {
@@ -1414,6 +1414,29 @@
         "isEssay": true
       },
       "timestamp": "2026-05-13T08:18:55.899Z"
+    },
+    {
+      "id": "DSE2013_6_1778781934947",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 6,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Briefly describe how polypropene can be produced from naphtha.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "Cracking of naphtha gives a mixture of hydrocarbons which include propene.\nFractional distillation of the gaseous products can separate propene from other hydrocarbons.\nPolymerisation of propene at elevated temperatures / > 45°C / high pressure / > 5 atm / in the presence of a suitable catalyst / Ziegler-Natta catalyst gives polypropene.\n\nCommunication mark",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-14T18:05:34.947Z"
     }
   ]
 }
