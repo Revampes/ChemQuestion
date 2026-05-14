@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2026-05-13T07:10:35.388Z",
-    "totalQuestions": 45
+    "lastUpdated": "2026-05-14T18:14:06.873Z",
+    "totalQuestions": 46
   },
   "questions": [
     {
@@ -1772,6 +1772,63 @@
         ]
       },
       "timestamp": "2026-05-13T07:10:27.614Z"
+    },
+    {
+      "id": "DSE2013_8_1778782438377",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 8,
+      "type": "Structural question",
+      "marks": 2,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Both caesium (Cs) and sodium (Na) are elements in Group I of the Periodic Table. Caesium reacts with chlorine to form caesium chloride.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Write the chemical equation for the reaction of caesium with chlorine.",
+            "subAnswer": "2Cs + Cl<sub>2</sub> → 2CsCl",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Solid caesium chloride has a giant ionic structure.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Draw a diagram to show the structure of caesium chloride.",
+                "subAnswer": "\n![](images/Topic3/dse2013-8-1778782438377-inline-s-simg-1778782406979-6243-mp5t52hk-8297.png)\n",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Explain why solid caesium chloride is brittle.",
+                "subAnswer": "In CsCl, ions are strongly held by ionic bond.\nRelative movement of the ions can bring ions of the same charge close to each other, and will result in repulsion. So CsCl(s) is brittle.",
+                "marks": 2
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Predict, with ONE reason, whether sodium or caesium is more reactive towards chlorine.",
+            "subAnswer": "Cs(s) is more reactive than Na(s). The reactivity of Group I metals increases down the group.\n/ The electron in the outermost shell of Cs is weakly bounded by the nucleus as compared with that of Na.",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-14T18:13:58.377Z"
     }
   ]
 }
