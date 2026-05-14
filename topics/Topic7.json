@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-14T18:10:55.272Z",
-    "totalQuestions": 62
+    "lastUpdated": "2026-05-14T18:17:00.569Z",
+    "totalQuestions": 63
   },
   "questions": [
     {
@@ -2505,6 +2505,57 @@
         ]
       },
       "timestamp": "2026-05-14T18:10:45.659Z"
+    },
+    {
+      "id": "DSE2013_9_1778782610781",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 9,
+      "type": "Structural question",
+      "marks": 2,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The diagram below shows the set-up used in an investigation on the electrolysis of concentrated potassium iodide solution:\n\n![](images/Topic7/dse2013-9-1778782610781-inline-q-qimg-1778782515758-740-mp5t8s16-9570.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "State and explain the expected observation around carbon electrode A during the electrolysis.",
+            "subAnswer": "Brown colour is observed.\nDue to the high concentration of KI in the solution, I<sup>-</sup> ions are preferentially discharged to give I<sub>2</sub> which dissolves in KI(aq) to give brown I<sub>3</sub><sup>-</sup> ions.",
+            "marks": 2
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "The solution near carbon electrode B gradually turned blue.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Explain this observation.",
+                "subAnswer": "H<sup>+</sup> ions is discharged and reduced to H<sub>2</sub> at electrode B.\nThe amount of OH<sup>-</sup> ions increases at electrode B as H<sup>+</sup> is being consumed. So universal indicator turns blue under alkaline conditions.",
+                "marks": 2
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Would there be any change in observation if carbon electrode B is replaced by a copper electrode in the investigation? Explain.",
+                "subAnswer": "Accept both ‘yes’ and ‘no’ answers.\n‘No’: B is the negative electrode. Copper will not lose electrons to give Cu<sup>2+</sup> at the negative electrode / Copper cannot undergo reduction at the negative electrode.\n‘Yes’: Copper and carbon have different electrical conductivity. Therefore the solution near electrode B turns blue more quickly. / The current in the external circuit changes.",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-14T18:16:50.781Z"
     }
   ]
 }
