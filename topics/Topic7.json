@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-12T12:25:48.979Z",
-    "totalQuestions": 61
+    "lastUpdated": "2026-05-14T18:10:55.272Z",
+    "totalQuestions": 62
   },
   "questions": [
     {
@@ -2434,6 +2434,77 @@
         ]
       },
       "timestamp": "2026-05-12T11:41:30.702Z"
+    },
+    {
+      "id": "DSE2013_7_1778782245658",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 7,
+      "type": "Structural question",
+      "marks": 1,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Thermite reactions broadly refer to exothermic oxidation-reduction reactions between a metal powder and a metal oxide. One example is the reaction of finely divided iron(III) oxide with aluminium powder. This reaction results in a very high temperature, and is commonly used in the welding of rail tracks for trains. At this very high temperature, the molten iron formed joins the rail tracks together.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": " ",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Complete and balance the chemical equation for the following thermite reaction.",
+                "subAnswer": "Fe<sub>2</sub>O<sub>3</sub>(s) + 2Al(s) → 2Fe(l) + Al<sub>2</sub>O<sub>3</sub>(s)",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Sketch a labelled enthalpy level diagram for this reaction.",
+                "subAnswer": "\n![](images/Topic7/dse2013-7-1778782245658-inline-s-simg-1778782124839-9114-mp5t0yjh-8419.png)\n",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Copper powder CANNOT be used to replace aluminium powder in carrying out the thermite reaction with iron(III) oxide. Explain why.",
+            "subAnswer": "Copper is less reactive than iron / copper has a lower affinity for oxygen than iron. / Copper is a weaker reducing agent than iron. / Copper is lower than iron in the chemical reactivity series.\nSo Cu(s) cannot reduce Fe<sub>2</sub>O<sub>3</sub>(s).",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "The extraction of iron from its ores also involves the reduction of iron oxides.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Suggest why aluminium is NOT used as the reducing agent in iron extraction.",
+                "subAnswer": "Aluminium is more expensive than iron.",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Suggest ONE reducing agent commonly used in iron extraction.",
+                "subAnswer": "coke / carbon / charcoal / carbon monoxide / CO",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-14T18:10:45.659Z"
     }
   ]
 }
