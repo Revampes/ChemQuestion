@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 8: Chemical Reactions and Energy",
-    "lastUpdated": "2026-05-13T06:57:49.157Z",
-    "totalQuestions": 24
+    "lastUpdated": "2026-05-14T18:03:41.619Z",
+    "totalQuestions": 25
   },
   "questions": [
     {
@@ -979,6 +979,57 @@
         ]
       },
       "timestamp": "2026-05-13T06:57:39.044Z"
+    },
+    {
+      "id": "DSE2013_5_1778781808492",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 5,
+      "type": "Structural question",
+      "marks": 1,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "The following experiment was carried out to determine the enthalpy change of solution of ammonium nitrate:\n\n![](images/Topic8/dse2013-5-1778781808492-inline-q-qimg-1778781204002-9173-mp5srjpz-5350.png)\n\nA certain volume of water was placed in an expanded polystyrene cup. The temperature of the water in the cup was measured with a thermometer at half-minute intervals. Right at the third minute, 2.0 g of NH<sub>4</sub>NO<sub>3</sub>(s) was added to the cup. The solution in the cup was then stirred thoroughly and its temperature was measured for an additional 7 minutes.\n\nThe recordings of temperature are shown in the graph below:\n\n![](images/Topic8/dse2013-5-1778781808492-inline-q-qimg-1778781283038-851-mp5srlbt-9724.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "\n![](images/Topic8/dse2013-5-1778781808492-inline-subq-text-subqimg-1778781323422-8072-mp5srnfb-4549.png)\n",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "From the graph, estimate the greatest temperature drop of the solution in the cup.",
+                "subAnswer": "(26.6 - 19.8) = 6.8°C",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "The mass of the NH<sub>4</sub>OH<sub>3</sub>(aq) obtained was found to be 21.8 g. Calculate the enthalpy change of solution of ammonium nitrate, in kJ mol<sup>-1</sup>, under the experimental conditions.\n(Assume that the heat capacity of the expanded polystyrene cup is negligible, and the specific heat capacity of the NH<sub>4</sub>OH<sub>3</sub>(aq) obtained is 4.3 J g<sup>-1</sup> K<sup>-1</sup>.)",
+                "subAnswer": "Heat absorbed = mcΔT = 21.8 x 4.3 x 6.8 = 637.4 J\nNo. of moles of NH<sub>4</sub>OH<sub>3</sub>(s) used = 2.0 / 80 = 0.025\nΔH = +(637.4 / 0.025) = +25.5 kJ mol<sup>-1</sup>",
+                "marks": 3
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Suggest ONE way of keeping NH<sub>4</sub>OH<sub>3</sub>(s) dry during storage.",
+            "subAnswer": "Place NH<sub>4</sub>NO<sub>3</sub>(s) in a desiccator / sealed container containing drying agent (anhydrous CaCl<sub>2</sub>, CaO(s), MgSO<sub>4</sub>, etc.) / silica gel.",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-14T18:03:28.492Z"
     }
   ]
 }
