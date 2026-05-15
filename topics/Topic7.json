@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-15T15:05:28.911Z",
-    "totalQuestions": 67
+    "lastUpdated": "2026-05-15T15:21:04.209Z",
+    "totalQuestions": 68
   },
   "questions": [
     {
@@ -2792,6 +2792,69 @@
         ]
       },
       "timestamp": "2026-05-15T15:05:24.381Z"
+    },
+    {
+      "id": "DSE2015_4_1778858460156",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 4,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Lead-acid accumulator is a secondary cell containing sulphuric acid. It is commonly used in starting up motor vehicle engines.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "What is meant by the term 'secondary cell'?",
+            "subAnswer": "A cell that can be recharged.",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Suggest why a lead-acid accumulator for starting up motor vehicle engines.",
+            "subAnswer": "It can provide a high current / voltage / power to start up the engine.",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "State one environmental impact that would be imposed from the disposal of lead-acid accumulators.",
+            "subAnswer": "Lead / Lead compounds are toxic. / Sulphuric acid is corrosive / irritant.",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "A student diluted a sample of concentrated sulphuric acid for making a lead-acid accumulator.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Describe how concentrated sulphuric acid can be diluted in a laboratory. State a safety precaution needed during the dilution process.",
+                "subAnswer": "Pour a small amount of the concentrated sulphuric acid to a large amount of water.\nWear goggle / face shield / safety spectacles / safety glasses / gloves.",
+                "marks": 3
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "5.00 cm<sup>3</sup> of the solution in the lead-acid accumulator contains 2.48 g of sulphuric acid. Calculate the molarity of the sulphuric acid in the solution.\n(Molar mass of sulphuric acid = 98.1 g)",
+                "subAnswer": "Number of mole of sulphuric acid = 2.48 / 98.1 = 0.0253\nMolarity of sulphuric acid = 0.0253 / 0.005 = 5.06 (M)",
+                "marks": 2
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T15:21:00.156Z"
     }
   ]
 }
