@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 12: Patterns in the Chemical World",
-    "lastUpdated": "2026-05-15T09:27:07.323Z",
-    "totalQuestions": 20
+    "lastUpdated": "2026-05-15T15:52:39.423Z",
+    "totalQuestions": 21
   },
   "questions": [
     {
@@ -800,6 +800,57 @@
         ]
       },
       "timestamp": "2026-05-15T09:27:01.171Z"
+    },
+    {
+      "id": "DSE2015_10_1778860344329",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 10,
+      "type": "Structural question",
+      "marks": 2,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": " ",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "For each of the oxides below, draw its electron diagram (showing electrons in the outermost shells only), and state its behaviour in water.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Na<sub>2</sub>O",
+                "subAnswer": "\n![](images/Topic12/dse2015-10-1778860344329-inline-s-simg-1778860294627-8646-mp73iz8r-2628.png)\n\nIt gives an alkaline solution.",
+                "marks": 2
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Cl<sub>2</sub>O",
+                "subAnswer": "\n![](images/Topic12/dse2015-10-1778860344329-inline-s-simg-1778860317509-2830-mp73j0fs-8509.png)\n\nIt gives an acidic solution.",
+                "marks": 2
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Using iron as an example, illustrate TWO characteristics of transition metals.",
+            "subAnswer": "Any TWO of the following:\n\nFe can have variable oxidation numbers – Fe<sup>2+</sup>, Fe<sup>3+</sup>\n\nFe can act as a catalyst – e.g., Fe in Haber Process\n\nFe forms coloured compounds – Fe<sup>2+</sup>(aq) is green / Fe<sup>3+</sup>(aq) is yellow",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T15:52:24.329Z"
     }
   ]
 }
