@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2026-05-15T08:33:50.175Z",
-    "totalQuestions": 49
+    "lastUpdated": "2026-05-15T13:02:35.999Z",
+    "totalQuestions": 50
   },
   "questions": [
     {
@@ -1938,6 +1938,49 @@
         "isEssay": true
       },
       "timestamp": "2026-05-15T08:33:46.213Z"
+    },
+    {
+      "id": "DSE2015_1_1778850140576",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 1,
+      "type": "Structural question",
+      "marks": 6,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Argon and chlorine are elements in the same period of the Periodic Table.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Draw the electron diagram for a molecule of argon, showing electrons in all shells.",
+            "subAnswer": "\n![](images/Topic3/dse2015-1-1778850140576-inline-s-simg-1778849362545-5790-mp6xg7xx-7943.png)\n",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "What is the type of intermolecular force in chlorine gas?",
+            "subAnswer": "Van der Waals' forces",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Complete the table below by stating the natural source and the method of extraction from the source for each element.\n\n![](images/Topic3/dse2015-1-1778850140576-inline-subq-text-subqimg-1778850113066-5645-mp6xgbe5-4537.png)\n",
+            "subAnswer": "\n![](images/Topic3/dse2015-1-1778850140576-inline-s-simg-1778850133711-1961-mp6xg9ay-1257.png)\n",
+            "marks": 4
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T13:02:20.576Z"
     }
   ]
 }
