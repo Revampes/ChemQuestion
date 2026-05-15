@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 8: Chemical Reactions and Energy",
-    "lastUpdated": "2026-05-14T18:03:41.619Z",
-    "totalQuestions": 25
+    "lastUpdated": "2026-05-15T08:44:41.547Z",
+    "totalQuestions": 26
   },
   "questions": [
     {
@@ -1030,6 +1030,78 @@
         ]
       },
       "timestamp": "2026-05-14T18:03:28.492Z"
+    },
+    {
+      "id": "DSE2014_6_1778834606823",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 6,
+      "type": "Structural question",
+      "marks": 0,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds",
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Petrol is a commonly used motor car fuel. It can be obtained from petroleum by fractional distillation.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": " ",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Explain, from molecular level, why petrol can be obtained from petroleum by fractional distillation.",
+                "subAnswer": "Components having different boiling points can be separated from each other by fractional distillation.\nThe longer the carbon chain, the higher its boiling point.",
+                "marks": 2
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Other than directly obtaining petrol from fractional distillation of petroleum, suggest a way for producing extra petrol.",
+                "subAnswer": "Cracking of heavy oil/heavy hydrocarbon fractions",
+                "marks": 1
+              },
+              {
+                "subLabel": "iii",
+                "subQuestion": "Octane (C<sub>8</sub>H<sub>18</sub>) is a component of petrol. Using octane as an example, state the meaning of the term ‘standard enthalpy change of combustion’ with the aid of a chemical equation.",
+                "subAnswer": "The enthalpy change when one molecule of a compound (/ substance / octane) burns completely under standard conditions/25°C and 1 atm.\n\nC<sub>8</sub>H<sub>18</sub>(l) + 25/2 O<sub>2</sub>(g) → 8CO<sub>2</sub>(g) + 9H<sub>2</sub>O(l)\n(The eq. should have correct state symbols)",
+                "marks": 2
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Motor cars powered by petrol emit air pollutants such as nitrogen monoxide and carbon monoxide. Installing a certain device in motor cars can convert these two oxides to less harmful substances.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Name this device.",
+                "subAnswer": "Catalytic converter",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "The equation for the reaction involved in the conversion is shown below:\n\n2CO(g) + 2NO(g) → 2CO<sub>2</sub>(g) + N<sub>2</sub>(g)\n\nThe standard enthalpy changes of formation of NO(g), CO(g) and CO<sub>2</sub>(g) are as follows:\n\n![](images/Topic8/dse2014-6-1778834606823-inline-subsubq-text-subsubqimg-1778834548300-6385-mp6o8ndy-7.png)\n\nCalculate the standard enthalpy change of the above reaction.",
+                "subAnswer": "ΔH<sup>o</sup> = 2(-394) - 2(-110.5) - 2(90.3)\n(1 mark for correct coefficients, 1 mark for correct signs of the terms)\n= -747.6 kJ mol<sup>-1</sup> (the answer should have correct sign and unit)",
+                "marks": 3
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T08:43:26.823Z"
     }
   ]
 }
