@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2026-05-15T06:43:07.005Z",
-    "totalQuestions": 47
+    "lastUpdated": "2026-05-15T08:19:08.388Z",
+    "totalQuestions": 48
   },
   "questions": [
     {
@@ -1852,6 +1852,69 @@
         "isEssay": true
       },
       "timestamp": "2026-05-15T06:43:02.686Z"
+    },
+    {
+      "id": "DSE2014_1_1778833137626",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 1,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Graphite is a form of carbon and has a layer structure. Graphene is an individual single layer of graphite.\nTheir structure are shown below:\n\n![](images/Topic3/dse2014-1-1778833137626-inline-q-qimg-1778832668214-4572-mp6nbpil-6244.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Thin sheets of graphene can be easily peeled off from graphite using adhesive tape.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Explain why graphene can be easily peeled off.",
+                "subAnswer": "Layers of graphite are held together by van der Waals' forces / weak intermolecular forces only.",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Explain whether graphene can conduct electricity.",
+                "subAnswer": "Yes, graphene has delocalised electrons / electrons in graphene are not localised / mobile electrons / electrons will flow.\nNot accepted: No, ...\nelectrons / sea of electrons / free electrons",
+                "marks": 1
+              },
+              {
+                "subLabel": "iii",
+                "subQuestion": "Draw the electron diagram for a molecule of the compound formed by complete combustion of graphene, showing electrons in the outermost shells only.",
+                "subAnswer": "\n![](images/Topic3/dse2014-1-1778833137626-inline-s-simg-1778832811896-5027-mp6nbse5-1159.png)\n\n(Accept any symbols of electrons, ignore shape)\nNot accepted: Showing electrons in the inner shells.",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Based on the fact that graphene can be easily peeled off from graphite, a student concluded that graphite should have a low melting point due to its layer structure. Explain whether you agree with this conclusion.",
+            "subAnswer": "No. Graphene layers are made up of a giant covalent structure.\nA large amount of energy is needed during melting to destroy the large amount of strong covalent bonds between atoms.\nNot accepted. Yes, ...",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Fullerene (such as C<sub>60</sub> is another form of carbon. Briefly describe the structure of C<sub>60</sub>, and suggest why it is soluble in some organic solvents.",
+            "subAnswer": "C<sub>60</sub> has a spherical shape (ball) / and with strong covalent bonds between atoms.\nC<sub>60</sub> has a simple molecular structure.\nThe van der Waals' forces / attractive forces between C<sub>60</sub> molecules are of comparable / similar strength as those in organic solvents.",
+            "marks": 3
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T08:18:57.626Z"
     }
   ]
 }
