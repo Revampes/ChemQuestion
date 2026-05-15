@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-15T09:35:26.928Z",
-    "totalQuestions": 73
+    "lastUpdated": "2026-05-15T09:53:13.686Z",
+    "totalQuestions": 74
   },
   "questions": [
     {
@@ -2963,6 +2963,69 @@
         ]
       },
       "timestamp": "2026-05-15T09:35:09.777Z"
+    },
+    {
+      "id": "DSE2014_14_1778838780113",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 14,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Butter contains a small amount of the triglyceride of butanoic acid.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Draw the structure of the triglyceride of butanoic acid.",
+            "subAnswer": "\n![](images/Topic11/dse2014-14-1778838780113-inline-s-simg-1778838423842-5967-mp6qoof0-9746.png)\n",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "An organic acid Q is an isomer of butanoic acid. State the systematic name of Q.",
+            "subAnswer": "methylpropanoic acid (2-methylpropanoic acid)",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "The structure of Z, another isomer of butanoic acid, is shown below:\n\n![](images/Topic11/dse2014-14-1778838780113-inline-subq-text-subqimg-1778838518136-3093-mp6qor7m-9708.png)\n",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Using '*', label ALL chiral centre(s) in the above structure of Z.",
+                "subAnswer": "\n![](images/Topic11/dse2014-14-1778838780113-inline-s-simg-1778838570886-1955-mp6qoq2k-5450.png)\n",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Suggest a chemical test to show how to distinguish between Q and Z.",
+                "subAnswer": "Correct chemical reagent\nCorrect observations with comparison between the tests on Q and Z\n\nPossible tests and the corresponding observations:\n\nCr<sub>2</sub>O<sub>7</sub><sup>2-</sup> / H<sup>+</sup>\nObservations: Q – no change; Z – from orange to green\n\nMnO<sub>4</sub><sup>-</sup> / H<sup>+</sup>\nObservations: Q – no change; Z – from purple to colourless\n\nMnO<sub>4</sub><sup>-</sup> / OH<sup>-</sup>\nObservations: Q – no change; Z – formation of brown ppt.\n\n2,4-DNP\nObservations: Q – no change; Z – formation of orange ppt.\n\nCH<sub>3</sub>CH<sub>2</sub>OH / H<sup>+</sup> / heat\nObservations: Q – fruity smell compound formed; Z – no change.\n\nCH<sub>3</sub>COOH / H<sup>+</sup> / heat\nObservations: Q – no change; Z – fruity smell compound formed.\n\nCO<sub>3</sub><sup>2-</sup>\nObservations: Q – formation of gas (CO<sub>2</sub>); Z – no change\n\nHCO<sub>3</sub><sup>-</sup>\nObservations: Q – formation of gas (CO<sub>2</sub>); Z – no change\n\n(also accept other reasonable chemical tests with correct observations stated. E.g. use of suitable acid-base indicators (litmus) or suitable metal (Mg))\n(not accept using physical methods or using inappropriate metals (K, Na))\n\n2,4-DNP = 2,4-dinitrophenylhydrazine",
+                "marks": 2
+              }
+            ]
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "Margarine, a butter substitute, can be made from vegetable oils. What chemical reaction is involved in the production of margarine from vegetable oils?",
+            "subAnswer": "(Catalytic) hydrogenation / addition of hydrogen",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T09:53:00.113Z"
     }
   ]
 }
