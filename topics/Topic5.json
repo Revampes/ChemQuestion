@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2026-05-15T08:44:38.550Z",
-    "totalQuestions": 40
+    "lastUpdated": "2026-05-15T15:27:46.126Z",
+    "totalQuestions": 41
   },
   "questions": [
     {
@@ -1601,6 +1601,75 @@
         ]
       },
       "timestamp": "2026-05-15T08:43:26.823Z"
+    },
+    {
+      "id": "DSE2015_6_1778858859997",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 6,
+      "type": "Structural question",
+      "marks": 4,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "The steps involved in the reaction of methane with bromine forming CH<sub>3</sub>Br can be shown by the following diagram. Only electrons in the outermost shells are shown.\n\n![](images/Topic5/dse2015-6-1778858859997-inline-q-qimg-1778858673515-6528-mp72mzyr-7147.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Name the type of the reaction for the formation of CH<sub>3</sub>Br from methane and bromine.",
+            "subAnswer": "substitution reaction",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "State the condition needed for the reaction to occur.",
+            "subAnswer": "Light / hν / ultra-violet / UV / heat / radical initiator",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "State the expected observation for the reaction.",
+            "subAnswer": "Orange / brown colour fades away. / Orange / brown colour changes to colourless slowly.",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "With reference to its electronic structure, explain why the species Br<b>·</b> has a high reactivity.",
+            "subAnswer": "Br atom does not have the stable noble gas electronic configuration. / \nBr atom does not have the stable octet electronic configuration. / \nThe electronic configuration of Br atom does not fulfill the octet rule.",
+            "marks": 1
+          },
+          {
+            "subLabel": "e",
+            "subQuestion": "The reaction of methane with bromine can also form other single-carbon-containing organic compounds.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Suggest one such compound.",
+                "subAnswer": "CH<sub>2</sub>Br<sub>2</sub> / CHBr<sub>3</sub> / CBr<sub>4</sub>",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Suggest a condition so that the reaction of methane produces mainly CH<sub>3</sub>Br but less other organic compounds.",
+                "subAnswer": "Use large excess amount of CH<sub>4</sub>. / Br<sub>2</sub> is the limiting reactant.",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T15:27:39.997Z"
     }
   ]
 }
