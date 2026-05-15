@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-15T15:21:04.209Z",
-    "totalQuestions": 68
+    "lastUpdated": "2026-05-15T15:33:13.950Z",
+    "totalQuestions": 69
   },
   "questions": [
     {
@@ -2855,6 +2855,73 @@
         ]
       },
       "timestamp": "2026-05-15T15:21:00.156Z"
+    },
+    {
+      "id": "DSE2017_7_1778859185706",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2017",
+      "questionNumber": 7,
+      "type": "Structural question",
+      "marks": 8,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Refer to the set-up for electroplating an object shown in the diagram below.\n\n![](images/Topic7/dse2017-7-1778859185706-inline-q-qimg-1778858965616-2698-mp72u0qi-1751.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Explain why oily dints on the object should be removed before electroplating.",
+            "subAnswer": "Oily dirt hinders the conduction of electricity / hinders the plating of copper on the object.",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Copper(II) sulphate is an electrolyte. What is meant by the term 'electrolyte'?",
+            "subAnswer": "Electrolyte is a compound that conducts electricity when melted or dissolved in water. /\nElectrolyte is a substance that consists of mobile ions when melted or dissolved in water. /\nElectrolyte is a substance that undergoes decomposition when electricity is passing through it.",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "List ALL the ions existing in the solution.",
+            "subAnswer": "Cu<sup>2+</sup>, SO<sub>4</sub><sup>2-</sup>, H<sup>+</sup>, OH<sup>-</sup>",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "Explain why copper(II) ions are preferentially discharged during the electroplating process.",
+            "subAnswer": "Copper(II) ion has higher oxidising power than hydrogen ion. /\nCopper(II) ion undergoes reduction more readily than hydrogen ion.",
+            "marks": 1
+          },
+          {
+            "subLabel": "e",
+            "subQuestion": "Write the half equation of the change that occurs at the anode.",
+            "subAnswer": "Cu → Cu<sup>2+</sup> + 2e<sup>-</sup>",
+            "marks": 1
+          },
+          {
+            "subLabel": "f",
+            "subQuestion": "State the observable change, if any, in the solution during the electroplating process.",
+            "subAnswer": "No observable change",
+            "marks": 1
+          },
+          {
+            "subLabel": "g",
+            "subQuestion": "It is known that 2.28 x 10<sup>22</sup> electrons have passed through the external circuit during the electroplating process. Calculate the mass of copper that would theoretically be plated on the object.\n(Relative atomic mass: Cu = 63.5; Avogadro's constant = 6.02 x 10<sup>23</sup> mol<sup>-1</sup>)",
+            "subAnswer": "Number of mole of electrons involved = 2.28 x 10<sup>22</sup> / 6.02 x 10<sup>23</sup> = 0.0379\nMass of copper formed = 0.0379 x 63.5 / 2 = 1.20 (g)",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T15:33:05.706Z"
     }
   ]
 }
