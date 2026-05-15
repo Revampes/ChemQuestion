@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-15T06:51:05.944Z",
-    "totalQuestions": 71
+    "lastUpdated": "2026-05-15T06:57:48.680Z",
+    "totalQuestions": 72
   },
   "questions": [
     {
@@ -2845,6 +2845,55 @@
         ]
       },
       "timestamp": "2026-05-15T06:50:51.966Z"
+    },
+    {
+      "id": "DSE2013_15_1778828258597",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 15,
+      "type": "Structural question",
+      "marks": 6,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Consider the conversions of organic compounds shown below:\n\n![](images/Topic11/dse2013-15-1778828258597-inline-q-qimg-1778827917840-8459-mp6kf4w3-7385.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Suggest a chemical test to distinguish between X and Y.",
+            "subAnswer": "Possible chemical tests and the corresponding observations:\nCr<sub>2</sub>O<sub>7</sub><sup>2-</sup>/H<sup>+</sup> Observations: X – no change; Y – from orange to green\nMnO<sub>4</sub><sup>-</sup>/H<sup>+</sup> Observations: X – no change; Y – from purple to colourless\nMnO<sub>4</sub><sup>-</sup>/OH<sup>-</sup> Observations: X – no change; Y – brown precipitate formed\n2,4-DNP Observations: X – formation of orange precipitate.; Y – no change\nCH<sub>3</sub>COOH/H<sup>+</sup> / heat Observations: X – no change; Y – fruity smell substance formed\n\n(2,4-DNP = 2,4-dinitrophenylhydrazine)",
+            "marks": 2
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Suggest what reagent R might be.",
+            "subAnswer": "LiAlH<sub>4</sub> / NaBH<sub>4</sub>",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "The mixture Z contains two alkenes with the same structural formula. Draw the respective structures of these two alkenes, and state their isomeric relationship",
+            "subAnswer": "\n![](images/Topic11/dse2013-15-1778828258597-inline-s-simg-1778828172233-2942-mp6kf7be-2488.png)\n\nGeometrical isomerism / cis/trans-isomerism\n",
+            "marks": 2
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "The alkenes in (c) can react with HCl to form an optically active chloroalkane. Write the structural formula of this choloroalkane.",
+            "subAnswer": "CH<sub>3</sub>CHClCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T06:57:38.597Z"
     }
   ]
 }
