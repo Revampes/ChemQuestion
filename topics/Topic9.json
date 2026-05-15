@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 9: Rate of Reaction",
-    "lastUpdated": "2026-05-15T06:09:40.178Z",
-    "totalQuestions": 26
+    "lastUpdated": "2026-05-15T09:18:39.139Z",
+    "totalQuestions": 27
   },
   "questions": [
     {
@@ -1046,6 +1046,29 @@
         ]
       },
       "timestamp": "2026-05-15T06:09:23.320Z"
+    },
+    {
+      "id": "DSE2014_10_1778836712888",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 10,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "You are provided with common laboratory apparatus, calcium carbonate and 1M hydrochloric acid. \nOutline how you would perform a fair comparison in studying the effect of different concentration of acid on the rate of production of carbon dioxide from the following reaction:\n\nCaCO<sub>3</sub>(s) + 2HCl(aq) → CaCl<sub>2</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g)",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "Proper way to follow the progress of the reaction (e.g. measure the volume of CO<sub>2</sub> evolved /\nmeasure the loss in mass of the reaction mixture over a certain time interval /\nmeasure the pressure of the CO<sub>2</sub> formed in a sealed reaction vessel.)\n(accept graphical representation)(no communication mark if no description about \"time\")\nDilute 1M HCl to different concentrations by adding water.\nRepeat the experiment with the diluted HCl\nState one requirement for carrying out fair comparison (e.g. CaCO<sub>3</sub> used should be of the same amount / under same experimental conditions such as same temperature or pressure)\nCommunication mark",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-15T09:18:32.888Z"
     }
   ]
 }
