@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-15T06:57:48.680Z",
-    "totalQuestions": 72
+    "lastUpdated": "2026-05-15T09:35:26.928Z",
+    "totalQuestions": 73
   },
   "questions": [
     {
@@ -2894,6 +2894,75 @@
         ]
       },
       "timestamp": "2026-05-15T06:57:38.597Z"
+    },
+    {
+      "id": "DSE2014_12_1778837709777",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 12,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "Benzamide, benzoic acid and benzyl bromide are commonly used organic compounds. Their structures are shown below:\n\n![](images/Topic11/dse2014-12-1778837709777-inline-q-qimg-1778837279697-5536-mp6q1o9d-9310.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "In an experiment, benzoic acid is prepared from benzamide in two steps:\n\nStep 1 : Benzamid is added to excess 1M NaOH(aq) and the mixture is heated gently. An organic compound X is formed.\n\nStep 2 : The resulting mixture is then treated with reagent Y until no more solid benzoic acid is given out.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Name the type of reaction involved in Step 1.",
+                "subAnswer": "(alkaline) hydrolysis",
+                "marks": null
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Draw the structure of X.",
+                "subAnswer": "\n![](images/Topic11/dse2014-12-1778837709777-inline-s-simg-1778837510652-6213-mp6q1uhx-5174.png)\n",
+                "marks": null
+              },
+              {
+                "subLabel": "iii",
+                "subQuestion": "Suggest what Y would be.",
+                "subAnswer": "HCl(aq) / H<sub>2</sub>SO<sub>4</sub>(aq) (accept other reasonable strong acids; not accept H<sup>+</sup>",
+                "marks": null
+              },
+              {
+                "subLabel": "iv",
+                "subQuestion": "Suggest why X is more soluble than benzoic acid in water.",
+                "subAnswer": "X (sodium benzoate) is an ionic compound which has strong(er) interactions with water. / Benzoic acid exists as molecules which as weak(er) intermolcular interactions with water.\nX is an ionic compound while benzoic acid exists as molecules.",
+                "marks": null
+              },
+              {
+                "subLabel": "v",
+                "subQuestion": "Describe briefly how a dry benzoic acid sample can be obtained after Step 2.",
+                "subAnswer": "Filter the mixture to obtain the solid benzoic acid. Wash it with deionised water and then dry in oven. (not accept mixing with drying agents) (not accept evaporation or crystallisation before filtration)",
+                "marks": null
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Outline a synthetic route, with no more than three steps, to accomplish the conversion of benzoic acid to benzyl bromide. For each step, give the reagent(s), reaction condition (as appropriate) and structure of the organic product.",
+            "subAnswer": "\n![](images/Topic11/dse2014-12-1778837709777-inline-s-simg-1778837650281-5933-mp6q1vt0-3580.png)\n\n![](images/Topic11/dse2014-12-1778837709777-inline-s-simg-1778837663363-5304-mp6q1x81-2198.png)\n\nCorrect reagent for each step in the coversion\nIntermediate (C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH)",
+            "marks": 3
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T09:35:09.777Z"
     }
   ]
 }
