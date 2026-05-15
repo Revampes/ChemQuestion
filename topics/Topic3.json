@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2026-05-15T13:02:35.999Z",
-    "totalQuestions": 50
+    "lastUpdated": "2026-05-15T15:13:54.734Z",
+    "totalQuestions": 51
   },
   "questions": [
     {
@@ -1981,6 +1981,75 @@
         ]
       },
       "timestamp": "2026-05-15T13:02:20.576Z"
+    },
+    {
+      "id": "DSE2015_3_1778858023430",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 3,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Aluminium and iron are commonly used construction materials.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Suggest why iron was used earlier than aluminium in history.",
+            "subAnswer": "Iron is less reactive than aluminium.",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "A compound contains iron and oxygen only. In an experiment for determining the empirical formula of this compound, 2.31 g of the compound was heated with carbon monoxide. Upon complete reaction, carbon dioxide and 1.67 g of iron were formed.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Calculate the empirical formula of this compound.",
+                "subAnswer": "\n![](images/Topic3/dse2015-3-1778858023430-inline-s-simg-1778857710944-1993-mp7254gs-3322.png)\n",
+                "marks": 2
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Write the chemical equation for the reaction involved in the experiment.",
+                "subAnswer": "Fe<sub>3</sub>O<sub>4</sub>(s) + 4CO(g) → 3Fe(s) + 4CO<sub>2</sub>(g)",
+                "marks": 1
+              },
+              {
+                "subLabel": "iii",
+                "subQuestion": "As carbon monoxide is poisonous, suggest one necessary safety precaution in carrying out the experiment.",
+                "subAnswer": "Perform the experiment in a fume cupboard.",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Explain why a galvanised iron object does not easily rust even if the zinc layer is broken.",
+            "subAnswer": "Zn is more reactive / a stronger reducing agent than Fe.\nFor galvanised iron object with the zinc layer broken, iron will be protected from corrosion as zinc will be preferentially oxidised.",
+            "marks": 2
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "Explain why anodisation can prevent aluminium objects from corrosion.",
+            "subAnswer": "The surface of the aluminium object is oxidised to Al<sub>2</sub>O<sub>3</sub>(s) / aluminium oxide.\nAl<sub>2</sub>O<sub>3</sub>(s) is impermeable to water / oxygen, thus corrosion of aluminium is inhibited.",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T15:13:43.430Z"
     }
   ]
 }
