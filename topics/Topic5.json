@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2026-05-15T08:21:48.325Z",
-    "totalQuestions": 38
+    "lastUpdated": "2026-05-15T08:30:56.666Z",
+    "totalQuestions": 39
   },
   "questions": [
     {
@@ -1460,6 +1460,75 @@
         "isEssay": true
       },
       "timestamp": "2026-05-15T08:21:42.729Z"
+    },
+    {
+      "id": "DSE2014_3_1778833847611",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 3,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Both polyethene (PE) and 'Saran' can be used to make food wrap, but 'Saran' is more suitable than PE in making food wrap for use in microwave ovens.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "The monomer of PE is ethene. Suggest a chemical test to show that ethene is an unsaturated compound.",
+            "subAnswer": "Add in Br<sub>2</sub>(aq) or Br<sub>2</sub>(organic solvent) / acidified KMnO<sub>4</sub>(aq) / neutral or alkaline KMnO<sub>4</sub>(aq).\nReddish brown or brown or orange Br<sub>2</sub>(aq) decolourised or becomes colourless (paler)\n/ Purple KMnO<sub>4</sub>(aq) decolourised or becomes colourless (paler)\n/ Purple KMnO<sub>4</sub>(aq) becomes brown\nNot accepted: yellow Br<sub>2</sub>(aq), Br<sub>2</sub>, Bromine, Br<sub>2</sub>(g), Br<sub>2</sub>(l), ...",
+            "marks": 2
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "'Saran' can be formed from the polymerisation of the compound shown below:\n\n![](images/Topic5/dse2014-3-1778833847611-inline-subq-text-subqimg-1778833586459-8048-mp6nqz1i-8190.png)\n",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "State the systematic name of this compound.",
+                "subAnswer": "1-1-dichloroethene",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Name the type of polymerisation involved in forming 'Saran'.",
+                "subAnswer": "addition (polymerisation)\nNot accepted: additional polymerisation",
+                "marks": 1
+              },
+              {
+                "subLabel": "iii",
+                "subQuestion": "Draw the structure of 'Saran', showing at least THREE repeating units.",
+                "subAnswer": "\n![](images/Topic5/dse2014-3-1778833847611-inline-s-simg-1778833706870-4702-mp6nqx6j-1127.png)\n",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "In terms of intermolecular force, explain why 'Saran' is more suitable than PE in making food wrap for use in microwave ovens.",
+            "subAnswer": "‘Saran’ is more heat resistant / has a higher melting temperature / is less soluble in oil because the polar attraction (force) between ‘Saran’ polymer chains is stronger than that between PE / the molecular sizes of ‘Saran’ are larger, hence it has a larger dispersion force or van der Waal’s forces or intermolecular forces than that in PE.",
+            "marks": 2
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "When incinerated, why would food wrap made from 'Saran' cause more serious pollution problem than food wrap made from PE?",
+            "subAnswer": "Incineration of food wrap made from ‘Saran’ will produce toxic gases / harmful gases / dioxins / hydrogen chloride / HCl / chlorine / Cl<sub>2</sub>, while that made from PE will not.",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T08:30:47.611Z"
     }
   ]
 }
