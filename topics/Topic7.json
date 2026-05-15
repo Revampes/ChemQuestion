@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-15T09:01:59.589Z",
-    "totalQuestions": 65
+    "lastUpdated": "2026-05-15T09:11:51.559Z",
+    "totalQuestions": 66
   },
   "questions": [
     {
@@ -2690,6 +2690,71 @@
         ]
       },
       "timestamp": "2026-05-15T09:01:46.411Z"
+    },
+    {
+      "id": "DSE2014_9_1778836307641",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 9,
+      "type": "Structural question",
+      "marks": 0,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "Consider each of the experiements below and answer the questions that follow.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Dilute sodium hydroxide solution is added to copper(II) sulphate solution.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "State the expected observation.",
+                "subAnswer": "A blue precipitate is obtained.",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Write the chemical equation for the reaction that occurs.",
+                "subAnswer": "Cu<sup>2+</sup>(aq) + 2OH<sup>-</sup>(aq) → Cu(OH)<sub>2</sub>(s) / CuSO<sub>4</sub> + 2NaOH → Cu(OH)<sub>2</sub> + Na<sub>2</sub>SO<sub>4</sub>\n\n(State symbols are not required)",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Acidified potassium permanganate solution is added to sodium sulphite solution.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "State the expected colour change.",
+                "subAnswer": "Purple acidified potassium permanganate solution is decolourised / turns into colourless / turns into pale pink",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "For the reaction leading to the colour change.\n(1) state the name of the type of reaction; and\n(2) write the ionic equation for the reaction.",
+                "subAnswer": "(1) Redox / reduction (of acidified potassium permanganate) / oxidation-reduction\n(2) 2MnO<sub>4</sub><sup>-</sup>(aq) + 5SO<sub>3</sub><sup>2-</sup>(aq) + 6H<sup>+</sup>(aq) → 2Mn<sup>2+</sup>(aq) + 5SO<sub>4</sub><sup>2-</sup>(aq) + 3H<sub>2</sub>O(l) (State symbols are not requried)",
+                "marks": 2
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T09:11:47.641Z"
     }
   ]
 }
