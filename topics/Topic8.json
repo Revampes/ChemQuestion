@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 8: Chemical Reactions and Energy",
-    "lastUpdated": "2026-05-15T08:44:41.547Z",
-    "totalQuestions": 26
+    "lastUpdated": "2026-05-15T15:39:32.788Z",
+    "totalQuestions": 27
   },
   "questions": [
     {
@@ -1102,6 +1102,69 @@
         ]
       },
       "timestamp": "2026-05-15T08:43:26.823Z"
+    },
+    {
+      "id": "DSE2015_8_1778859559009",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 8,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "question": "Natural gas is an important energy source for electricity generation. It contains mainly methane (CH<sub>4</sub>).",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Write the general formula of the molecules in the homologous series that methane belongs to.",
+            "subAnswer": "C<sub>n</sub>H<sub>2n+2</sub>",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "The combustion of methane is an exothermic reaction. Its chemical equation is shown below:\n\nCH<sub>4</sub>(g) + 2O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2H<sub>2</sub>O(l)",
+            "subAnswer": "\n",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Complete the table below by stating all the covalent bond(s) that are broken and formed during the combustion of methane.\n\n![](images/Topic8/dse2015-8-1778859559009-inline-subsubq-text-subsubqimg-1778859448801-1505-mp7325ct-5111.png)\n",
+                "subAnswer": "\n![](images/Topic8/dse2015-8-1778859559009-inline-s-simg-1778859547000-2862-mp7323f0-8790.png)\n",
+                "marks": 2
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Suggest why the combustion is exothermic in terms of the breaking and forming of covalent bonds.",
+                "subAnswer": "The total energy released in the bond forming process is larger than the total energy absorbed in the bond breaking process.",
+                "marks": 1
+              },
+              {
+                "subLabel": "iii",
+                "subQuestion": "Calculate the standard enthalpy change of combustion of methane.\n(Standard enthalpy changes of formation:\nCH<sub>4</sub>(g) = -74.8 kJ mol<sup>-1</sup>; CO<sub>2</sub>(g) = -393.5 kJ mol<sup>-1</sup>; H<sub>2</sub>O(l) = -285.9 kJ mol<sup>-1</sup>)",
+                "subAnswer": "ΔH<sub>c</sub><sup>o</sup> = ΔH<sub>f</sub><sup>o</sup> [CO<sub>2</sub>(g)] + 2ΔH<sub>f</sub><sup>o</sup> [H<sub>2</sub>O(l)] - ΔH<sub>f</sub><sup>o</sup> [CH<sub>4</sub>(g)]\n= (-393.5) + 2(-285.9) - (-74.8)\n= -890.5 (kJ mol<sup>-1</sup>)",
+                "marks": 2
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Some regions tend to generate electricity more by natural gas but less by coal. Give TWO reasons from environmental protection consideration.",
+            "subAnswer": "Natural gas burns more completely but coal does not. / Burning coal would produce soot / carbon monoxide but burning natural gas would not.\nCompared with natural gas, coal contains more impurities. / Burning coal would produce more pollutants, such as SO<sub>2</sub>, metal compound dust.",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T15:39:19.009Z"
     }
   ]
 }
