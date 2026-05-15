@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2026-05-15T08:19:08.388Z",
-    "totalQuestions": 48
+    "lastUpdated": "2026-05-15T08:33:50.175Z",
+    "totalQuestions": 49
   },
   "questions": [
     {
@@ -1915,6 +1915,29 @@
         ]
       },
       "timestamp": "2026-05-15T08:18:57.626Z"
+    },
+    {
+      "id": "DSE2014_4_1778834026213",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 4,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "With reference to the methods of obtaining copper, magnesium and silver from their oxides, deduce the order of reactivity of these three metals.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "By heating oxide of silver directly, silver can be obtained, while copper and magnesium cannot be obtained by similar method.\n\nBy heating with charcoal / carbon / hydrogen/ carbon monoxide/ town gas, oxide of copper can be reduced to copper, while magnesium cannot be obtained by similar method.\n\nMagnesium can only be obtained by electrolysis of its oxide in molten state.\n\nAs more stable is the metal oxide, the more reactive is the metal. So, the order of reactivity is:\n\nmagnesium > copper > silver\n\nCommunication mark (demonstrate the ability to deduce the answer)",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-15T08:33:46.213Z"
     }
   ]
 }
