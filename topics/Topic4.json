@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2026-05-15T08:54:52.776Z",
-    "totalQuestions": 59
+    "lastUpdated": "2026-05-15T15:22:56.409Z",
+    "totalQuestions": 60
   },
   "questions": [
     {
@@ -2397,6 +2397,29 @@
         ]
       },
       "timestamp": "2026-05-15T08:54:46.895Z"
+    },
+    {
+      "id": "DSE2015_5_1778858570706",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 5,
+      "type": "Structural question",
+      "marks": 6,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Explain, with the aid of a chemical equation, why NH<sub>3</sub>(aq) is regarded as a weak alkali. Suggest how you would show that NH<sub>3</sub>(aq) is a weaker alkali than NaOH(aq) through an experiment.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "Equation: NH<sub>3</sub> + H<sub>2</sub>O ⇌ NH<sub>4</sub><sup>+</sup> + OH<sup>-</sup>\nExplanation: Ammonia ionises / dissociates slightly in water. / The ionisation / dissociation of ammonia in water is incomplete.\n\nMethod: Measure respectively the pH / electrical conductivity / enthalpy change of neutralisation / temperature rise in neutralisation of both NH<sub>3</sub>(aq) and NaOH(aq).\nObservation: pH / electrical conductivity / enthalpy change of neutralisation / temperature rise in neutralisation of NH<sub>3</sub>(aq) is lower than that of NaOH(aq).\n\nFair comparison:\npH – same concentration of NH<sub>3</sub>(aq) and NaOH(aq)\nelectrical conductivity – same concentration of NH<sub>3</sub>(aq) and NaOH(aq)\nenthalpy change of neutralisation – same amount of NH<sub>3</sub>(aq) and NaOH(aq)\ntemperature rise in neutralisation – same volume and concentration of NH<sub>3</sub>(aq) and NaOH(aq)\n\nCommunication mark",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-15T15:22:50.706Z"
     }
   ]
 }
