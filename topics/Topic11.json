@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-15T09:53:13.686Z",
-    "totalQuestions": 74
+    "lastUpdated": "2026-05-15T15:58:30.565Z",
+    "totalQuestions": 75
   },
   "questions": [
     {
@@ -3026,6 +3026,29 @@
         ]
       },
       "timestamp": "2026-05-15T09:53:00.113Z"
+    },
+    {
+      "id": "DSE2015_12_1778860701177",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 12,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "You are provided with\n![](images/Topic11/dse2015-12-1778860701177-inline-q-qimg-1778860625249-948-mp73qg4n-2113.png)\n,inorganic reagents and organic solvents.\n\nOutline a synthetic route, with no more than three steps, to obtain the following compound:\n\n![](images/Topic11/dse2015-12-1778860701177-inline-q-qimg-1778860651285-4668-mp73qhd3-9994.png)\n\nFor each step, give the reagent(s), reaction conditions (as appropriate) and structure of the organic product.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "\n![](images/Topic11/dse2015-12-1778860701177-inline-s-simg-1778860698980-44-mp73qiie-7793.png)\n",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-15T15:58:21.177Z"
     }
   ]
 }
