@@ -1,7 +1,7 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-15T15:58:30.565Z",
+    "lastUpdated": "2026-05-15T16:00:16.829Z",
     "totalQuestions": 75
   },
   "questions": [
@@ -3028,27 +3028,27 @@
       "timestamp": "2026-05-15T09:53:00.113Z"
     },
     {
-      "id": "DSE2015_12_1778860701177",
+      "id": "DSE2015_13_1778860811125",
       "source": "DSE",
       "paper": "1B",
       "year": "2015",
-      "questionNumber": 12,
+      "questionNumber": 13,
       "type": "Structural question",
-      "marks": 3,
+      "marks": 5,
       "topics": [
         "Topic 11: Chemistry of Carbon Compounds"
       ],
-      "question": "You are provided with\n![](images/Topic11/dse2015-12-1778860701177-inline-q-qimg-1778860625249-948-mp73qg4n-2113.png)\n,inorganic reagents and organic solvents.\n\nOutline a synthetic route, with no more than three steps, to obtain the following compound:\n\n![](images/Topic11/dse2015-12-1778860701177-inline-q-qimg-1778860651285-4668-mp73qhd3-9994.png)\n\nFor each step, give the reagent(s), reaction conditions (as appropriate) and structure of the organic product.",
+      "question": "Using C<sub>2</sub>H<sub>5</sub>CH(OH)CH<sub>3</sub> as an example, write a paragraph to illustrate 'enantiomerism'. Suitable diagram(s) should be included in your answer.",
       "image": null,
       "options": null,
       "correctOption": null,
       "structuralAnswer": {
-        "fullAnswer": "\n![](images/Topic11/dse2015-12-1778860701177-inline-s-simg-1778860698980-44-mp73qiie-7793.png)\n",
+        "fullAnswer": "\n![](images/Topic11/dse2015-13-1778860811125-inline-s-simg-1778860770908-9343-mp73st6n-2480.png)\n\nChiral centre\nNon-superimposable on its mirror image\nOptically acitve\nCommunication mark",
         "image": null,
         "keywords": [],
         "isEssay": true
       },
-      "timestamp": "2026-05-15T15:58:21.177Z"
+      "timestamp": "2026-05-15T16:00:11.125Z"
     }
   ]
 }
