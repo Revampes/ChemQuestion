@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 9: Rate of Reaction",
-    "lastUpdated": "2026-05-13T07:26:16.208Z",
-    "totalQuestions": 25
+    "lastUpdated": "2026-05-15T06:09:40.178Z",
+    "totalQuestions": 26
   },
   "questions": [
     {
@@ -983,6 +983,69 @@
         ]
       },
       "timestamp": "2026-05-13T07:26:06.475Z"
+    },
+    {
+      "id": "DSE2013_11_1778825363320",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 11,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Safety airbags are important devices installed in vehicles. During a serious car crash, the chemicals in the airbag immediately react to release a large amount of gas. An airbag hence inflates instantly, protecting the passenger. The main chemicals in safety airbags are sodium azide (NaN<sub>3</sub>) and potassium nitrate (KNO<sub>3</sub>). The equations below show the reactions involved when an airbag is inflated:\n\n2NaN<sub>3</sub>(s) → 2Na(s) + 3N<sub>2</sub>(g)\n\n10Na(s) + 2KNO<sub>3</sub>(s) → K<sub>2</sub>O(s) + 5Na<sub>2</sub>O(s) + N<sub>2</sub>(g)",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Explain why the NaN<sub>3</sub>(s) and KNO<sub>3</sub>(s) used in the airbags are in the form of fine powder.",
+            "subAnswer": "The airbag has to be inflated instantly when a car crash occurs. Fine powder can greatly increase the reaction rate by providing a large surface area for a reaction involving solid reactants.",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "An airbag contains 100.0 g of NaN<sub>3</sub>(s) and 200.0 g of KNO<sub>3</sub>(s). Calculate the theoretical volume, measured at room temperature and pressure, of the gas produced when the bag is inflated.\n(Formula masses: NaN<sub>3</sub> = 65.0, KNO<sub>3</sub> = 101.1;\nmolar volume of gas at room temperature and pressure = 24 dm<sup>3</sup>)",
+            "subAnswer": "No. of mole of N<sub>2</sub> produced from the decomposition of NaN<sub>3</sub> (reaction 1)\n= (100/65) × (3/2) = 2.31\n\nNo. of mole of N<sub>2</sub> produced from the reaction of Na with KNO<sub>3</sub> (reaction 2):\n100 ÷ 65 = 1.54\n\n(No. of mole of KNO<sub>3</sub>) = 200/101.1 = 1.98\n\nSince 5 mol of Na react with 1 mol of KNO<sub>3</sub>, KNO<sub>3</sub> is in excess.\n\nNo. of mole of N<sub>2</sub> produced from reaction 2: (100/65) × (1/10) = 0.154\n\nVolume of gas produced = (2.31 + 0.154) × 24 = 59.1 dm<sup>3</sup>",
+            "marks": 3
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "The main function of NaN<sub>3</sub>(s) is to produce N<sub>2</sub>(g) for inflating the airbags. Suggest why it is necessary to include KNO<sub>3</sub>(s) in the airbags.",
+            "subAnswer": "KNO<sub>3</sub> is added to react with sodium which is highly reactive / corrosive / flammable / strongly reducing.",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "Sodium azide is a toxic chemical. Thus any NaN<sub>3</sub> waste remained during the manufacture of safety airbags needs special treatment before disposal. The treatment involves first dissolving NaN<sub>3</sub> in water, and then reacting the solution formed with excess nitrous acid, HNO<sub>2</sub>(aq). The graph below shows the variation of the concentration of NaN<sub>3</sub>(aq) in the reaction mixture with time in one such process:\n\n![](images/Topic9/dse2013-11-1778825363320-inline-subq-text-subqimg-1778825312997-4900-mp6ip9wq-2152.png)\n",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Calculate the average rate of consumption of NaN<sub>3</sub>(aq) in the first 10 seconds.",
+                "subAnswer": "(0.01 - 0.005) / 10 = 0.0005 mol dm<sup>-3</sup> s<sup>-1</sup>\n(5.0 × 10<sup>-4</sup> mol dm<sup>-3</sup> s<sup>-1</sup>)",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Suggest how the instantaneous rate of consumption of NaN<sub>3</sub>(aq) at the 10th second can be determined from the graph.",
+                "subAnswer": "Determine the slope of the tangent of curve at t = 10 s.",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T06:09:23.320Z"
     }
   ]
 }
