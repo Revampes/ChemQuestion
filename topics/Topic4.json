@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2026-05-15T08:36:08.510Z",
-    "totalQuestions": 58
+    "lastUpdated": "2026-05-15T08:54:52.776Z",
+    "totalQuestions": 59
   },
   "questions": [
     {
@@ -2340,6 +2340,63 @@
         ]
       },
       "timestamp": "2026-05-15T08:36:04.298Z"
+    },
+    {
+      "id": "DSE2014_7_1778835286895",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 7,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "A bottle of concentrated hydrochloric acid HCl(aq) is shown below:\n\n![](images/Topic4/dse2014-7-1778835286895-inline-q-qimg-1778834798304-2173-mp6olqqm-5354.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "According to the information on the label, calculate the concentration of the concentrated hydrochloric acid in mol dm<sup>-3</sup>",
+            "subAnswer": "Mass of HCl present in 1000 cm<sup>3</sup> of the concentrated acid = 1180 x 36% = 425 g\nFormula mass of HCl = 36.5\nConcentration = 425 / 36.5 = 11.6 mol dm<sup>-3</sup> (M) (Accept 11.5 – 11.644, 12, not accept 12.0)\n(Accept answer without unit) (NOT accept wrong unit) (accept maximum 3 decimal places)",
+            "marks": 2
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "To find out the concentration of the concentrated acid, a laboratory technician first drew from the bottle a sample of 10.00 cm<sup>3</sup> of the concentrated acid and diluted it to 100.0 cm<sup>3</sup> in a volumetric flask. The diluted acid sample was then used to titrate a standard sodium carbonate solution placed in a conical flask using methyl orange as an indicator. 10.00 cm<sup>3</sup> of 1.06 mol dm<sup>-3</sup> sodium carbonate solution required 20.30 cm<sup>3</sup> of the diluted acid sample to reach the end point.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Briefly describe the procedure in preparing a standard sodium carbonate solution.",
+                "subAnswer": "Weigh accurately the amount of sodium carbonate needed and dissolve it using deionised water / distilled water. (accept using \"a known amount of sodium carbonate\"; not accept if state \"water\" only)\n\nTransfer all the solution made to a volumetric flask, add deionised water to the graduation mark of the flask, and mix the content thoroughly.",
+                "marks": 2
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Using the titration result, calculate the concentration, in mol dm<sup>-3</sup>, of the concentrated hydrochloric acid in the bottle.",
+                "subAnswer": "No. of mole of H<sup>+</sup> present in the diluted acid = 1.06 × (10/1000) × 2\n= 0.0212\nConcentration of the acid in the bottle = 0.0212 / (20.30/1000) × 10\n= 10.4 mol dm<sup>-3</sup> (M)\n(Accept answer without unit) (NOT accept wrong unit)\n(accept maximum 3 decimal places)",
+                "marks": 3
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Suggest a possible reason why the concentration of the concentrated hydrochloric acid in the bottle obtained from (b)(ii) would be smaller than that obtained from (a) above.",
+            "subAnswer": "Some HCl escaped / vaporised from the concentrated acid as HCl(g) / (Concentrated hydrochloric acid is volatile.)",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T08:54:46.895Z"
     }
   ]
 }
