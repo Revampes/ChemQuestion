@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 12: Patterns in the Chemical World",
-    "lastUpdated": "2026-05-13T08:25:36.621Z",
-    "totalQuestions": 19
+    "lastUpdated": "2026-05-15T09:27:07.323Z",
+    "totalQuestions": 20
   },
   "questions": [
     {
@@ -749,6 +749,57 @@
         ]
       },
       "timestamp": "2026-05-13T08:25:32.833Z"
+    },
+    {
+      "id": "DSE2014_11_1778837221171",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 11,
+      "type": "Structural question",
+      "marks": 1,
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "question": "Vanadium is a transition metal, its chemical symbol is V. The formulae and the colours of three aqueous vanadium-containing ions are shown below:\n\n![](images/Topic12/dse2014-11-1778837221171-inline-q-qimg-1778836809546-8308-mp6pr75f-4364.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "Based on the given information, suggest TWO properties of vanadium to characterise it as a transition metal.",
+            "subAnswer": "Vanadium exhibits variable oxidation numbers and its ions in aqueous solutions carry colours.",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Vanadium also forms the ion VO<sub>2</sub><sup>+</sup>(aq). In the presence of acid, 1.0 mol of VO<sub>2</sub><sup>+</sup>(aq) ions and 1.0 mol of SO<sub>2</sub>(g) react completely to form SO<sub>4</sub><sup>2-</sup>(aq) ions and one of the above aqueous vanadium-containing ions.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "By considering the amount of electrons transferred, deduce the final colour of the solution obtained.",
+                "subAnswer": "1 (mol of) VO<sub>2</sub><sup>+</sup>(aq) ions gains 2 (mol of) electrons from 1 (mol of) SO<sub>2</sub>(g) to become 1 (mol of) V<sup>3+</sup>(aq).\nV<sup>3+</sup> is green in colour.",
+                "marks": 2
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Write a chemical equation for the reaction in (i).",
+                "subAnswer": "SO<sub>2</sub>(g) + VO<sub>2</sub><sup>+</sup>(aq) → SO<sub>4</sub><sup>2-</sup>(aq) + V<sup>3+</sup>(aq) (State symbols are not required)",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T09:27:01.171Z"
     }
   ]
 }
