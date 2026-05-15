@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 5: Fossil fuels and Carbon Compounds",
-    "lastUpdated": "2026-05-14T18:05:39.712Z",
-    "totalQuestions": 37
+    "lastUpdated": "2026-05-15T08:21:48.325Z",
+    "totalQuestions": 38
   },
   "questions": [
     {
@@ -1437,6 +1437,29 @@
         "isEssay": true
       },
       "timestamp": "2026-05-14T18:05:34.947Z"
+    },
+    {
+      "id": "DSE2014_2_1778833302729",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 2,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 5: Fossil fuels and Carbon Compounds"
+      ],
+      "question": "Draw the structure of ehtane-1,2-diol, and suggest whether it is soluble in water.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "\n![](images/Topic5/dse2014-2-1778833302729-inline-s-simg-1778833235515-1978-mp6nf7ry-698.png)\n\n(Accept conensed or skeletal structural formula)\n\nIt has a small molecular size. / It is a small molecule. / It has a short carbon chain.\nThe hydroxyl groups in it can form hydrogen bonds with water.\nNot accepted: It has a small size. / It has two hydroxyl groups.",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-15T08:21:42.729Z"
     }
   ]
 }
