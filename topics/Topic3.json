@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 3: Metals",
-    "lastUpdated": "2026-05-14T18:14:06.873Z",
-    "totalQuestions": 46
+    "lastUpdated": "2026-05-15T06:43:07.005Z",
+    "totalQuestions": 47
   },
   "questions": [
     {
@@ -1829,6 +1829,29 @@
         ]
       },
       "timestamp": "2026-05-14T18:13:58.377Z"
+    },
+    {
+      "id": "DSE2013_13_1778827382686",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 13,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "question": "Lithium, beryllium, carbon (graphite) and nitrogen are elements of the second period of the Periodic Table. Arrange them in increasing order of melting point, and explain the order in terms of structure and bonding.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "<u>Nitrogen < Lithium < Beryllium < Carbon (graphite)</u>\n\nN<sub>2</sub> has the lowest melting point as it has a simple molecular structure, only weak van der Waals’ forces / intermolecular forces need to be overcome in melting.\n\nBoth Li and Be have metallic structure, metallic bond in Li is weaker than that in Be. So Li < Be in melting points.\n\nC has the highest melting point as it has a giant covalent structure, large amount of energy is needed to break millions of strong covalent bonds between atoms in melting.\n\nCommunication mark",
+        "image": null,
+        "keywords": [],
+        "isEssay": true
+      },
+      "timestamp": "2026-05-15T06:43:02.686Z"
     }
   ]
 }
