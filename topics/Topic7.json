@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-14T18:17:00.569Z",
-    "totalQuestions": 63
+    "lastUpdated": "2026-05-15T09:01:59.589Z",
+    "totalQuestions": 65
   },
   "questions": [
     {
@@ -2613,6 +2613,83 @@
         ]
       },
       "timestamp": "2026-05-14T18:22:31.864Z"
+    },
+    {
+      "id": "DSE2014_8_1778835706411",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 8,
+      "type": "Structural question",
+      "marks": 2,
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "question": "The diagram below shows a set-up in which electrons are flowing through the electric wires. Moreover, one of the electrodes in beaker A is forming ions.\n\n![](images/Topic7/dse2014-8-1778835706411-inline-q-qimg-1778835535042-8956-mp6our12-5798.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "State an expected observation at each of the following electrodes:",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "electrode W",
+                "subAnswer": "The electrode dissolves / becomes smaller / becomes thinner gradually.",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "electrode X",
+                "subAnswer": "(Colourless) bubbles / gas are given out.",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Write the half equation for the expected change at each of the following electrodes:",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "electrode Y",
+                "subAnswer": "4OH<sup>-</sup> → 2H<sub>2</sub>O + O<sub>2</sub> + 4e<sup>-</sup>",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "electrode Z",
+                "subAnswer": "Ag<sup>+</sup> + e<sup>-</sup> → Ag",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Complete the following table by filling in ‘anode’ or ‘cathode’ to describe the electrodes.\n\n![](images/Topic7/dse2014-8-1778835706411-inline-subq-text-subqimg-1778835662870-6822-mp6ouw1n-6761.png)\n",
+            "subAnswer": "\n![](images/Topic7/dse2014-8-1778835706411-inline-s-simg-1778835683581-2611-mp6ouub3-111.png)\n",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "Predict, with reason, what would happen if the MgSO<sub>4</sub>(aq) in beaker A is replaced by ethanol.",
+            "subAnswer": "Electrons would not flow through the electric wires / no observable changes on all electrodes / no reaction occurs because ethanol is not an electrolyte / cannot conduct electricity.",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T09:01:46.411Z"
     }
   ]
 }
