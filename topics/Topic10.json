@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 10: Chemical Equilibrium",
-    "lastUpdated": "2026-05-13T08:06:32.615Z",
-    "totalQuestions": 28
+    "lastUpdated": "2026-05-15T06:41:45.423Z",
+    "totalQuestions": 29
   },
   "questions": [
     {
@@ -1095,6 +1095,49 @@
         ]
       },
       "timestamp": "2026-05-13T08:06:25.076Z"
+    },
+    {
+      "id": "DSE2013_12_1778827294980",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 12,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "At 250°C, the equilibrium constant K<sub>c</sub> for the following reaction is 25 mol<sup>-1</sup> dm<sup>3</sup>.\n\nPCl<sub>5</sub>(g) + Cl<sub>2</sub>(g) ⇌ PCl<sub>3</sub>(g)\n\nA 10.0 dm<sup>3</sup> sealed container, which is maintained at 250°C, initially contains 0.50 mol of PCl<sub>5</sub>(g), 0.20 mol of Cl<sub>2</sub>(g) and 0.40 mol of PCl<sub>3</sub>(g).",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "For this system under the initial conditions, calculate its reaction quotient. Predict and explain, under the initial conditions, whether the forward reaction rate or the backward reaction rate would be greater.",
+            "subAnswer": "Reaction quotient = (0.04)/(0.05)(0.02) mol<sup>-1</sup> dm<sup>3</sup>\n= 40 mol<sup>-1</sup> dm<sup>3</sup>\n\nAs reaction quotient > K<sub>c</sub>, so backward reaction rate is greater than the forward reaction rate.",
+            "marks": 2
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Calculate the concentration of Cl<sub>2</sub>(g) when the system attains equilibrium at 250°C.",
+            "subAnswer": "At equilibrium, the concentrations are:\n[PCl<sub>5</sub>(g)] = (0.04 - y) mol dm<sup>-3</sup>\n[PCl<sub>3</sub>(g)] = (0.05 + y) mol dm<sup>-3</sup>\n[Cl<sub>2</sub>(g)] = (0.02 + y) mol dm<sup>-3</sup>\n\n(0.04 - y) / (0.05 + y)(0.02 + y) = 25\ny = 0.0052\n\nAt equilibrium, [Cl<sub>2</sub>(g)] = (0.02 + 0.0052) mol dm<sup>-3</sup> = 0.0252 mol dm<sup>-3</sup>",
+            "marks": 2
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": " 0.10 mol of Cl<sub>2</sub>(g) is added to the equilibrium mixture in (b). Sketch, in the graph below, the variation of the concentration of Cl<sub>2</sub>(g) with time until a new equilibrium is attained. (Assume that the temperature of the system remains at 250°C throughout the whole process.)\n\n![](images/Topic10/dse2013-12-1778827294980-inline-subq-text-subqimg-1778827258941-7738-mp6jujut-5778.png)\n",
+            "subAnswer": "\n![](images/Topic10/dse2013-12-1778827294980-inline-s-simg-1778827272209-4872-mp6jui86-113.png)\n",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T06:41:34.980Z"
     }
   ]
 }
