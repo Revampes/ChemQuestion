@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 4: Acids and Bases",
-    "lastUpdated": "2026-05-13T12:35:44.989Z",
-    "totalQuestions": 57
+    "lastUpdated": "2026-05-15T08:36:08.510Z",
+    "totalQuestions": 58
   },
   "questions": [
     {
@@ -2297,6 +2297,49 @@
         ]
       },
       "timestamp": "2026-05-13T12:35:37.785Z"
+    },
+    {
+      "id": "DSE2014_5_1778834164298",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 5,
+      "type": "Structural question",
+      "marks": 5,
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "question": "Concentrated acids are common reagents found in laboratories.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "State a safety measure in handling concentrated acids in laboratories.",
+            "subAnswer": "Wearing protective gloves or plastic gloves or gown or safety goggles or any suitable PPE / adding concentrated acids into water when diluting the concentrated acids / use a fume cupboard. Not accepted: maintain a good ventilation.",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Comment on the following statement:\n'All concentrated acids are strong acids.'",
+            "subAnswer": "No, the strength of an acid is not related to its concentration. Not all concentrated acids, e.g. ethanoic acid, are strong acids / use a concrete example to illustrate.\nNot accepted: Yes, ......",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Explain how concentrated sulphuric acid, concentrated nitric acid and concentrated ethanoic acid can be distinguished by using copper granules.",
+            "subAnswer": "Concentrated sulphuric acid reacts with copper to liberate a colourless gas / irritating gas / gas with characteristic smell / black solid (copper(II) oxide).\n\nConcentrated nitric acid reacts with copper to liberate a brown gas / bluish-green or blue solution.\n\nWhen concentrated ethanoic acid is added to copper granules, no observable changes occur / no reaction.\n\nNot accepted: exothermic / bluish-green or blue solution in concentrated sulphuric acid",
+            "marks": 3
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T08:36:04.298Z"
     }
   ]
 }
