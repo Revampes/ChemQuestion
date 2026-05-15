@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 10: Chemical Equilibrium",
-    "lastUpdated": "2026-05-15T06:41:45.423Z",
-    "totalQuestions": 29
+    "lastUpdated": "2026-05-15T09:45:41.352Z",
+    "totalQuestions": 30
   },
   "questions": [
     {
@@ -1138,6 +1138,57 @@
         ]
       },
       "timestamp": "2026-05-15T06:41:34.980Z"
+    },
+    {
+      "id": "DSE2014_13_1778838330689",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2014",
+      "questionNumber": 13,
+      "type": "Structural question",
+      "marks": 1,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Consider the reaction represented by the equation below:\n\n2NO(g) + O<sub>2</sub>(g) ⇌ 2NO<sub>2</sub>(g)",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "In an experiment, 1.02 mol of NO(g) and 1.29 mol of O<sub>2</sub>(g) are mixed in a 50.0 dm<sup>3</sup> closed container maintained at 980 K. When equilibrium is attained, 61.0% of NO(g) is consumed.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Calculate the equilibrium constant K<sub>c</sub> for the above reaction under the experimental conditions.",
+                "subAnswer": "\n![](images/Topic10/dse2014-13-1778838330689-inline-s-simg-1778838120546-7379-mp6qf1nk-2771.png)\n",
+                "marks": 3
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "Discuss whether K<sub>c</sub> would change if additional NO(g) is introduced into the above equilibrium mixture.",
+                "subAnswer": "No change, because K<sub>c</sub> is independent of concentration / only depends on temperature.",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "The values of K<sub>c</sub> (in appropriate unit) for this reaction at different temperatures are shown below:\n\n![](images/Topic10/dse2014-13-1778838330689-inline-subq-text-subqimg-1778838233753-7501-mp6qf3ap-2828.png)\n\nBased on the above data, deduce whether the forward reaction is exothermic or endothermic.",
+            "subAnswer": "As revealed from the data, when temperature increases, K<sub>c</sub> decreases. Therefore the forward reaction is exothermic. /\nAs higher temperature favours endothermic side of reaction, so the forward reaction is exothermic.",
+            "marks": 1
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T09:45:30.689Z"
     }
   ]
 }
