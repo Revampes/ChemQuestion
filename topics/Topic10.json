@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 10: Chemical Equilibrium",
-    "lastUpdated": "2026-05-15T09:45:41.352Z",
-    "totalQuestions": 30
+    "lastUpdated": "2026-05-15T15:55:59.936Z",
+    "totalQuestions": 31
   },
   "questions": [
     {
@@ -1189,6 +1189,63 @@
         ]
       },
       "timestamp": "2026-05-15T09:45:30.689Z"
+    },
+    {
+      "id": "DSE2015_11_1778860555170",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 11,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "question": "Refer to the following chemical equation:\n\nH<sub>2</sub>O(l) ⇌ H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) ΔH > 0\n\nUnder fixed conditions, [H<sub>2</sub>O(l)] is considered as a constant. In consideration of the definition of K<sub>c</sub>, [H<sup>+</sup>(aq)][OH<sup>-</sup>(aq)] would also be a constant.",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "The pH of an aqueous solution is defined as -log[H<sup>+</sup>(aq)]. The pH of water equals 7.0 at 298 K. Find, at this temperature, the:",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "[H<sup>+</sup>(aq)]",
+                "subAnswer": "-log[H<sup>+</sup>(aq)] = 7.0\n[H<sup>+</sup>(aq)] = 10<sup>-7</sup> mol dm<sup>-3</sup> / 10<sup>-7</sup> M",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "[H<sup>+</sup>(aq)][OH<sup>-</sup>(aq)]",
+                "subAnswer": "[OH<sup>-</sup>(aq)] = [H<sup>+</sup>(aq)] = 10<sup>-7</sup> mol dm<sup>-3</sup>\n[H<sub>3</sub>O<sup>+</sup>(aq)][OH<sup>-</sup>(aq)] = 10<sup>-7</sup> × 10<sup>-7</sup>\n= 10<sup>-14</sup> (mol<sup>2</sup> dm<sup>-6</sup>)",
+                "marks": 2
+              }
+            ]
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "[H<sub>2</sub>O(l)] equals 55.6 mol dm<sup>-3</sup> at 298 K. Suggest why [H<sub>2</sub>O(l)] is considered as a constant with reference to the values of [H<sup>+</sup>(aq)] and [OH<sup>-</sup>(aq)].",
+            "subAnswer": "Because [H<sub>2</sub>O(l)] ≫ [H<sup>+</sup>(aq)] or [OH<sup>-</sup>(aq)]",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "Explain whether the pH of water at 328 K would be less than 7.0, equal to 7.0, or greater than 7.0.",
+            "subAnswer": "The pH of water would be less than 7.\nThe dissociation of H<sub>2</sub>O(l) is endothermic. Increasing the temperature will shift the equilibrium position to the right.",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T15:55:55.170Z"
     }
   ]
 }
