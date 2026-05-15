@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 11: Chemistry of Carbon Compounds",
-    "lastUpdated": "2026-05-13T12:19:36.951Z",
-    "totalQuestions": 70
+    "lastUpdated": "2026-05-15T06:51:05.944Z",
+    "totalQuestions": 71
   },
   "questions": [
     {
@@ -2788,6 +2788,63 @@
         ]
       },
       "timestamp": "2026-05-13T12:19:28.603Z"
+    },
+    {
+      "id": "DSE2013_14_1778827851966",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2013",
+      "questionNumber": 14,
+      "type": "Structural question",
+      "marks": 3,
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "question": "An unsaturated fat F is a component of a vegetable oil. The structure of F is shown below:\n\n![](images/Topic11/dse2013-14-1778827851966-inline-q-qimg-1778827460437-1120-mp6k6fes-5203.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "State the reagents needed for converting F to a saturated fat.",
+            "subAnswer": "H<sub>2</sub>, Ni / Pd / Pt",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Vegetable oils can be used to make soap.",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Write the chemical equation involved for the formation of soap from F.",
+                "subAnswer": "\n![](images/Topic11/dse2013-14-1778827851966-inline-s-simg-1778827551381-3174-mp6k6ja7-6041.png)\n",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "In the presence of an acid, the soap formed in (i) can react with methanol to give compound G, which can be used as a biodiesel. Draw the structure of G.",
+                "subAnswer": "\n![](images/Topic11/dse2013-14-1778827851966-inline-s-simg-1778827614292-5994-mp6k6kl0-9955.png)\n",
+                "marks": 1
+              }
+            ]
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "With reference to their relative molecular masses and physical properties, explain why G can be used as a fuel for cars, but F cannot",
+            "subAnswer": "G has a smaller relative molecular mass than F, so G can be vaporised more easily than F.\nG has a smaller relative molecular mass than F, so G has a lower boiling point than F. /\n\nG has a smaller relative molecular mass than F, and so the molecular size of G is smaller than that of F. The intermolecular attraction / van der Waals’ forces between G are weaker than that between F, G can be vaporised more easily than F.\n\nG burns more completely than F.",
+            "marks": 2
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T06:50:51.966Z"
     }
   ]
 }
