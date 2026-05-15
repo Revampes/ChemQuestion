@@ -1,8 +1,8 @@
 {
   "metadata": {
     "topic": "Topic 9: Rate of Reaction",
-    "lastUpdated": "2026-05-15T09:18:39.139Z",
-    "totalQuestions": 27
+    "lastUpdated": "2026-05-15T15:48:18.935Z",
+    "totalQuestions": 28
   },
   "questions": [
     {
@@ -1069,6 +1069,75 @@
         "isEssay": true
       },
       "timestamp": "2026-05-15T09:18:32.888Z"
+    },
+    {
+      "id": "DSE2015_9_1778860083612",
+      "source": "DSE",
+      "paper": "1B",
+      "year": "2015",
+      "questionNumber": 9,
+      "type": "Structural question",
+      "marks": 6,
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "question": "Consider the reaction below:\n\n![](images/Topic9/dse2015-9-1778860083612-inline-q-qimg-1778859781837-720-mp73d7vq-1674.png)\n\nAt room temperature and pressure, a micro-scale experiment was performed using the set-up shown below in which 0.080 g of methyl oleate in an organic solvent was allowed to react with excess H<sub>2</sub>(g). The H<sub>2</sub>(g) flowed from the inverted measuring cylinder to the reacting flask through the tubing.\n\n![](images/Topic9/dse2015-9-1778860083612-inline-q-qimg-1778860078759-1872-mp73d9k4-3038.png)\n",
+      "image": null,
+      "options": null,
+      "correctOption": null,
+      "structuralAnswer": {
+        "fullAnswer": "",
+        "image": null,
+        "keywords": [],
+        "isEssay": false,
+        "subQuestions": [
+          {
+            "subLabel": "a",
+            "subQuestion": "State one advantage of conducting this reaction in a micro-scale experiment.",
+            "subAnswer": "save cost on chemicals / minimise chemical hazards / save time on carrying out experiment / reduce the consumption of chemicals / reduce chemical waste",
+            "marks": 1
+          },
+          {
+            "subLabel": "b",
+            "subQuestion": "Explain why the right end of the tubing was placed at the uppermost position of the inverted measuring cylinder.",
+            "subAnswer": "Prevent sucking back of water. / Prevent water from entering the reacting flask.",
+            "marks": 1
+          },
+          {
+            "subLabel": "c",
+            "subQuestion": "State an expected observation in the inverted measuring cylinder during the reaction.",
+            "subAnswer": "Water level inside the measuring cylinder rises. / The gas volume inside the measuring cylinder reduces.",
+            "marks": 1
+          },
+          {
+            "subLabel": "d",
+            "subQuestion": "Calculate the theoretical volume of H<sub>2</sub>(g) needed for the reaction to complete at room temperature and pressure.\n(Molar volume of gas at room temperature and pressure = 24 dm<sup>3</sup>;\nRelative molecular mass: methyl oleate = 296.0)",
+            "subAnswer": "Number of moles of methyl oleate used = 0.08 / 296 = 2.70 × 10<sup>-4</sup>\nMinimum volume of H<sub>2</sub>(g) required = (0.08 / 296) × 24000 cm<sup>3</sup> = 6.49 cm<sup>3</sup>",
+            "marks": 3
+          },
+          {
+            "subLabel": "e",
+            "subQuestion": " ",
+            "subAnswer": "",
+            "marks": 0,
+            "subQuestions": [
+              {
+                "subLabel": "i",
+                "subQuestion": "Sketch, in the graph below, the variation of the volume of H<sub>2</sub>(g) in the measuring cylinder with time from start until the completion of the reaction. You should label this sketch as 'A'. (The measuring cylinder initially contained 10.0 cm<sup>3</sup> of H<sub>2</sub>(g). The first few points have been given in the graph to facilitate the sketch.) (label the volume when the line becomes horizontal)\n\n![](images/Topic9/dse2015-9-1778860083612-inline-subsubq-text-subsubqimg-1778859993573-4974-mp73dfa5-8552.png)\n",
+                "subAnswer": "\n![](images/Topic9/dse2015-9-1778860083612-inline-s-simg-1778860039659-2814-mp73ddaz-8332.png)\n",
+                "marks": 1
+              },
+              {
+                "subLabel": "ii",
+                "subQuestion": "In the same graph above, give another sketch as required in (i) but only using 0.040 g of methyl oleate for the reaction while the other conditions remain unchanged. You should label this sketch as 'B'.",
+                "subAnswer": "Watch (e)(i).",
+                "marks": 1
+              }
+            ]
+          }
+        ]
+      },
+      "timestamp": "2026-05-15T15:48:03.612Z"
     }
   ]
 }
