@@ -1,7 +1,7 @@
 {
   "metadata": {
     "topic": "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
-    "lastUpdated": "2026-05-15T15:33:13.950Z",
+    "lastUpdated": "2026-05-15T16:05:59.428Z",
     "totalQuestions": 69
   },
   "questions": [
@@ -2859,8 +2859,8 @@
     {
       "id": "DSE2017_7_1778859185706",
       "source": "DSE",
-      "paper": "1B",
-      "year": "2017",
+      "paper": null,
+      "year": "2015",
       "questionNumber": 7,
       "type": "Structural question",
       "marks": 8,
@@ -2921,7 +2921,7 @@
           }
         ]
       },
-      "timestamp": "2026-05-15T15:33:05.706Z"
+      "timestamp": "2026-05-15T16:05:59.428Z"
     }
   ]
 }
